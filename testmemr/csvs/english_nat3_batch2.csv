@@ -1,0 +1,96 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+1,NAT Grade 3,NAT,2023,"Which sentence uses the full stop correctly?","I like rice","I like rice.","I like rice!","I like rice?",1
+1,NAT Grade 3,NAT,2023,"Which sentence uses the question mark correctly?","What is your name","What is your name?","What is your name.","What is your name!",1
+1,NAT Grade 3,NAT,2023,"Which sentence uses the exclamation mark correctly?","Wow","Wow.","Wow!","Wow?",2
+1,NAT Grade 3,NAT,2023,"Which is the correct punctuation?","Moses is my friend.","moses is my friend.","Moses is my friend","moses is my friend",0
+1,NAT Grade 3,NAT,2023,"A sentence must begin with:","A small letter","A capital letter","A number","A comma",1
+1,NAT Grade 3,NAT,2023,"Which word should be capitalised in: ""my name is fatou.""","my","name","fatou","is",2
+1,NAT Grade 3,NAT,2023,"Which word should be capitalised in: ""i live in banjul.""","live","i","in","live only",1
+1,NAT Grade 3,NAT,2023,"Where does a full stop go?","Start of sentence","End of statement","Middle of word","After every word",1
+1,NAT Grade 3,NAT,2023,"Which sentence is punctuated correctly?","where is my book?","Where is my book?","Where is my book","where is my book",1
+1,NAT Grade 3,NAT,2023,"A capital letter is used for:","Names of people","Small words","Common things only","Actions",0
+1,NAT Grade 3,NAT,2023,"Fill in: I like rice ___ fish.","and","but","or","so",0
+1,NAT Grade 3,NAT,2023,"Fill in: She is small ___ strong.","and","but","or","so",1
+1,NAT Grade 3,NAT,2023,"Fill in: Do you want tea ___ coffee?","and","but","or","so",2
+1,NAT Grade 3,NAT,2023,"Fill in: I was tired ___ I slept.","and","but","or","so",3
+1,NAT Grade 3,NAT,2023,"Fill in: He ran fast ___ he missed the bus.","and","but","or","so",1
+1,NAT Grade 3,NAT,2023,"Fill in: We ate rice ___ chicken.","and","but","or","so",0
+1,NAT Grade 3,NAT,2023,"Fill in: She sings ___ dances.","and","but","or","so",0
+1,NAT Grade 3,NAT,2023,"Fill in: The baby cried ___ it was hungry.","and","but","or","because",3
+1,NAT Grade 3,NAT,2023,"Fill in: ___ it rains, we will stay home.","If","But","Or","So",0
+1,NAT Grade 3,NAT,2023,"Fill in: He is tall ___ his brother is short.","and","but","or","so",1
+1,NAT Grade 3,NAT,2023,"Fill in: The book is ___ the table.","in","on","at","of",1
+1,NAT Grade 3,NAT,2023,"Fill in: The cat is ___ the box.","on","in","at","of",1
+1,NAT Grade 3,NAT,2023,"Fill in: We go to school ___ Monday.","in","on","at","of",1
+1,NAT Grade 3,NAT,2023,"Fill in: I wake up ___ 6 o'clock.","in","on","at","of",2
+1,NAT Grade 3,NAT,2023,"Fill in: She lives ___ Banjul.","in","on","at","of",0
+1,NAT Grade 3,NAT,2023,"Fill in: The bird is flying ___ the tree.","above","in","on","at",0
+1,NAT Grade 3,NAT,2023,"Fill in: The pen is ___ my bag.","in","above","under","over",0
+1,NAT Grade 3,NAT,2023,"Fill in: I sit ___ my friend.","beside","in","of","at",0
+1,NAT Grade 3,NAT,2023,"Fill in: The teacher stood ___ the class.","in front of","under","behind","above",0
+1,NAT Grade 3,NAT,2023,"Fill in: We walked ___ the river.","along","in","over","under",0
+1,NAT Grade 3,NAT,2023,"Fill in: I ate ___ apple.","a","an","the","some",1
+1,NAT Grade 3,NAT,2023,"Fill in: She has ___ orange.","a","an","the","some",1
+1,NAT Grade 3,NAT,2023,"Fill in: He is ___ honest boy.","a","an","the","some",1
+1,NAT Grade 3,NAT,2023,"Fill in: I saw ___ elephant.","a","an","the","some",1
+1,NAT Grade 3,NAT,2023,"Fill in: ___ sun is hot.","A","An","The","Some",2
+1,NAT Grade 3,NAT,2023,"Fill in: ___ moon is bright tonight.","A","An","The","Some",2
+1,NAT Grade 3,NAT,2023,"Fill in: I want ___ water.","a","an","some","the",2
+1,NAT Grade 3,NAT,2023,"Fill in: She bought ___ books.","a","an","some","the",2
+1,NAT Grade 3,NAT,2023,"Fill in: This is ___ pen.","a","an","some","any",0
+1,NAT Grade 3,NAT,2023,"Fill in: There is ___ egg on the plate.","a","an","some","any",1
+1,NAT Grade 3,NAT,2023,"Which word is a synonym for 'happy'?","sad","joyful","angry","tired",1
+1,NAT Grade 3,NAT,2023,"Which word is a synonym for 'big'?","small","large","thin","short",1
+1,NAT Grade 3,NAT,2023,"Which word is a synonym for 'fast'?","slow","quick","late","tired",1
+1,NAT Grade 3,NAT,2023,"Which word is a synonym for 'smart'?","clever","dull","slow","weak",0
+1,NAT Grade 3,NAT,2023,"Which word is a synonym for 'begin'?","end","start","stop","close",1
+1,NAT Grade 3,NAT,2023,"Which word is a synonym for 'silent'?","loud","quiet","noisy","lively",1
+1,NAT Grade 3,NAT,2023,"Which word is a synonym for 'pretty'?","ugly","beautiful","plain","dull",1
+1,NAT Grade 3,NAT,2023,"Which word is a synonym for 'angry'?","calm","mad","happy","glad",1
+1,NAT Grade 3,NAT,2023,"Which word is a synonym for 'cold'?","hot","chilly","warm","sunny",1
+1,NAT Grade 3,NAT,2023,"Which word is a synonym for 'brave'?","coward","bold","afraid","shy",1
+1,NAT Grade 3,NAT,2023,"Which word sounds the same as 'sea'?","see","say","so","saw",0
+1,NAT Grade 3,NAT,2023,"Which word sounds the same as 'two'?","to","tie","tea","toy",0
+1,NAT Grade 3,NAT,2023,"Which word sounds the same as 'right'?","write","rate","rot","root",0
+1,NAT Grade 3,NAT,2023,"Which word sounds the same as 'sun'?","son","sin","sin only","seen",0
+1,NAT Grade 3,NAT,2023,"Which word sounds the same as 'meat'?","meet","mate","met","myth",0
+1,NAT Grade 3,NAT,2023,"Which word sounds the same as 'buy'?","by","boy","bake","bow",0
+1,NAT Grade 3,NAT,2023,"Which word sounds the same as 'no'?","know","now","new","nice",0
+1,NAT Grade 3,NAT,2023,"Which word sounds the same as 'their'?","there","three","thin","theme",0
+1,NAT Grade 3,NAT,2023,"Which word sounds the same as 'flour'?","flower","floor","flour only","flyer",0
+1,NAT Grade 3,NAT,2023,"Which word sounds the same as 'week'?","weak","wake","wick","work",0
+1,NAT Grade 3,NAT,2023,"Passage: ""Amina has a small cat. The cat is white. It likes to play with a ball."" Question: What colour is the cat?","Black","White","Brown","Grey",1
+1,NAT Grade 3,NAT,2023,"Passage: ""Amina has a small cat. The cat is white. It likes to play with a ball."" Question: What does the cat like to play with?","A rope","A ball","A stick","A shoe",1
+1,NAT Grade 3,NAT,2023,"Passage: ""Amina has a small cat. The cat is white. It likes to play with a ball."" Question: Who owns the cat?","Fatou","Amina","Moses","Lamin",1
+1,NAT Grade 3,NAT,2023,"Passage: ""Moses went to the market. He bought rice and fish. He went home by bus."" Question: Where did Moses go?","School","Market","Farm","Church",1
+1,NAT Grade 3,NAT,2023,"Passage: ""Moses went to the market. He bought rice and fish. He went home by bus."" Question: What did Moses buy?","Bread and milk","Rice and fish","Meat and rice","Fish and bread",1
+1,NAT Grade 3,NAT,2023,"Passage: ""Moses went to the market. He bought rice and fish. He went home by bus."" Question: How did Moses go home?","By car","By bus","By bike","By foot",1
+1,NAT Grade 3,NAT,2023,"Passage: ""The sun rises in the east. It gives us light and heat. It sets in the evening."" Question: Where does the sun rise?","West","North","East","South",2
+1,NAT Grade 3,NAT,2023,"Passage: ""The sun rises in the east. It gives us light and heat. It sets in the evening."" Question: What does the sun give us?","Water","Light and heat","Rain","Wind",1
+1,NAT Grade 3,NAT,2023,"Passage: ""The sun rises in the east. It gives us light and heat. It sets in the evening."" Question: When does the sun set?","Morning","Afternoon","Evening","Midnight",2
+1,NAT Grade 3,NAT,2023,"Passage: ""Fatou is a kind girl. She helps her mother. She also helps her friends."" Question: How is Fatou described?","Rude","Kind","Lazy","Angry",1
+1,NAT Grade 3,NAT,2023,"Passage: ""Fatou is a kind girl. She helps her mother. She also helps her friends."" Question: Who does Fatou help?","Only her sister","Her mother and friends","Only her brother","No one",1
+1,NAT Grade 3,NAT,2023,"Passage: ""Fatou is a kind girl. She helps her mother. She also helps her friends."" Question: Fatou is a:","boy","girl","man","woman",1
+1,NAT Grade 3,NAT,2023,"Passage: ""The dog is man's best friend. It guards the house. It plays with the children."" Question: What does the dog do?","Sleep all day","Guard the house","Eat only","Run away",1
+1,NAT Grade 3,NAT,2023,"Passage: ""The dog is man's best friend. It guards the house. It plays with the children."" Question: Who does the dog play with?","The cat","The children","The teacher","The stranger",1
+1,NAT Grade 3,NAT,2023,"Passage: ""The dog is man's best friend. It guards the house. It plays with the children."" Question: The dog is called man's:","enemy","best friend","teacher","brother",1
+1,NAT Grade 3,NAT,2023,"Choose the correct past tense of 'go'.","goed","went","gone","going",1
+1,NAT Grade 3,NAT,2023,"Choose the correct past tense of 'eat'.","eated","ate","eaten","eating",1
+1,NAT Grade 3,NAT,2023,"Choose the correct past tense of 'see'.","seed","saw","seen","seeing",1
+1,NAT Grade 3,NAT,2023,"Choose the correct past tense of 'come'.","comed","came","come","coming",1
+1,NAT Grade 3,NAT,2023,"Choose the correct past tense of 'run'.","runned","ran","run","running",1
+1,NAT Grade 3,NAT,2023,"Choose the correct past tense of 'drink'.","drinked","drank","drunk","drinking",1
+1,NAT Grade 3,NAT,2023,"Choose the correct past tense of 'write'.","writed","wrote","written","writing",1
+1,NAT Grade 3,NAT,2023,"Choose the correct past tense of 'take'.","taked","took","taken","taking",1
+1,NAT Grade 3,NAT,2023,"Choose the correct past tense of 'give'.","gived","gave","given","giving",1
+1,NAT Grade 3,NAT,2023,"Choose the correct past tense of 'make'.","maked","made","making","makied",1
+1,NAT Grade 3,NAT,2023,"Choose the correct 'ing' form of 'run'.","runing","running","runing only","runingg",1
+1,NAT Grade 3,NAT,2023,"Choose the correct 'ing' form of 'sit'.","siting","sitting","siteing","sittin",1
+1,NAT Grade 3,NAT,2023,"Choose the correct 'ing' form of 'swim'.","swiming","swimming","swimeing","swimmin",1
+1,NAT Grade 3,NAT,2023,"Choose the correct 'ing' form of 'write'.","writeing","writing","writting","writin",1
+1,NAT Grade 3,NAT,2023,"Choose the correct 'ing' form of 'read'.","reading","readding","readeing","readin",0
+1,NAT Grade 3,NAT,2023,"Choose the correct 'ing' form of 'play'.","plaiing","playing","playying","plaing",1
+1,NAT Grade 3,NAT,2023,"Choose the correct 'ing' form of 'eat'.","eating","eatting","eateing","eatin",0
+1,NAT Grade 3,NAT,2023,"Choose the correct 'ing' form of 'sleep'.","sleeping","sleepying","sleepping","sleepin",0
+1,NAT Grade 3,NAT,2023,"Choose the correct 'ing' form of 'jump'.","jumpping","jumping","jumpeing","jumpin",1
+1,NAT Grade 3,NAT,2023,"Choose the correct 'ing' form of 'fly'.","fliing","flying","flyying","fling",1

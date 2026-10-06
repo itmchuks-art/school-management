@@ -1,0 +1,105 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+4,NAT Grade 3,NAT,2023,"Which of these is a source of energy?","Sun","Stone","Chair","Book",0
+4,NAT Grade 3,NAT,2023,"Which of these gives us vitamin D?","Moonlight","Sunlight","Lamplight","Torchlight",1
+4,NAT Grade 3,NAT,2023,"Which of these is a body part inside us?","Nose","Heart","Ear","Hair",1
+4,NAT Grade 3,NAT,2023,"How many bones does a baby have roughly at birth?","50","100","300","1000",2
+4,NAT Grade 3,NAT,2023,"Which of these makes our bones strong?","Calcium (milk)","Sugar","Salt","Oil",0
+4,NAT Grade 3,NAT,2023,"Which of these is good for our eyes?","Carrots","Sugar","Salt","Oil",0
+4,NAT Grade 3,NAT,2023,"Which of these is a dairy product?","Bread","Cheese","Rice","Fish",1
+4,NAT Grade 3,NAT,2023,"Which of these is a grain?","Rice","Fish","Milk","Orange",0
+4,NAT Grade 3,NAT,2023,"Which of these is a protein food?","Bread","Fish","Sugar","Oil",1
+4,NAT Grade 3,NAT,2023,"Which of these is a fruit?","Carrot","Banana","Potato","Onion",1
+4,NAT Grade 3,NAT,2023,"Which of these is a vegetable?","Mango","Cabbage","Apple","Orange",1
+4,NAT Grade 3,NAT,2023,"We should eat a balanced diet to:","Stay healthy","Get sick","Sleep only","Get fat",0
+4,NAT Grade 3,NAT,2023,"How many main food groups are there?","2","3","5","10",2
+4,NAT Grade 3,NAT,2023,"Which of these is a good source of energy?","Rice","Water","Salt","Air",0
+4,NAT Grade 3,NAT,2023,"Which of these is a bad habit?","Eating fruits","Smoking","Exercising","Washing hands",1
+4,NAT Grade 3,NAT,2023,"Exercise helps to:","Keep us fit","Make us sick","Sleep only","Grow taller only",0
+4,NAT Grade 3,NAT,2023,"How many hours of sleep should children get?","2 hours","4 hours","8-10 hours","20 hours",2
+4,NAT Grade 3,NAT,2023,"Which of these is a good hygiene habit?","Bathing daily","Skipping bath","Wearing dirty clothes","Biting nails",0
+4,NAT Grade 3,NAT,2023,"We should brush our teeth:","Once a month","Never","Twice a day","Once a year",2
+4,NAT Grade 3,NAT,2023,"We should cut our nails to:","Keep them long","Keep them clean","Waste time","Get sick",1
+4,NAT Grade 3,NAT,2023,"Which of these is a way to keep water clean?","Boiling","Adding mud","Adding oil","Covering with dirt",0
+4,NAT Grade 3,NAT,2023,"Which of these is safe to drink?","Boiled water","Dirty water","Salty water","Muddy water",0
+4,NAT Grade 3,NAT,2023,"Toilets should be used to:","Keep the environment clean","Spread germs","Waste water","Play",0
+4,NAT Grade 3,NAT,2023,"We should cover our mouth when:","Eating","Coughing","Walking","Reading",1
+4,NAT Grade 3,NAT,2023,"Which of these keeps food safe?","Covering it","Leaving it in the open","Touching it with dirty hands","Storing near rubbish",0
+4,NAT Grade 3,NAT,2023,"Which of these is a food preservation method?","Drying","Wetting","Heating and cooling only","Adding dirt",0
+4,NAT Grade 3,NAT,2023,"Which of these foods can spoil quickly?","Milk","Salt","Sugar","Dry rice",0
+4,NAT Grade 3,NAT,2023,"Which of these is a plant?","Mushroom","Dog","Snake","Bird",0
+4,NAT Grade 3,NAT,2023,"A plant that grows on a tree is called:","Parasite","Epiphyte","Root","Stone",1
+4,NAT Grade 3,NAT,2023,"Which of these plants gives us wood?","Tree","Grass","Flower","Weed",0
+4,NAT Grade 3,NAT,2023,"Which of these plants gives us food?","Rice plant","Stone","Sand","Water only",0
+4,NAT Grade 3,NAT,2023,"Which of these is a plant product?","Cotton","Iron","Stone","Plastic",0
+4,NAT Grade 3,NAT,2023,"Which of these is a tree with a large trunk?","Baobab","Grass","Mushroom","Fern",0
+4,NAT Grade 3,NAT,2023,"Which tree gives us mangoes?","Mango tree","Baobab","Neem","Bamboo",0
+4,NAT Grade 3,NAT,2023,"Which tree is used for medicine in The Gambia?","Neem","Stone","Sand","Water",0
+4,NAT Grade 3,NAT,2023,"Photosynthesis happens in:","Leaves","Roots","Sand","Stone",0
+4,NAT Grade 3,NAT,2023,"Plants take in carbon dioxide and give out:","Oxygen","Water","Salt","Stone",0
+4,NAT Grade 3,NAT,2023,"Which of these is a benefit of trees?","Provide shade","Cause sickness","Waste water","Kill animals",0
+4,NAT Grade 3,NAT,2023,"Which of these is a danger of deforestation?","More rain","Desertification","More trees","Cleaner air",1
+4,NAT Grade 3,NAT,2023,"A garden is a place where:","Plants grow","Cars park","Food is sold","Children play only",0
+4,NAT Grade 3,NAT,2023,"Which of these is a garden plant?","Tomato","Lion","Stone","Car",0
+4,NAT Grade 3,NAT,2023,"Which of these is a weed?","Grass growing where not wanted","Rice plant","Mango tree","Banana tree",0
+4,NAT Grade 3,NAT,2023,"A farmer is someone who:","Grows crops","Teaches","Drives","Cooks",0
+4,NAT Grade 3,NAT,2023,"A fisherman catches:","Fish","Stones","Books","Shoes",0
+4,NAT Grade 3,NAT,2023,"A hunter hunts:","Animals","Plants","Stones","Water",0
+4,NAT Grade 3,NAT,2023,"Which of these animals is a carnivore?","Cow","Lion","Goat","Hen",1
+4,NAT Grade 3,NAT,2023,"Which of these animals is an herbivore?","Lion","Cow","Dog","Cat",1
+4,NAT Grade 3,NAT,2023,"Which of these animals eats both plants and animals?","Lion","Cow","Human","Hen",2
+4,NAT Grade 3,NAT,2023,"Which animal is the largest on land?","Hippo","Elephant","Giraffe","Cow",1
+4,NAT Grade 3,NAT,2023,"Which animal is the tallest?","Elephant","Giraffe","Cow","Horse",1
+4,NAT Grade 3,NAT,2023,"Which animal is the fastest land animal?","Cheetah","Lion","Horse","Cow",0
+4,NAT Grade 3,NAT,2023,"Which animal is the biggest in the sea?","Shark","Whale","Dolphin","Octopus",1
+4,NAT Grade 3,NAT,2023,"Which bird cannot fly?","Eagle","Ostrich","Hawk","Parrot",1
+4,NAT Grade 3,NAT,2023,"Which of these is a domestic animal?","Lion","Cow","Tiger","Elephant",1
+4,NAT Grade 3,NAT,2023,"Which of these is a wild animal?","Goat","Lion","Hen","Sheep",1
+4,NAT Grade 3,NAT,2023,"Which of these animals has scales?","Dog","Fish","Cat","Cow",1
+4,NAT Grade 3,NAT,2023,"Which of these animals has feathers?","Fish","Bird","Cow","Snake",1
+4,NAT Grade 3,NAT,2023,"Which of these animals has fur?","Fish","Cat","Snake","Frog",1
+4,NAT Grade 3,NAT,2023,"Which of these animals is cold-blooded?","Cow","Snake","Human","Dog",1
+4,NAT Grade 3,NAT,2023,"Which of these animals is warm-blooded?","Fish","Dog","Snake","Lizard",1
+4,NAT Grade 3,NAT,2023,"What do we call animals that live in water?","Aquatic","Terrestrial","Aerial","Arboreal",0
+4,NAT Grade 3,NAT,2023,"What do we call animals that live on land?","Aquatic","Terrestrial","Aerial","Marine",1
+4,NAT Grade 3,NAT,2023,"Which of these animals lives in trees?","Monkey","Fish","Crocodile","Whale",0
+4,NAT Grade 3,NAT,2023,"Which animal is known as man's best friend?","Cat","Dog","Cow","Goat",1
+4,NAT Grade 3,NAT,2023,"Which animal is used for transport in rural areas?","Donkey","Tiger","Lion","Fish",0
+4,NAT Grade 3,NAT,2023,"Which of these is a pet animal?","Lion","Cat","Elephant","Tiger",1
+4,NAT Grade 3,NAT,2023,"Where do bees live?","Nest","Hive","Burrow","Cave",1
+4,NAT Grade 3,NAT,2023,"Where do rabbits live?","Hive","Burrow","Nest","Cave",1
+4,NAT Grade 3,NAT,2023,"Where do fish live?","Water","Land","Trees","Air only",0
+4,NAT Grade 3,NAT,2023,"Where do birds live?","Water","Nest","Hive","Burrow",1
+4,NAT Grade 3,NAT,2023,"Which animal lives in a cave?","Bat","Cow","Hen","Goat",0
+4,NAT Grade 3,NAT,2023,"The sun is a:","Planet","Star","Moon","Comet",1
+4,NAT Grade 3,NAT,2023,"The moon is a:","Star","Planet","Natural satellite","Comet",2
+4,NAT Grade 3,NAT,2023,"How many planets are in our solar system?","5","7","8","10",2
+4,NAT Grade 3,NAT,2023,"Which planet do we live on?","Mars","Earth","Venus","Jupiter",1
+4,NAT Grade 3,NAT,2023,"Which planet is closest to the sun?","Earth","Mercury","Venus","Mars",1
+4,NAT Grade 3,NAT,2023,"Which is the largest planet?","Saturn","Jupiter","Earth","Mars",1
+4,NAT Grade 3,NAT,2023,"What is the shape of the earth?","Flat","Round/spherical","Square","Triangle",1
+4,NAT Grade 3,NAT,2023,"What causes day and night?","Moon moves","Earth rotates","Sun moves","Wind blows",1
+4,NAT Grade 3,NAT,2023,"How many seasons are there in a year in The Gambia?","1","2","4","6",1
+4,NAT Grade 3,NAT,2023,"What is the main rainy month in The Gambia?","January","August","December","March",1
+4,NAT Grade 3,NAT,2023,"Which of these is a natural disaster?","Drought","Market day","School","Farm",0
+4,NAT Grade 3,NAT,2023,"What should you do during a storm?","Stay indoors","Go outside","Swim in the river","Climb a tree",0
+4,NAT Grade 3,NAT,2023,"A very strong wind is called:","Breeze","Storm","Sunshine","Drizzle",1
+4,NAT Grade 3,NAT,2023,"Which of these does the wind do?","Blow","Speak","Write","Read",0
+4,NAT Grade 3,NAT,2023,"When the sun shines on water, the water becomes:","Steam (vapour)","Ice","Stone","Sand",0
+4,NAT Grade 3,NAT,2023,"Rainwater collects in:","Rivers and lakes","Stones","Trees","Fire",0
+4,NAT Grade 3,NAT,2023,"Which of these is a river in The Gambia?","River Gambia","River Nile","River Congo","River Amazon",0
+4,NAT Grade 3,NAT,2023,"Which ocean borders The Gambia?","Atlantic","Pacific","Indian","Arctic",0
+4,NAT Grade 3,NAT,2023,"The capital city of The Gambia is:","Serekunda","Banjul","Brikama","Basse",1
+4,NAT Grade 3,NAT,2023,"Which crop is grown in swamps in The Gambia?","Rice","Wheat","Barley","Cotton",0
+4,NAT Grade 3,NAT,2023,"Which animal is a common farm animal in The Gambia?","Cow","Penguin","Camel","Reindeer",0
+4,NAT Grade 3,NAT,2023,"Which of these is a common tree in The Gambia?","Baobab","Pine","Oak","Maple",0
+4,NAT Grade 3,NAT,2023,"What do we call the person who studies the stars?","Biologist","Astronomer","Chemist","Geologist",1
+4,NAT Grade 3,NAT,2023,"What do we call the person who studies plants?","Botanist","Geologist","Astronomer","Chemist",0
+4,NAT Grade 3,NAT,2023,"What do we call the person who studies animals?","Zoologist","Botanist","Astronomer","Chemist",0
+4,NAT Grade 3,NAT,2023,"What do we call the person who studies the weather?","Meteorologist","Botanist","Chef","Driver",0
+4,NAT Grade 3,NAT,2023,"What should we do with rubbish?","Throw in bin","Throw in river","Throw on street","Burn in house",0
+4,NAT Grade 3,NAT,2023,"Recycling means:","Reusing materials","Throwing away","Burning","Burying",0
+4,NAT Grade 3,NAT,2023,"Which of these can be recycled?","Plastic bottle","Food waste","Old battery","Used tissue",0
+4,NAT Grade 3,NAT,2023,"Which of these should NOT be thrown in a river?","Clean water","Plastic waste","Fish","Water plants",1
+4,NAT Grade 3,NAT,2023,"A safe place to cross a road is:","Anywhere","A zebra crossing","Between cars","On a bend",1
+4,NAT Grade 3,NAT,2023,"Before crossing the road, we should:","Run fast","Look left and right","Close our eyes","Jump",1
+4,NAT Grade 3,NAT,2023,"Which of these keeps us safe from fire?","Playing with matches","Keeping away from fire","Pouring petrol near fire","Standing near flames",1

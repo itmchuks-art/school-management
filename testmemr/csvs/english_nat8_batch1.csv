@@ -1,0 +1,116 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+9,NAT Grade 8,NAT,2024,"Choose the correct plural of 'crisis'.","crisises","crises","crisi","crisis",1
+9,NAT Grade 8,NAT,2024,"Choose the correct plural of 'phenomenon'.","phenomenons","phenomena","phenomenae","phenomen",1
+9,NAT Grade 8,NAT,2024,"Choose the correct plural of 'datum'.","datums","data","datae","datas",1
+9,NAT Grade 8,NAT,2024,"Choose the correct plural of 'medium'.","mediums","media","mediae","medias",1
+9,NAT Grade 8,NAT,2024,"Choose the correct plural of 'index'.","indexes only","indices","indexi","index",1
+9,NAT Grade 8,NAT,2024,"Choose the correct plural of 'formula'.","formulas only","formulae","formulai","formul",1
+9,NAT Grade 8,NAT,2024,"Choose the correct plural of 'analysis'.","analysises","analyses","analysi","analys",1
+9,NAT Grade 8,NAT,2024,"Choose the correct plural of 'bacterium'.","bacteriums","bacteria","bacteriae","bacterias",1
+9,NAT Grade 8,NAT,2024,"Choose the correct plural of 'parenthesis'.","parenthesises","parentheses","parenthesi","parenthes",1
+9,NAT Grade 8,NAT,2024,"Choose the correct plural of 'curriculum'.","curriculums only","curricula","curriculae","curricul",1
+9,NAT Grade 8,NAT,2024,"The synonym of 'benevolent' is:","cruel","kind","angry","sad",1
+9,NAT Grade 8,NAT,2024,"The synonym of 'meticulous' is:","careless","careful","hasty","random",1
+9,NAT Grade 8,NAT,2024,"The synonym of 'candid' is:","deceitful","honest","shy","silent",1
+9,NAT Grade 8,NAT,2024,"The synonym of 'obsolete' is:","modern","outdated","fashionable","new",1
+9,NAT Grade 8,NAT,2024,"The synonym of 'tenacious' is:","weak","persistent","lazy","timid",1
+9,NAT Grade 8,NAT,2024,"The synonym of 'lucid' is:","confusing","clear","dark","vague",1
+9,NAT Grade 8,NAT,2024,"The synonym of 'frugal' is:","wasteful","thrifty","generous","reckless",1
+9,NAT Grade 8,NAT,2024,"The synonym of 'arduous' is:","easy","difficult","short","calm",1
+9,NAT Grade 8,NAT,2024,"The synonym of 'vivid' is:","dull","bright","plain","weak",1
+9,NAT Grade 8,NAT,2024,"The synonym of 'resilient' is:","fragile","tough","weak","sick",1
+9,NAT Grade 8,NAT,2024,"The antonym of 'generous' is:","kind","stingy","giving","helpful",1
+9,NAT Grade 8,NAT,2024,"The antonym of 'humble' is:","modest","arrogant","simple","quiet",1
+9,NAT Grade 8,NAT,2024,"The antonym of 'transparent' is:","clear","opaque","visible","open",1
+9,NAT Grade 8,NAT,2024,"The antonym of 'abundant' is:","plenty","scarce","rich","many",1
+9,NAT Grade 8,NAT,2024,"The antonym of 'frequent' is:","often","rare","regular","always",1
+9,NAT Grade 8,NAT,2024,"The antonym of 'expand' is:","grow","contract","swell","enlarge",1
+9,NAT Grade 8,NAT,2024,"The antonym of 'courage' is:","bravery","cowardice","strength","power",1
+9,NAT Grade 8,NAT,2024,"The antonym of 'ascend' is:","rise","descend","climb","soar",1
+9,NAT Grade 8,NAT,2024,"The antonym of 'victory' is:","triumph","defeat","win","success",1
+9,NAT Grade 8,NAT,2024,"The antonym of 'permanent' is:","lasting","temporary","stable","fixed",1
+9,NAT Grade 8,NAT,2024,"Choose the correct spelling.","accommodation","accomodation","acommodation","accomodattion",0
+9,NAT Grade 8,NAT,2024,"Choose the correct spelling.","embarrass","embarass","embarras","embbaras",0
+9,NAT Grade 8,NAT,2024,"Choose the correct spelling.","necessary","neccessary","necesary","necessery",0
+9,NAT Grade 8,NAT,2024,"Choose the correct spelling.","rhythm","rythm","rhythem","rythem",0
+9,NAT Grade 8,NAT,2024,"Choose the correct spelling.","millennium","milennium","millenium","milenium",0
+9,NAT Grade 8,NAT,2024,"Choose the correct spelling.","separate","seperate","seperete","seperat",0
+9,NAT Grade 8,NAT,2024,"Choose the correct spelling.","definitely","definately","definitly","definetly",0
+9,NAT Grade 8,NAT,2024,"Choose the correct spelling.","argument","arguement","argumant","arguemant",0
+9,NAT Grade 8,NAT,2024,"Choose the correct spelling.","category","catagory","catigory","catergory",0
+9,NAT Grade 8,NAT,2024,"Choose the correct spelling.","government","goverment","governmant","govenment",0
+9,NAT Grade 8,NAT,2024,"Identify the part of speech: ""The teacher spoke softly.""","teacher","spoke","softly","The",2
+9,NAT Grade 8,NAT,2024,"Identify the part of speech: ""She is very intelligent.""","She","is","very","intelligent",2
+9,NAT Grade 8,NAT,2024,"Identify the part of speech: ""We went to the market.""","went","to","market","the",1
+9,NAT Grade 8,NAT,2024,"Identify the part of speech: ""Wow! That's amazing.""","Wow","That","is","amazing",0
+9,NAT Grade 8,NAT,2024,"Identify the part of speech: ""He runs quickly.""","He","runs","quickly","all",2
+9,NAT Grade 8,NAT,2024,"Identify the clause type: ""I know that he is coming.""","Independent","Noun clause","Adjective clause","Adverb clause",1
+9,NAT Grade 8,NAT,2024,"Identify the clause type: ""The man who came is my uncle.""","Independent","Noun clause","Adjective clause","Adverb clause",2
+9,NAT Grade 8,NAT,2024,"Identify the clause type: ""We left when it rained.""","Independent","Noun clause","Adjective clause","Adverb clause",3
+9,NAT Grade 8,NAT,2024,"A phrase is:","A group of words with a subject and verb","A group of words without a subject-verb pair","A single word","A sentence",1
+9,NAT Grade 8,NAT,2024,"A clause is:","A group of words with a subject and verb","A group of words only","A single word","Two words",0
+9,NAT Grade 8,NAT,2024,"Change to passive: ""The boy kicked the ball.""","The ball was kicked by the boy.","The ball is kicked by the boy.","The ball kicked the boy.","The boy was kicked by the ball.",0
+9,NAT Grade 8,NAT,2024,"Change to passive: ""She has written a letter.""","A letter has been written by her.","A letter was written by her.","A letter is written by her.","A letter had been written by her.",0
+9,NAT Grade 8,NAT,2024,"Change to passive: ""They will finish the project.""","The project will be finished by them.","The project will finish.","The project is finished.","The project was finished.",0
+9,NAT Grade 8,NAT,2024,"Change to active: ""The cake was baked by mother.""","Mother baked the cake.","Mother bakes the cake.","Mother is baking the cake.","Mother has baked the cake.",0
+9,NAT Grade 8,NAT,2024,"Change to active: ""The letter is being written by John.""","John is writing the letter.","John writes the letter.","John wrote the letter.","John has written the letter.",0
+9,NAT Grade 8,NAT,2024,"Direct → Indirect: ""I will come tomorrow,"" said John.","John said he would come the next day.","John said he will come tomorrow.","John said he comes tomorrow.","John says he came the next day.",0
+9,NAT Grade 8,NAT,2024,"Direct → Indirect: ""Where are you going?"" asked mother.","Mother asked where I was going.","Mother asked where are you going.","Mother asked where I am going.","Mother asks where I was going.",0
+9,NAT Grade 8,NAT,2024,"Direct → Indirect: She said, ""I am tired.""","She said she was tired.","She said she is tired.","She says she was tired.","She said I was tired.",0
+9,NAT Grade 8,NAT,2024,"Direct → Indirect: The teacher said, ""Open your books.""","The teacher told us to open our books.","The teacher said to open books.","The teacher said open your books.","The teacher told opening books.",0
+9,NAT Grade 8,NAT,2024,"Direct → Indirect: ""Don't touch that!"" she warned.","She warned us not to touch that.","She warned don't touch that.","She said don't touch that.","She warned us to touch that.",0
+9,NAT Grade 8,NAT,2024,"Which sentence is in the future perfect tense?","I will finish.","I will have finished by noon.","I finished.","I am finishing.",1
+9,NAT Grade 8,NAT,2024,"Which sentence is in the past perfect tense?","I had finished before he came.","I finished yesterday.","I have finished.","I will finish.",0
+9,NAT Grade 8,NAT,2024,"Which sentence is in the present continuous tense?","I am reading a book.","I read a book.","I have read a book.","I will read.",0
+9,NAT Grade 8,NAT,2024,"Which sentence is in the present perfect tense?","I have visited Banjul.","I visit Banjul.","I visited Banjul.","I am visiting Banjul.",0
+9,NAT Grade 8,NAT,2024,"Change to past tense: ""I go to school.""","I went to school.","I have gone to school.","I am going to school.","I had gone to school.",0
+9,NAT Grade 8,NAT,2024,"Choose the correct conditional: If I ___ rich, I would travel.","am","was","were","be",2
+9,NAT Grade 8,NAT,2024,"Choose the correct conditional: If it rains, we ___ stay home.","will","would","did","had",0
+9,NAT Grade 8,NAT,2024,"Choose the correct conditional: If I had studied, I ___ passed.","will have","would have","did","have",1
+9,NAT Grade 8,NAT,2024,"Which is a compound sentence?","I like tea.","I like tea and coffee.","I like tea, and she likes coffee.","Because I like tea.",2
+9,NAT Grade 8,NAT,2024,"Which is a complex sentence?","I like tea.","I like tea and coffee.","Although I was tired, I finished the work.","I like tea; she likes coffee.",2
+9,NAT Grade 8,NAT,2024,"Which is a simple sentence?","The boy ran.","The boy ran and the girl walked.","Although the boy ran, he was late.","The boy ran; the girl walked.",0
+9,NAT Grade 8,NAT,2024,"Which is a compound-complex sentence?","The boy ran.","The boy ran and the girl walked.","Although it was raining, the boy ran, and the girl walked.","The boy ran; the girl walked.",2
+9,NAT Grade 8,NAT,2024,"The main idea of a paragraph is:","The first sentence only","The central point the paragraph makes","The last sentence","Any sentence",1
+9,NAT Grade 8,NAT,2024,"A topic sentence:","Introduces the main idea of a paragraph","Ends a paragraph","Is a question","Is unimportant",0
+9,NAT Grade 8,NAT,2024,"Supporting sentences:","Give details or examples","Contradict the main idea","Are unrelated","Are always questions",0
+9,NAT Grade 8,NAT,2024,"A conclusion:","Summarises the main points","Introduces new ideas only","Is the same as a topic sentence","Is unnecessary",0
+9,NAT Grade 8,NAT,2024,"Passage: ""Kunta Kinteh was captured in The Gambia and taken to America as a slave. Despite the hardship, he never forgot his homeland. His story has inspired millions around the world."" Q: Where was Kunta Kinteh captured?","America","The Gambia","Europe","Asia",1
+9,NAT Grade 8,NAT,2024,"Passage: ""Kunta Kinteh was captured in The Gambia and taken to America as a slave. Despite the hardship, he never forgot his homeland. His story has inspired millions around the world."" Q: What did Kunta Kinteh never forget?","His wealth","His homeland","His family","His farm",1
+9,NAT Grade 8,NAT,2024,"Passage: ""Kunta Kinteh was captured in The Gambia and taken to America as a slave. Despite the hardship, he never forgot his homeland. His story has inspired millions around the world."" Q: The word ""inspired"" means:","Discouraged","Motivated","Bored","Hurt",1
+9,NAT Grade 8,NAT,2024,"Passage: ""The Gambia River is the lifeline of the country. It provides fish, water for farming, and transport for many communities. However, pollution threatens its future."" Q: What is the Gambia River called in the passage?","The life-taker","The lifeline","The destroyer","The pollution",1
+9,NAT Grade 8,NAT,2024,"Passage: ""The Gambia River is the lifeline of the country. It provides fish, water for farming, and transport for many communities. However, pollution threatens its future."" Q: What threatens the river?","Rain","Pollution","Fish","Boats",1
+9,NAT Grade 8,NAT,2024,"Passage: ""The Gambia River is the lifeline of the country. It provides fish, water for farming, and transport for many communities. However, pollution threatens its future."" Q: Which of these does the river NOT provide?","Fish","Water","Transport","Electricity",3
+9,NAT Grade 8,NAT,2024,"Passage: ""Education is the most powerful weapon which you can use to change the world. Every child deserves the chance to learn and grow."" Q: What is described as the most powerful weapon?","Money","Education","War","Technology",1
+9,NAT Grade 8,NAT,2024,"Passage: ""Education is the most powerful weapon which you can use to change the world. Every child deserves the chance to learn and grow."" Q: Who deserves education?","Only rich children","Only boys","Every child","Only city children",2
+9,NAT Grade 8,NAT,2024,"Passage: ""Education is the most powerful weapon which you can use to change the world. Every child deserves the chance to learn and grow."" Q: What can education do?","Change the world","Destroy the world","Nothing","Only help the rich",0
+9,NAT Grade 8,NAT,2024,"Passage: ""The Harmattan wind blows from the Sahara Desert during the dry season. It brings dust and dry air, and lowers temperatures at night."" Q: Where does the Harmattan blow from?","The ocean","The Sahara Desert","The mountains","The forest",1
+9,NAT Grade 8,NAT,2024,"Passage: ""The Harmattan wind blows from the Sahara Desert during the dry season. It brings dust and dry air, and lowers temperatures at night."" Q: What does the Harmattan bring?","Rain","Dust and dry air","Snow","Heat waves",1
+9,NAT Grade 8,NAT,2024,"Passage: ""The Harmattan wind blows from the Sahara Desert during the dry season. It brings dust and dry air, and lowers temperatures at night."" Q: When does the Harmattan blow?","Wet season","Dry season","All year","Winter",1
+9,NAT Grade 8,NAT,2024,"Choose the correct article: ___ university is a place of learning.","A","An","The","Some",0
+9,NAT Grade 8,NAT,2024,"Choose the correct article: ___ hour passed before he came.","A","An","The","Some",1
+9,NAT Grade 8,NAT,2024,"Choose the correct article: She is ___ honest person.","a","an","the","some",1
+9,NAT Grade 8,NAT,2024,"Choose the correct preposition: She is good ___ mathematics.","in","at","on","of",1
+9,NAT Grade 8,NAT,2024,"Choose the correct preposition: He has been waiting ___ 2 hours.","since","for","from","in",1
+9,NAT Grade 8,NAT,2024,"Choose the correct preposition: I was born ___ 2008.","on","in","at","of",1
+9,NAT Grade 8,NAT,2024,"Choose the correct preposition: We arrived ___ the airport.","in","on","at","to",2
+9,NAT Grade 8,NAT,2024,"Choose the correct preposition: She is afraid ___ spiders.","from","of","with","by",1
+9,NAT Grade 8,NAT,2024,"Fill in: Neither John ___ Mary came to the party.","or","nor","and","but",1
+9,NAT Grade 8,NAT,2024,"Fill in: I would rather read ___ watch TV.","than","then","that","to",0
+9,NAT Grade 8,NAT,2024,"Fill in: He is taller ___ his brother.","then","than","that","from",1
+9,NAT Grade 8,NAT,2024,"Fill in: It has been raining ___ morning.","since","for","from","at",0
+9,NAT Grade 8,NAT,2024,"Fill in: We must leave ___ it gets dark.","after","before","while","when",1
+9,NAT Grade 8,NAT,2024,"Which is the correct order of adjectives?","a beautiful small old round table","a small beautiful round old table","a beautiful small round old table","a beautiful old small round table",2
+9,NAT Grade 8,NAT,2024,"Which is the correct comparative form of ""good""?","gooder","more good","better","best",2
+9,NAT Grade 8,NAT,2024,"Which is the correct superlative form of ""bad""?","badder","more bad","worst","baddest",2
+9,NAT Grade 8,NAT,2024,"Choose the correct relative pronoun: The man ___ came is my uncle.","which","who","whose","whom",1
+9,NAT Grade 8,NAT,2024,"Choose the correct relative pronoun: The book ___ I read was interesting.","who","which","whose","whom",1
+9,NAT Grade 8,NAT,2024,"Choose the correct relative pronoun: The girl ___ bag was stolen cried.","who","which","whose","whom",2
+9,NAT Grade 8,NAT,2024,"Which is a simile?","He is a lion.","He is as brave as a lion.","He roars.","He has courage.",1
+9,NAT Grade 8,NAT,2024,"Which is a metaphor?","As fast as lightning","Life is a journey","He runs quickly","The wind blows",1
+9,NAT Grade 8,NAT,2024,"Which is personification?","The wind whispered through the trees.","The wind blew.","The wind is strong.","The wind stopped.",0
+9,NAT Grade 8,NAT,2024,"Which is a hyperbole?","I ate a lot.","I ate enough to feed an army.","I ate rice.","I ate slowly.",1
+9,NAT Grade 8,NAT,2024,"Which is an onomatopoeia?","Crash!","Beautiful","Slowly","Happy",0
+9,NAT Grade 8,NAT,2024,"What does the idiom ""bite the bullet"" mean?","Chew metal","Endure a difficult situation bravely","Eat fast","Get hurt",1
+9,NAT Grade 8,NAT,2024,"What does the idiom ""under the weather"" mean?","Below the sky","Feeling ill","Standing outside","In a storm",1
+9,NAT Grade 8,NAT,2024,"What does the idiom ""a blessing in disguise"" mean?","A bad thing that seems good","Something good that seems bad at first","A hidden gift","A disguise",1

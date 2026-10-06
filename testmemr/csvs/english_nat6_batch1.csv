@@ -1,0 +1,91 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+5,NAT Grade 6,NAT,2024,"Choose the correct plural of 'leaf'.","leafs","leaves","leafes","leafies",1
+5,NAT Grade 6,NAT,2024,"Choose the correct plural of 'crisis'.","crisises","crises","crisi","crisises",1
+5,NAT Grade 6,NAT,2024,"Choose the correct plural of 'analysis'.","analysises","analyses","analysi","analys",1
+5,NAT Grade 6,NAT,2024,"Choose the correct plural of 'phenomenon'.","phenomenons","phenomena","phenomenae","phenomen",1
+5,NAT Grade 6,NAT,2024,"Choose the correct plural of 'datum'.","datums","data","datae","datas",1
+5,NAT Grade 6,NAT,2024,"Choose the correct plural of 'medium'.","mediums","media","mediae","medias",1
+5,NAT Grade 6,NAT,2024,"Choose the correct plural of 'index'.","indexes only","indices","indexi","index",1
+5,NAT Grade 6,NAT,2024,"Choose the correct plural of 'formula'.","formulas only","formulae","formulai","formul",1
+5,NAT Grade 6,NAT,2024,"Choose the correct plural of 'radius'.","radiuses","radii","radiusi","radia",1
+5,NAT Grade 6,NAT,2024,"Choose the correct plural of 'sheep'.","sheeps","sheep","sheepes","sheepies",1
+5,NAT Grade 6,NAT,2024,"Choose the correct collective noun: a ___ of lions.","herd","pride","flock","swarm",1
+5,NAT Grade 6,NAT,2024,"Choose the correct collective noun: a ___ of bees.","herd","pride","flock","swarm",3
+5,NAT Grade 6,NAT,2024,"Choose the correct collective noun: a ___ of sheep.","herd","pride","flock","swarm",2
+5,NAT Grade 6,NAT,2024,"Choose the correct collective noun: a ___ of fish.","school","pride","flock","swarm",0
+5,NAT Grade 6,NAT,2024,"Choose the correct collective noun: a ___ of stars.","herd","galaxy","flock","swarm",1
+5,NAT Grade 6,NAT,2024,"Choose the correct collective noun: a ___ of cattle.","herd","pride","flock","swarm",0
+5,NAT Grade 6,NAT,2024,"Choose the correct collective noun: a ___ of wolves.","herd","pack","flock","swarm",1
+5,NAT Grade 6,NAT,2024,"Choose the correct collective noun: a ___ of players.","herd","team","flock","swarm",1
+5,NAT Grade 6,NAT,2024,"Choose the correct collective noun: a ___ of sailors.","crew","pride","flock","swarm",0
+5,NAT Grade 6,NAT,2024,"Choose the correct collective noun: a ___ of birds.","herd","pride","flock","swarm",2
+5,NAT Grade 6,NAT,2024,"The synonym of 'ancient' is:","modern","old","new","recent",1
+5,NAT Grade 6,NAT,2024,"The synonym of 'brave' is:","cowardly","fearless","afraid","timid",1
+5,NAT Grade 6,NAT,2024,"The synonym of 'vacant' is:","full","empty","crowded","busy",1
+5,NAT Grade 6,NAT,2024,"The synonym of 'begin' is:","end","commence","stop","finish",1
+5,NAT Grade 6,NAT,2024,"The synonym of 'honest' is:","dishonest","truthful","deceitful","false",1
+5,NAT Grade 6,NAT,2024,"The synonym of 'abundant' is:","scarce","plenty","few","rare",1
+5,NAT Grade 6,NAT,2024,"The synonym of 'enormous' is:","tiny","huge","small","little",1
+5,NAT Grade 6,NAT,2024,"The synonym of 'gather' is:","scatter","collect","disperse","spread",1
+5,NAT Grade 6,NAT,2024,"The synonym of 'difficult' is:","easy","hard","simple","plain",1
+5,NAT Grade 6,NAT,2024,"The synonym of 'silent' is:","loud","quiet","noisy","rowdy",1
+5,NAT Grade 6,NAT,2024,"The antonym of 'victory' is:","win","defeat","success","triumph",1
+5,NAT Grade 6,NAT,2024,"The antonym of 'friend' is:","ally","enemy","partner","mate",1
+5,NAT Grade 6,NAT,2024,"The antonym of 'increase' is:","rise","decrease","grow","expand",1
+5,NAT Grade 6,NAT,2024,"The antonym of 'ancient' is:","old","modern","antique","aged",1
+5,NAT Grade 6,NAT,2024,"The antonym of 'careful' is:","cautious","careless","attentive","alert",1
+5,NAT Grade 6,NAT,2024,"The antonym of 'generous' is:","kind","selfish","giving","liberal",1
+5,NAT Grade 6,NAT,2024,"The antonym of 'arrive' is:","reach","depart","enter","come",1
+5,NAT Grade 6,NAT,2024,"The antonym of 'expand' is:","grow","contract","swell","enlarge",1
+5,NAT Grade 6,NAT,2024,"The antonym of 'accept' is:","receive","reject","take","admit",1
+5,NAT Grade 6,NAT,2024,"The antonym of 'permanent' is:","fixed","temporary","lasting","stable",1
+5,NAT Grade 6,NAT,2024,"Choose the correct spelling.","accomodation","accommodation","acommodation","accomodattion",1
+5,NAT Grade 6,NAT,2024,"Choose the correct spelling.","embarrass","embarass","embarras","embbaras",0
+5,NAT Grade 6,NAT,2024,"Choose the correct spelling.","occassion","occasion","ocasion","occassion",1
+5,NAT Grade 6,NAT,2024,"Choose the correct spelling.","rythm","rhythm","rhythem","rythem",1
+5,NAT Grade 6,NAT,2024,"Choose the correct spelling.","milennium","millennium","millenium","milenium",1
+5,NAT Grade 6,NAT,2024,"Choose the correct spelling.","to-morrow","tomorrow","tommorow","tomorow",1
+5,NAT Grade 6,NAT,2024,"Choose the correct spelling.","goverment","government","governmant","govenment",1
+5,NAT Grade 6,NAT,2024,"Choose the correct spelling.","arguement","argument","argumant","arguemant",1
+5,NAT Grade 6,NAT,2024,"Choose the correct spelling.","catagory","category","catigory","catergory",1
+5,NAT Grade 6,NAT,2024,"Choose the correct spelling.","definately","definitely","definitly","definetly",1
+5,NAT Grade 6,NAT,2024,"Fill in: She ___ (go) to school every day.","go","goes","going","gone",1
+5,NAT Grade 6,NAT,2024,"Fill in: They ___ (play) football yesterday.","play","plays","played","playing",2
+5,NAT Grade 6,NAT,2024,"Fill in: He ___ (do) his homework now.","does","is doing","did","done",1
+5,NAT Grade 6,NAT,2024,"Fill in: We ___ (finish) the test already.","finish","finished","have finished","finishing",2
+5,NAT Grade 6,NAT,2024,"Fill in: I ___ (see) him tomorrow.","see","saw","will see","seen",2
+5,NAT Grade 6,NAT,2024,"Fill in: She ___ (not like) mangoes.","not like","doesn't like","don't like","no like",1
+5,NAT Grade 6,NAT,2024,"Fill in: The sun ___ in the east.","rise","rises","rose","rising",1
+5,NAT Grade 6,NAT,2024,"Fill in: By the time we arrived, the film ___ already.","start","started","had started","starting",2
+5,NAT Grade 6,NAT,2024,"Fill in: I ___ reading when the phone rang.","am","was","were","be",1
+5,NAT Grade 6,NAT,2024,"Fill in: If it rains, we ___ stay home.","will","would","did","do",0
+5,NAT Grade 6,NAT,2024,"Choose the correct sentence.","He don't know the answer.","He doesn't know the answer.","He not know the answer.","He didn't knew the answer.",1
+5,NAT Grade 6,NAT,2024,"Choose the correct sentence.","Neither of the boys are here.","Neither of the boys is here.","Neither of the boys were here.","Neither of the boys been here.",1
+5,NAT Grade 6,NAT,2024,"Choose the correct sentence.","Each student have a book.","Each student has a book.","Each students have a book.","Each student having a book.",1
+5,NAT Grade 6,NAT,2024,"Choose the correct sentence.","The news are bad.","The news is bad.","The news were bad.","The news be bad.",1
+5,NAT Grade 6,NAT,2024,"Choose the correct sentence.","Mathematics are my favourite subject.","Mathematics is my favourite subject.","Mathematics were my favourite.","Mathematics be my favourite.",1
+5,NAT Grade 6,NAT,2024,"Choose the correct sentence.","Everyone have finished.","Everyone has finished.","Everyone are finished.","Everyone were finished.",1
+5,NAT Grade 6,NAT,2024,"Choose the correct sentence.","The team are winning.","The team is winning.","The team have winning.","The team winning.",1
+5,NAT Grade 6,NAT,2024,"Choose the correct sentence.","My trousers is new.","My trousers are new.","My trousers were new only.","My trouser are new.",1
+5,NAT Grade 6,NAT,2024,"Choose the correct sentence.","A number of students was absent.","A number of students were absent.","A number of students is absent.","A number of students be absent.",1
+5,NAT Grade 6,NAT,2024,"Choose the correct sentence.","Bread and butter are my breakfast.","Bread and butter is my breakfast.","Bread and butter were my breakfast.","Bread and butter be my breakfast.",1
+5,NAT Grade 6,NAT,2024,"A person who writes books is a:","publisher","author","printer","editor",1
+5,NAT Grade 6,NAT,2024,"A person who studies stars is an:","astrologer","astronomer","astronaut","archaeologist",1
+5,NAT Grade 6,NAT,2024,"A person who studies plants is a:","zoologist","botanist","geologist","chemist",1
+5,NAT Grade 6,NAT,2024,"A person who studies animals is a:","zoologist","botanist","geologist","astronomer",0
+5,NAT Grade 6,NAT,2024,"A person who studies the weather is a:","geologist","meteorologist","biologist","chemist",1
+5,NAT Grade 6,NAT,2024,"A person who studies rocks is a:","geologist","biologist","meteorologist","astronomer",0
+5,NAT Grade 6,NAT,2024,"A person who designs buildings is an:","engineer","architect","artist","builder",1
+5,NAT Grade 6,NAT,2024,"A person who studies human history is a:","historian","geologist","biologist","astronomer",0
+5,NAT Grade 6,NAT,2024,"A person who studies the human mind is a:","psychologist","physician","physicist","pharmacist",0
+5,NAT Grade 6,NAT,2024,"A person who treats sick animals is a:","physician","veterinarian","pharmacist","dentist",1
+5,NAT Grade 6,NAT,2024,"Identify the adjective: ""The tall boy runs fast.""","tall","boy","runs","fast",0
+5,NAT Grade 6,NAT,2024,"Identify the adverb: ""She sings beautifully.""","She","sings","beautifully","none",2
+5,NAT Grade 6,NAT,2024,"Identify the conjunction: ""I like tea and coffee.""","I","like","and","coffee",2
+5,NAT Grade 6,NAT,2024,"Identify the preposition: ""The cat is under the table.""","cat","is","under","table",2
+5,NAT Grade 6,NAT,2024,"Identify the pronoun: ""They went to the market.""","They","went","market","the",0
+5,NAT Grade 6,NAT,2024,"Identify the verb: ""Moses reads a book.""","Moses","reads","book","a",1
+5,NAT Grade 6,NAT,2024,"Identify the noun: ""Fatou is my best friend.""","Fatou","is","my","best",0
+5,NAT Grade 6,NAT,2024,"Identify the interjection: ""Wow! That is amazing.""","Wow","That","is","amazing",0
+5,NAT Grade 6,NAT,2024,"Identify the article: ""An apple a day keeps the doctor away.""","An","apple","day","keeps",0
+5,NAT Grade 6,NAT,2024,"Identify the proper noun: ""Banjul is the capital of The Gambia.""","Banjul","capital","country","city",0

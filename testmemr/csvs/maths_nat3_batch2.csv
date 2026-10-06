@@ -1,0 +1,96 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+2,NAT Grade 3,NAT,2023,"Which symbol means 'greater than'?","<",">","=","+",1
+2,NAT Grade 3,NAT,2023,"Which symbol means 'less than'?","<",">","=","+",0
+2,NAT Grade 3,NAT,2023,"Which symbol means 'equal to'?","<",">","=","+",2
+2,NAT Grade 3,NAT,2023,"Fill in: 7 ___ 3","<",">","=","+",1
+2,NAT Grade 3,NAT,2023,"Fill in: 4 ___ 9","<",">","=","+",0
+2,NAT Grade 3,NAT,2023,"Fill in: 5 ___ 5","<",">","=","+",2
+2,NAT Grade 3,NAT,2023,"Which is greater: 18 or 81?","18","81","Equal","Cannot tell",1
+2,NAT Grade 3,NAT,2023,"Which is smaller: 45 or 54?","45","54","Equal","Cannot tell",0
+2,NAT Grade 3,NAT,2023,"What is 5 + ___ = 10?","3","4","5","6",2
+2,NAT Grade 3,NAT,2023,"What is 8 + ___ = 15?","5","6","7","8",2
+2,NAT Grade 3,NAT,2023,"What is ___ + 4 = 9?","3","4","5","6",2
+2,NAT Grade 3,NAT,2023,"What is 12 - ___ = 8?","2","3","4","5",2
+2,NAT Grade 3,NAT,2023,"What is ___ - 3 = 7?","8","9","10","11",2
+2,NAT Grade 3,NAT,2023,"What is 5 × ___ = 20?","2","3","4","5",2
+2,NAT Grade 3,NAT,2023,"What is ___ × 3 = 12?","2","3","4","5",2
+2,NAT Grade 3,NAT,2023,"What is 15 ÷ ___ = 3?","2","3","4","5",3
+2,NAT Grade 3,NAT,2023,"What is ___ ÷ 4 = 2?","4","6","8","10",2
+2,NAT Grade 3,NAT,2023,"Complete: 2, 4, 6, 8, ___","9","10","11","12",1
+2,NAT Grade 3,NAT,2023,"Complete: 5, 10, 15, ___, 25","18","20","22","24",1
+2,NAT Grade 3,NAT,2023,"Complete: 10, 20, 30, ___, 50","35","40","45","55",1
+2,NAT Grade 3,NAT,2023,"Complete: 3, 6, 9, ___, 15","10","11","12","13",2
+2,NAT Grade 3,NAT,2023,"Complete: 1, 3, 5, 7, ___","8","9","10","11",1
+2,NAT Grade 3,NAT,2023,"Complete: 20, 19, 18, ___, 16","17","15","21","22",0
+2,NAT Grade 3,NAT,2023,"Complete: 100, 90, 80, ___, 60","70","65","75","85",0
+2,NAT Grade 3,NAT,2023,"Complete: 1, 2, 4, 8, ___","10","12","14","16",3
+2,NAT Grade 3,NAT,2023,"Complete: 7, 14, 21, ___, 35","24","26","28","30",2
+2,NAT Grade 3,NAT,2023,"What is 3 + 4 × 2?","14","11","10","9",1
+2,NAT Grade 3,NAT,2023,"What is 10 - 3 + 2?","5","6","7","9",3
+2,NAT Grade 3,NAT,2023,"What is 5 × 2 + 3?","10","11","13","16",2
+2,NAT Grade 3,NAT,2023,"What is 20 ÷ 4 + 1?","4","5","6","7",2
+2,NAT Grade 3,NAT,2023,"What is 6 + 6 - 3?","6","7","8","9",3
+2,NAT Grade 3,NAT,2023,"How many centimetres are in 1 metre?","10","50","100","1000",2
+2,NAT Grade 3,NAT,2023,"How many metres are in 1 kilometre?","10","100","1000","10000",2
+2,NAT Grade 3,NAT,2023,"How many grams are in 1 kilogram?","10","100","1000","10000",2
+2,NAT Grade 3,NAT,2023,"Which is longer?","1 cm","1 m","1 km","All same",2
+2,NAT Grade 3,NAT,2023,"Which is heavier?","1 g","1 kg","Same","Cannot tell",1
+2,NAT Grade 3,NAT,2023,"How many millilitres in 1 litre?","10","100","1000","10000",2
+2,NAT Grade 3,NAT,2023,"A pencil is about:","5 cm","15 cm","1 m","10 m",1
+2,NAT Grade 3,NAT,2023,"A door is about:","2 cm","20 cm","2 m","20 m",2
+2,NAT Grade 3,NAT,2023,"A book weighs about:","50 g","500 g","5 kg","50 kg",1
+2,NAT Grade 3,NAT,2023,"How many sides does a rectangle have?","2","3","4","6",2
+2,NAT Grade 3,NAT,2023,"A rectangle has how many corners?","2","3","4","5",2
+2,NAT Grade 3,NAT,2023,"Which shape has 8 sides?","Hexagon","Heptagon","Octagon","Nonagon",2
+2,NAT Grade 3,NAT,2023,"A cylinder has how many circular faces?","0","1","2","3",2
+2,NAT Grade 3,NAT,2023,"A cone has how many faces?","0","1","2","3",2
+2,NAT Grade 3,NAT,2023,"Which shape looks like a ball?","Cube","Sphere","Cylinder","Cone",1
+2,NAT Grade 3,NAT,2023,"Which shape looks like a tin of milk?","Cube","Sphere","Cylinder","Cone",2
+2,NAT Grade 3,NAT,2023,"Which shape looks like an ice-cream cone?","Cube","Sphere","Cylinder","Cone",3
+2,NAT Grade 3,NAT,2023,"How many faces does a pyramid have?","3","4","5","6",2
+2,NAT Grade 3,NAT,2023,"What is the perimeter of a square with side 4 cm?","8 cm","12 cm","16 cm","20 cm",2
+2,NAT Grade 3,NAT,2023,"What is the perimeter of a rectangle 3 cm by 2 cm?","5 cm","6 cm","10 cm","12 cm",2
+2,NAT Grade 3,NAT,2023,"What is the area of a square with side 3 cm?","6 cm²","9 cm²","12 cm²","15 cm²",1
+2,NAT Grade 3,NAT,2023,"What is the area of a rectangle 4 cm by 2 cm?","6 cm²","8 cm²","10 cm²","12 cm²",1
+2,NAT Grade 3,NAT,2023,"How many sides does a pentagon have?","4","5","6","7",1
+2,NAT Grade 3,NAT,2023,"Which is NOT a triangle?","Equilateral","Isosceles","Scalene","Rectangle",3
+2,NAT Grade 3,NAT,2023,"Amina has 15 sweets. She gives 5 to Fatou. How many left?","5","8","10","12",2
+2,NAT Grade 3,NAT,2023,"Moses has 20 marbles. He gets 10 more. How many now?","25","28","30","35",2
+2,NAT Grade 3,NAT,2023,"A shop has 50 oranges. 30 are sold. How many left?","10","15","20","25",2
+2,NAT Grade 3,NAT,2023,"A basket has 6 mangoes. 4 baskets have ___ mangoes.","18","20","24","30",2
+2,NAT Grade 3,NAT,2023,"A farmer has 24 eggs. He packs them in boxes of 6. How many boxes?","2","3","4","6",2
+2,NAT Grade 3,NAT,2023,"Bakary walks 5 km on Monday, 3 km on Tuesday. Total?","6 km","7 km","8 km","10 km",2
+2,NAT Grade 3,NAT,2023,"A class has 30 students. Half are girls. How many girls?","10","12","15","20",2
+2,NAT Grade 3,NAT,2023,"A book has 40 pages. You read 10. How many left?","20","25","30","35",2
+2,NAT Grade 3,NAT,2023,"Mummy buys 3 kg of rice. She uses 1 kg. How much left?","1 kg","2 kg","3 kg","4 kg",1
+2,NAT Grade 3,NAT,2023,"A chicken lays 2 eggs a day. How many eggs in 5 days?","5","7","10","12",2
+2,NAT Grade 3,NAT,2023,"A bus holds 30 people. 2 buses hold ___ people.","30","50","60","90",2
+2,NAT Grade 3,NAT,2023,"A dozen means:","6","10","12","20",2
+2,NAT Grade 3,NAT,2023,"Half a dozen is:","2","4","6","8",2
+2,NAT Grade 3,NAT,2023,"If you save D5 every day, how much in 4 days?","D10","D15","D20","D25",2
+2,NAT Grade 3,NAT,2023,"A shirt costs D25. You have D40. Change?","D5","D10","D15","D20",2
+2,NAT Grade 3,NAT,2023,"A pen costs D3. How many can you buy with D15?","3","4","5","6",2
+2,NAT Grade 3,NAT,2023,"A kilogram of sugar costs D30. Half kilo?","D10","D15","D20","D25",1
+2,NAT Grade 3,NAT,2023,"100 - 25 =","65","70","75","80",2
+2,NAT Grade 3,NAT,2023,"200 + 300 =","400","450","500","600",2
+2,NAT Grade 3,NAT,2023,"1,000 + 500 =","1,200","1,500","2,000","500",1
+2,NAT Grade 3,NAT,2023,"50 × 2 =","25","100","150","500",1
+2,NAT Grade 3,NAT,2023,"100 ÷ 10 =","1","5","10","20",2
+2,NAT Grade 3,NAT,2023,"Which is the correct number name for 21?","Twelve","Twenty","Twenty-one","Two-one",2
+2,NAT Grade 3,NAT,2023,"Which is the correct number name for 100?","Ten","Hundred","One hundred","One thousand",2
+2,NAT Grade 3,NAT,2023,"What number is 'thirty-five'?","30","35","53","55",1
+2,NAT Grade 3,NAT,2023,"What number is 'ninety-nine'?","90","98","99","100",2
+2,NAT Grade 3,NAT,2023,"What comes after 999?","998","1000","1001","9990",1
+2,NAT Grade 3,NAT,2023,"What comes before 500?","499","498","501","502",0
+2,NAT Grade 3,NAT,2023,"Roman numeral for 5 is:","III","IV","V","VI",2
+2,NAT Grade 3,NAT,2023,"Roman numeral for 10 is:","V","X","L","C",1
+2,NAT Grade 3,NAT,2023,"Roman numeral for 1 is:","I","V","X","L",0
+2,NAT Grade 3,NAT,2023,"Roman numeral for 4 is:","IIII","IV","VI","IX",1
+2,NAT Grade 3,NAT,2023,"Roman numeral VI means:","4","5","6","7",2
+2,NAT Grade 3,NAT,2023,"Which is the correct order from smallest to largest?","7, 3, 5","3, 5, 7","5, 7, 3","7, 5, 3",1
+2,NAT Grade 3,NAT,2023,"Which is the correct order from largest to smallest?","10, 5, 2","2, 5, 10","5, 2, 10","2, 10, 5",0
+2,NAT Grade 3,NAT,2023,"What is the next even number after 14?","15","16","17","18",1
+2,NAT Grade 3,NAT,2023,"What is the next odd number after 21?","22","23","24","25",1
+2,NAT Grade 3,NAT,2023,"How many 25 bututs coins make D1.00?","2","3","4","5",2
+2,NAT Grade 3,NAT,2023,"How many 10 bututs coins make D1.00?","5","8","10","20",2
+2,NAT Grade 3,NAT,2023,"How many 50 bututs coins make D1.00?","1","2","3","4",1

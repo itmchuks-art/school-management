@@ -1,0 +1,97 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+6,NAT Grade 6,NAT,2023,"Simplify the ratio 6:9.","1:2","2:3","3:4","6:9",1
+6,NAT Grade 6,NAT,2023,"Simplify the ratio 10:15.","1:5","2:3","3:5","5:10",1
+6,NAT Grade 6,NAT,2023,"Simplify the ratio 8:12.","2:3","3:4","1:2","4:6",0
+6,NAT Grade 6,NAT,2023,"Simplify the ratio 20:30.","1:2","2:3","3:4","4:5",1
+6,NAT Grade 6,NAT,2023,"Simplify the ratio 15:25.","1:2","2:3","3:5","5:15",2
+6,NAT Grade 6,NAT,2023,"If a:b = 2:3 and a = 4, what is b?","5","6","7","8",1
+6,NAT Grade 6,NAT,2023,"Share D60 in the ratio 1:2.","D20 and D40","D30 and D30","D15 and D45","D10 and D50",0
+6,NAT Grade 6,NAT,2023,"Share D100 in the ratio 2:3.","D40 and D60","D50 and D50","D30 and D70","D20 and D80",0
+6,NAT Grade 6,NAT,2023,"If 3 pens cost D15, what is the cost of 5 pens?","D20","D25","D30","D35",1
+6,NAT Grade 6,NAT,2023,"If 4 kg of rice cost D80, what is the cost of 1 kg?","D15","D20","D25","D30",1
+6,NAT Grade 6,NAT,2023,"If a car travels 60 km in 1 hour, how far in 3 hours?","120 km","150 km","180 km","200 km",2
+6,NAT Grade 6,NAT,2023,"If a car travels 240 km in 4 hours, what is its speed?","50 km/h","60 km/h","70 km/h","80 km/h",1
+6,NAT Grade 6,NAT,2023,"A train travels at 80 km/h for 2 hours. Distance?","140 km","150 km","160 km","180 km",2
+6,NAT Grade 6,NAT,2023,"A runner runs 100 m in 20 seconds. Speed?","4 m/s","5 m/s","6 m/s","10 m/s",1
+6,NAT Grade 6,NAT,2023,"A bus travels 300 km in 5 hours. Speed?","50 km/h","55 km/h","60 km/h","65 km/h",2
+6,NAT Grade 6,NAT,2023,"A car travels 45 km/h for 4 hours. Distance?","150 km","160 km","180 km","200 km",2
+6,NAT Grade 6,NAT,2023,"Speed = Distance ÷ Time. If distance is 500 m and time is 25 s, speed is:","15 m/s","20 m/s","25 m/s","30 m/s",1
+6,NAT Grade 6,NAT,2023,"A cyclist travels 30 km in 2 hours. Speed?","10 km/h","12 km/h","15 km/h","20 km/h",2
+6,NAT Grade 6,NAT,2023,"A plane flies 1,200 km in 2 hours. Speed?","400 km/h","500 km/h","600 km/h","700 km/h",2
+6,NAT Grade 6,NAT,2023,"Amina reads 40 pages in 2 hours. Rate per hour?","10","15","20","40",2
+6,NAT Grade 6,NAT,2023,"What is the volume of a cube with side 3 cm?","9 cm³","18 cm³","27 cm³","36 cm³",2
+6,NAT Grade 6,NAT,2023,"What is the volume of a cube with side 4 cm?","32 cm³","48 cm³","64 cm³","80 cm³",2
+6,NAT Grade 6,NAT,2023,"What is the volume of a cuboid 5 cm × 3 cm × 2 cm?","15 cm³","30 cm³","45 cm³","60 cm³",1
+6,NAT Grade 6,NAT,2023,"What is the volume of a cuboid 4 cm × 4 cm × 5 cm?","60 cm³","70 cm³","80 cm³","100 cm³",2
+6,NAT Grade 6,NAT,2023,"What is the volume of a cube with side 5 cm?","25 cm³","75 cm³","100 cm³","125 cm³",3
+6,NAT Grade 6,NAT,2023,"A cuboid is 10 cm × 5 cm × 4 cm. Volume?","150 cm³","180 cm³","200 cm³","220 cm³",2
+6,NAT Grade 6,NAT,2023,"Solve for x: x + 5 = 12.","5","6","7","8",2
+6,NAT Grade 6,NAT,2023,"Solve for x: x - 3 = 10.","7","10","13","15",2
+6,NAT Grade 6,NAT,2023,"Solve for x: 3x = 15.","3","4","5","6",2
+6,NAT Grade 6,NAT,2023,"Solve for x: x ÷ 4 = 6.","10","20","24","28",2
+6,NAT Grade 6,NAT,2023,"Solve for x: 2x + 3 = 11.","3","4","5","6",1
+6,NAT Grade 6,NAT,2023,"Solve for x: 5x - 2 = 18.","3","4","5","6",1
+6,NAT Grade 6,NAT,2023,"If y = 2x + 1 and x = 3, what is y?","5","6","7","8",2
+6,NAT Grade 6,NAT,2023,"If y = x² and x = 4, what is y?","8","12","16","20",2
+6,NAT Grade 6,NAT,2023,"If a = 3 and b = 4, what is a² + b²?","7","12","25","49",2
+6,NAT Grade 6,NAT,2023,"If p = 5, what is 3p + 2?","10","15","17","20",2
+6,NAT Grade 6,NAT,2023,"On a coordinate grid, point (3, 4) has x = 3 and y =:","2","3","4","5",2
+6,NAT Grade 6,NAT,2023,"Which point is on the y-axis?","(0, 5)","(5, 0)","(3, 3)","(2, 4)",0
+6,NAT Grade 6,NAT,2023,"Which point is on the x-axis?","(0, 3)","(3, 0)","(1, 1)","(2, 2)",1
+6,NAT Grade 6,NAT,2023,"The origin on a coordinate plane is:","(0, 1)","(1, 0)","(0, 0)","(1, 1)",2
+6,NAT Grade 6,NAT,2023,"If you flip a fair coin, probability of heads?","0","1/4","1/2","1",2
+6,NAT Grade 6,NAT,2023,"If you roll a fair die, probability of getting a 6?","1/2","1/3","1/6","1",2
+6,NAT Grade 6,NAT,2023,"If you roll a fair die, probability of getting an even number?","1/6","1/3","1/2","2/3",2
+6,NAT Grade 6,NAT,2023,"If you roll a fair die, probability of getting a number greater than 4?","1/6","1/3","1/2","2/3",1
+6,NAT Grade 6,NAT,2023,"A bag has 3 red and 2 blue balls. Probability of picking red?","1/5","2/5","3/5","4/5",2
+6,NAT Grade 6,NAT,2023,"A bag has 4 red and 6 green balls. Probability of picking green?","2/5","3/5","4/5","1/2",1
+6,NAT Grade 6,NAT,2023,"What is the mode of: 2, 3, 3, 4, 5?","2","3","4","5",1
+6,NAT Grade 6,NAT,2023,"What is the mode of: 5, 5, 6, 7, 7, 7, 8?","5","6","7","8",2
+6,NAT Grade 6,NAT,2023,"What is the median of: 2, 4, 6, 8, 10?","4","5","6","8",2
+6,NAT Grade 6,NAT,2023,"What is the median of: 1, 3, 5, 7?","3","4","5","7",1
+6,NAT Grade 6,NAT,2023,"What is the median of: 10, 20, 30, 40, 50, 60?","25","30","35","40",2
+6,NAT Grade 6,NAT,2023,"What is the mean of 2, 4, 6, 8?","4","5","6","8",1
+6,NAT Grade 6,NAT,2023,"What is the range of: 3, 7, 10, 15, 20?","10","15","17","20",2
+6,NAT Grade 6,NAT,2023,"What is the range of: 12, 15, 20, 22, 30?","15","16","18","20",2
+6,NAT Grade 6,NAT,2023,"A bar chart shows 5 red cars and 3 blue cars. Total cars?","3","5","7","8",3
+6,NAT Grade 6,NAT,2023,"In a pie chart, if a slice is 1/4 of the circle, its angle is:","45°","60°","90°","180°",2
+6,NAT Grade 6,NAT,2023,"In a pie chart, if a slice is 1/2, its angle is:","90°","120°","180°","270°",2
+6,NAT Grade 6,NAT,2023,"A box has 30 mangoes. If 1/3 are bad, how many bad?","5","10","15","20",1
+6,NAT Grade 6,NAT,2023,"A farmer has 200 chickens. He sells 3/4. How many sold?","100","120","150","180",2
+6,NAT Grade 6,NAT,2023,"A student scored 40/50. Percentage?","70%","75%","80%","85%",2
+6,NAT Grade 6,NAT,2023,"A student scored 45/60. Percentage?","65%","70%","75%","80%",2
+6,NAT Grade 6,NAT,2023,"A student scored 18/20. Percentage?","80%","85%","90%","95%",2
+6,NAT Grade 6,NAT,2023,"A shirt costs D120. A 25% discount means you pay:","D80","D90","D100","D110",1
+6,NAT Grade 6,NAT,2023,"A phone costs D500. A 10% discount means you pay:","D400","D450","D480","D490",1
+6,NAT Grade 6,NAT,2023,"Price rises from D50 to D60. Percentage increase?","10%","15%","20%","25%",2
+6,NAT Grade 6,NAT,2023,"Price falls from D100 to D80. Percentage decrease?","15%","20%","25%","30%",1
+6,NAT Grade 6,NAT,2023,"Simple interest: P=D100, R=5%, T=2 years. Interest?","D5","D10","D15","D20",1
+6,NAT Grade 6,NAT,2023,"Simple interest: P=D200, R=10%, T=1 year. Interest?","D10","D15","D20","D25",2
+6,NAT Grade 6,NAT,2023,"A rectangle is 12 m long and 5 m wide. Area?","17 m²","34 m²","60 m²","120 m²",2
+6,NAT Grade 6,NAT,2023,"A rectangular field is 20 m × 15 m. Area?","150 m²","200 m²","250 m²","300 m²",3
+6,NAT Grade 6,NAT,2023,"A square has a side of 9 cm. Perimeter?","18 cm","27 cm","36 cm","81 cm",2
+6,NAT Grade 6,NAT,2023,"A triangle has sides 8 cm, 6 cm, 10 cm. Perimeter?","18 cm","20 cm","24 cm","28 cm",2
+6,NAT Grade 6,NAT,2023,"A circle has a diameter of 14 cm. Radius?","7 cm","14 cm","21 cm","28 cm",0
+6,NAT Grade 6,NAT,2023,"A circle has a radius of 5 cm. Diameter?","2.5 cm","5 cm","10 cm","25 cm",2
+6,NAT Grade 6,NAT,2023,"How many minutes from 9:15 to 10:45?","60","75","90","105",2
+6,NAT Grade 6,NAT,2023,"If a movie lasts 1 hour 45 minutes and starts at 6:15pm, it ends at:","7:00pm","7:45pm","8:00pm","8:30pm",2
+6,NAT Grade 6,NAT,2023,"A book has 240 pages. If you read 30 pages/day, days to finish?","6","8","10","12",1
+6,NAT Grade 6,NAT,2023,"5 identical books weigh 2 kg. Weight of 1 book?","200 g","400 g","500 g","600 g",1
+6,NAT Grade 6,NAT,2023,"A bucket holds 8 litres. How many buckets for 40 litres?","4","5","6","8",1
+6,NAT Grade 6,NAT,2023,"A train leaves at 07:30 and arrives at 10:00. Duration?","1h 30m","2h","2h 30m","3h",2
+6,NAT Grade 6,NAT,2023,"Round 4,568 to the nearest 100.","4,500","4,600","4,570","5,000",1
+6,NAT Grade 6,NAT,2023,"Round 4,568 to the nearest 1,000.","4,000","4,500","5,000","6,000",2
+6,NAT Grade 6,NAT,2023,"Round 567 to the nearest 10.","560","570","580","600",1
+6,NAT Grade 6,NAT,2023,"Round 3.47 to 1 decimal place.","3.4","3.5","3.6","3.7",1
+6,NAT Grade 6,NAT,2023,"Estimate: 297 + 405 ≈","600","700","800","900",1
+6,NAT Grade 6,NAT,2023,"Estimate: 49 × 21 ≈","500","800","1000","1500",2
+6,NAT Grade 6,NAT,2023,"Which is the correct order of operations?","Add, Multiply, Divide","BODMAS/PEMDAS","Subtract, Add","Multiply only",1
+6,NAT Grade 6,NAT,2023,"Work out: 3² + 4².","7","12","25","49",2
+6,NAT Grade 6,NAT,2023,"Work out: √(16 + 9).","4","5","7","25",1
+6,NAT Grade 6,NAT,2023,"If x = 6, what is x³?","18","36","216","432",2
+6,NAT Grade 6,NAT,2023,"Which number is divisible by both 3 and 5?","10","15","20","25",1
+6,NAT Grade 6,NAT,2023,"Which number is divisible by both 4 and 6?","10","12","18","20",1
+6,NAT Grade 6,NAT,2023,"Which number is divisible by 9?","16","18","20","24",1
+6,NAT Grade 6,NAT,2023,"Which number is divisible by 11?","21","22","23","24",1
+6,NAT Grade 6,NAT,2023,"A car uses 5 litres per 100 km. How much for 250 km?","10 L","12.5 L","15 L","20 L",1
+6,NAT Grade 6,NAT,2023,"A tank holds 500 litres. If 3/5 is full, how many litres?","100","200","300","400",2

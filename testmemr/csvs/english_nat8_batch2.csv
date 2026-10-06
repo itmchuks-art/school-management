@@ -1,0 +1,102 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+9,NAT Grade 8,NAT,2023,"Which punctuation mark is used to introduce a list?","Comma","Colon","Semicolon","Full stop",1
+9,NAT Grade 8,NAT,2023,"Which punctuation mark joins two related sentences?","Comma","Colon","Semicolon","Full stop",2
+9,NAT Grade 8,NAT,2023,"Where does the apostrophe go in ""the toys of the babies""?","babies' toys","babie's toys","babies's toys","babies toys'",0
+9,NAT Grade 8,NAT,2023,"Where does the apostrophe go in ""the house of James""?","James's house","James' house only","James house's","Jameses house",0
+9,NAT Grade 8,NAT,2023,"Which sentence is punctuated correctly?","He said, ""I am tired.""","He said ""I am tired"".","He said, I am tired.","He said ""I am tired"",",0
+9,NAT Grade 8,NAT,2023,"Which sentence is punctuated correctly?","The boys', bags are here.","The boys' bags are here.","The boys bags' are here.","The boy's bags are here.",1
+9,NAT Grade 8,NAT,2023,"Which sentence is punctuated correctly?","Where are you going?","Where are you going.","Where are you going!","Where are you going,",0
+9,NAT Grade 8,NAT,2023,"Which sentence is punctuated correctly?","Wow, what a beautiful day!","Wow what a beautiful day.","wow what a beautiful day!","Wow what a beautiful day",0
+9,NAT Grade 8,NAT,2023,"Which sentence is punctuated correctly?","I bought rice, fish and oil.","I bought rice fish and oil.","I bought rice, fish, and oil.","Both A and C are correct",3
+9,NAT Grade 8,NAT,2023,"Which sentence uses the semicolon correctly?","I was tired; I went to bed.","I was tired, I went to bed.","I was tired: I went to bed.","I was tired I went to bed.",0
+9,NAT Grade 8,NAT,2023,"Which word is a homophone for 'to'?","Two","Too","Tow","All of the above",3
+9,NAT Grade 8,NAT,2023,"Which word is a homophone for 'their'?","There","They're","Both A and B","Thier",2
+9,NAT Grade 8,NAT,2023,"Which is the correct homophone? I want ___ go home.","too","to","two","tow",1
+9,NAT Grade 8,NAT,2023,"Which is the correct homophone? ___ are many students.","There","Their","They're","Thier",0
+9,NAT Grade 8,NAT,2023,"Which is the correct homophone? ___ going to school.","There","Their","They're","Thier",2
+9,NAT Grade 8,NAT,2023,"Which is the correct homophone? Put it over ___.","there","their","they're","thier",0
+9,NAT Grade 8,NAT,2023,"Which is the correct homophone? I don't know ___ to go.","weather","whether","wether","wheather",1
+9,NAT Grade 8,NAT,2023,"Which is the correct homophone? The ___ is hot today.","weather","whether","wether","wheather",0
+9,NAT Grade 8,NAT,2023,"Which is the correct homophone? ___ is my favourite subject.","English","Englisch","Englesh","Englissh",0
+9,NAT Grade 8,NAT,2023,"Which is the correct homophone? He ___ the ball across the field.","threw","through","thru","threw only",0
+9,NAT Grade 8,NAT,2023,"Which word means 'to make something better'?","Worsen","Improve","Damage","Harm",1
+9,NAT Grade 8,NAT,2023,"Which word means 'a place where books are kept'?","Laboratory","Library","Gymnasium","Auditorium",1
+9,NAT Grade 8,NAT,2023,"Which word means 'fearless'?","Timid","Cowardly","Brave","Anxious",2
+9,NAT Grade 8,NAT,2023,"Which word means 'to say sorry'?","Apologise","Argue","Accuse","Ignore",0
+9,NAT Grade 8,NAT,2023,"Which word means 'a person who studies the weather'?","Biologist","Meteorologist","Geologist","Astronomer",1
+9,NAT Grade 8,NAT,2023,"Which word means 'a strong desire for success'?","Ambition","Laziness","Fear","Boredom",0
+9,NAT Grade 8,NAT,2023,"Which word means 'to be everywhere'?","Ubiquitous","Rare","Limited","Scarce",0
+9,NAT Grade 8,NAT,2023,"Which word means 'to think deeply'?","Ponder","Sprint","Chuckle","Sneeze",0
+9,NAT Grade 8,NAT,2023,"Which word means 'a secret plan'?","Conspiracy","Celebration","Conversation","Confusion",0
+9,NAT Grade 8,NAT,2023,"Which word means 'unavoidable'?","Optional","Inevitable","Flexible","Avoidable",1
+9,NAT Grade 8,NAT,2023,"A formal letter begins with:","Hi there,","Dear Sir/Madam,","Hello,","Hey,",1
+9,NAT Grade 8,NAT,2023,"A formal letter ends with:","Bye,","Love,","Yours faithfully,","Cheers,",2
+9,NAT Grade 8,NAT,2023,"Which is a formal greeting?","Hi John,","Hey,","Dear Mr. Jallow,","What's up?",2
+9,NAT Grade 8,NAT,2023,"Which is an informal greeting?","Dear Sir,","Dear Madam,","Hi John,","Yours faithfully,",2
+9,NAT Grade 8,NAT,2023,"Where does the date go in a formal letter?","At the end","At the top right","In the middle","After the signature",1
+9,NAT Grade 8,NAT,2023,"The purpose of a formal letter is usually to:","Chat with a friend","Make a request or complaint","Entertain","Tell a joke",1
+9,NAT Grade 8,NAT,2023,"A letter of complaint should be:","Angry and rude","Polite and clear","Long and confusing","Short and unclear",1
+9,NAT Grade 8,NAT,2023,"The body of a letter contains:","Only greetings","The main message","Only the signature","Only the address",1
+9,NAT Grade 8,NAT,2023,"A paragraph should contain:","Only one sentence","One main idea","Unrelated ideas","Random words",1
+9,NAT Grade 8,NAT,2023,"An essay should have how many main parts?","1","2","3","5",2
+9,NAT Grade 8,NAT,2023,"The three main parts of an essay are:","Title, body, signature","Introduction, body, conclusion","Beginning, middle, end only","Only intro",1
+9,NAT Grade 8,NAT,2023,"A narrative essay tells:","A story","Facts","Opinions","Instructions",0
+9,NAT Grade 8,NAT,2023,"An argumentative essay aims to:","Tell a story","Persuade the reader","Describe scenery","Give instructions",1
+9,NAT Grade 8,NAT,2023,"A descriptive essay focuses on:","Facts and figures","Describing things vividly","Arguments","Instructions",1
+9,NAT Grade 8,NAT,2023,"An expository essay:","Explains a topic","Tells a story","Argues a point","Describes a scene",0
+9,NAT Grade 8,NAT,2023,"In a formal essay, you should AVOID:","Formal language","Slang and contractions","Facts","Examples",1
+9,NAT Grade 8,NAT,2023,"A paragraph's topic sentence usually comes:","In the middle","At the beginning","At the end","Anywhere",1
+9,NAT Grade 8,NAT,2023,"A summary should be:","Long and detailed","Brief and to the point","Full of opinions","Full of examples",1
+9,NAT Grade 8,NAT,2023,"When writing a summary, you should:","Add your own opinions","Include only main points","Copy the text word for word","Add jokes",1
+9,NAT Grade 8,NAT,2023,"Comprehension questions test:","Only spelling","Understanding of a text","Only grammar","Only handwriting",1
+9,NAT Grade 8,NAT,2023,"Passage: ""Reading is essential for personal growth. It expands our knowledge, improves vocabulary, and stimulates imagination. A person who reads widely is more likely to succeed in life."" Q: According to the passage, what is essential for personal growth?","Writing","Reading","Speaking","Listening",1
+9,NAT Grade 8,NAT,2023,"Passage: ""Reading is essential for personal growth. It expands our knowledge, improves vocabulary, and stimulates imagination. A person who reads widely is more likely to succeed in life."" Q: Which of these is NOT mentioned as a benefit of reading?","Expanding knowledge","Improving vocabulary","Stimulating imagination","Increasing wealth",3
+9,NAT Grade 8,NAT,2023,"Passage: ""Reading is essential for personal growth. It expands our knowledge, improves vocabulary, and stimulates imagination. A person who reads widely is more likely to succeed in life."" Q: A person who reads widely is more likely to:","Fail","Succeed","Stay home","Be bored",1
+9,NAT Grade 8,NAT,2023,"Passage: ""Mount Kilimanjaro is the highest mountain in Africa. It is located in Tanzania and attracts thousands of climbers every year. Though it stands near the equator, its peak is covered in snow."" Q: Where is Mount Kilimanjaro?","Kenya","Tanzania","Uganda","Ethiopia",1
+9,NAT Grade 8,NAT,2023,"Passage: ""Mount Kilimanjaro is the highest mountain in Africa. It is located in Tanzania and attracts thousands of climbers every year. Though it stands near the equator, its peak is covered in snow."" Q: What attracts climbers to Kilimanjaro?","Its height","Its beauty only","Its location only","Its animals",0
+9,NAT Grade 8,NAT,2023,"Passage: ""Mount Kilimanjaro is the highest mountain in Africa. It is located in Tanzania and attracts thousands of climbers every year. Though it stands near the equator, its peak is covered in snow."" Q: What is unusual about Kilimanjaro?","It is very small","It has snow near the equator","It has no peak","It is underwater",1
+9,NAT Grade 8,NAT,2023,"Passage: ""The Atlantic slave trade changed the history of West Africa forever. Millions of Africans were taken across the ocean, leaving behind broken families and communities. It took centuries for the region to recover."" Q: What changed West Africa forever?","Rainfall","The Atlantic slave trade","Trade with Asia","The Sahara",1
+9,NAT Grade 8,NAT,2023,"Passage: ""The Atlantic slave trade changed the history of West Africa forever. Millions of Africans were taken across the ocean, leaving behind broken families and communities. It took centuries for the region to recover."" Q: How many Africans were taken?","Hundreds","Thousands","Millions","A few",2
+9,NAT Grade 8,NAT,2023,"Passage: ""The Atlantic slave trade changed the history of West Africa forever. Millions of Africans were taken across the ocean, leaving behind broken families and communities. It took centuries for the region to recover."" Q: The word ""recover"" most nearly means:","Forget","Heal and become strong again","Leave","Return",1
+9,NAT Grade 8,NAT,2023,"Passage: ""A well-balanced diet is the foundation of good health. It should include carbohydrates, proteins, vitamins and minerals. Drinking plenty of water is also important."" Q: What is the foundation of good health?","Exercise","A well-balanced diet","Sleep","Medicine",1
+9,NAT Grade 8,NAT,2023,"Passage: ""A well-balanced diet is the foundation of good health. It should include carbohydrates, proteins, vitamins and minerals. Drinking plenty of water is also important."" Q: Which nutrient is NOT mentioned?","Carbohydrates","Proteins","Fats","Vitamins",2
+9,NAT Grade 8,NAT,2023,"Passage: ""A well-balanced diet is the foundation of good health. It should include carbohydrates, proteins, vitamins and minerals. Drinking plenty of water is also important."" Q: According to the passage, what else is important?","Sleep","Water","Sunlight","Exercise",1
+9,NAT Grade 8,NAT,2023,"Passage: ""The Sahara Desert is the largest hot desert in the world. It stretches across North Africa and covers over 9 million square kilometres. Despite its harsh conditions, many people live in oases within the desert."" Q: Where is the Sahara?","South Africa","North Africa","East Africa","West Africa",1
+9,NAT Grade 8,NAT,2023,"Passage: ""The Sahara Desert is the largest hot desert in the world. It stretches across North Africa and covers over 9 million square kilometres. Despite its harsh conditions, many people live in oases within the desert."" Q: How big is the Sahara?","1 million km²","5 million km²","Over 9 million km²","20 million km²",2
+9,NAT Grade 8,NAT,2023,"Passage: ""The Sahara Desert is the largest hot desert in the world. It stretches across North Africa and covers over 9 million square kilometres. Despite its harsh conditions, many people live in oases within the desert."" Q: Where do people live in the Sahara?","In caves","In oases","On mountains","In rivers",1
+9,NAT Grade 8,NAT,2023,"Passage: ""Tourism has become a major source of income for The Gambia. Every year, thousands of visitors come to enjoy its beautiful beaches, wildlife, and rich culture. This has created many jobs and helped local businesses grow."" Q: What is a major source of income for The Gambia?","Fishing","Tourism","Mining","Farming",1
+9,NAT Grade 8,NAT,2023,"Passage: ""Tourism has become a major source of income for The Gambia. Every year, thousands of visitors come to enjoy its beautiful beaches, wildlife, and rich culture. This has created many jobs and helped local businesses grow."" Q: What do visitors enjoy?","Snow","Beaches, wildlife, culture","Deserts","Mountains",1
+9,NAT Grade 8,NAT,2023,"Passage: ""Tourism has become a major source of income for The Gambia. Every year, thousands of visitors come to enjoy its beautiful beaches, wildlife, and rich culture. This has created many jobs and helped local businesses grow."" Q: What has tourism done for The Gambia?","Reduced jobs","Created jobs","Caused war","Increased pollution only",1
+9,NAT Grade 8,NAT,2023,"Fill in: He has been living here ___ ten years.","since","for","from","at",1
+9,NAT Grade 8,NAT,2023,"Fill in: I have known her ___ childhood.","since","for","from","at",0
+9,NAT Grade 8,NAT,2023,"Fill in: The book ___ I borrowed was interesting.","what","that","who","whose",1
+9,NAT Grade 8,NAT,2023,"Fill in: She sings ___ than her sister.","good","better","best","well",1
+9,NAT Grade 8,NAT,2023,"Fill in: This is the ___ book I have ever read.","good","better","best","well",2
+9,NAT Grade 8,NAT,2023,"Fill in: He works ___ than anyone I know.","hard","harder","hardest","hardly",1
+9,NAT Grade 8,NAT,2023,"Fill in: If I ___ you, I would apologise.","am","was","were","be",2
+9,NAT Grade 8,NAT,2023,"Fill in: She said she ___ finished the work.","has","had","have","having",1
+9,NAT Grade 8,NAT,2023,"Fill in: By next year, I ___ completed my studies.","will","will have","would","have",1
+9,NAT Grade 8,NAT,2023,"Fill in: He asked me ___ I had seen his book.","if","that","what","which",0
+9,NAT Grade 8,NAT,2023,"Fill in: I wish I ___ taller.","am","was","were","be",2
+9,NAT Grade 8,NAT,2023,"Fill in: It's high time we ___.","leave","left","leaving","leaves",1
+9,NAT Grade 8,NAT,2023,"Fill in: No sooner had he arrived ___ it started raining.","when","than","then","that",1
+9,NAT Grade 8,NAT,2023,"Fill in: Hardly had I sat down ___ the bell rang.","when","than","then","that",0
+9,NAT Grade 8,NAT,2023,"Fill in: Not only ___ he late, but he also forgot the book.","is","was","were","be",1
+9,NAT Grade 8,NAT,2023,"Fill in: I would rather you ___ now.","leave","left","leaving","leaves",1
+9,NAT Grade 8,NAT,2023,"Fill in: She prefers tea ___ coffee.","than","to","over","from",1
+9,NAT Grade 8,NAT,2023,"Fill in: Neither of the boys ___ present.","are","is","were","be",1
+9,NAT Grade 8,NAT,2023,"Fill in: Each of the girls ___ a book.","have","has","having","had",1
+9,NAT Grade 8,NAT,2023,"Fill in: The number of students ___ increased.","have","has","having","had",1
+9,NAT Grade 8,NAT,2023,"Fill in: A number of students ___ absent today.","is","are","was","has",1
+9,NAT Grade 8,NAT,2023,"Fill in: Mathematics ___ my favourite subject.","are","is","were","be",1
+9,NAT Grade 8,NAT,2023,"Fill in: The news ___ good today.","are","is","were","be",1
+9,NAT Grade 8,NAT,2023,"Fill in: My trousers ___ new.","is","are","was","has",1
+9,NAT Grade 8,NAT,2023,"Fill in: Bread and butter ___ my breakfast.","are","is","were","have",1
+9,NAT Grade 8,NAT,2023,"Fill in: The police ___ investigating the case.","is","are","was","has",1
+9,NAT Grade 8,NAT,2023,"Fill in: Cattle ___ grazing in the field.","is","are","was","has",1
+9,NAT Grade 8,NAT,2023,"Which sentence uses 'who' correctly?","Who did you give the book to?","Whom did you give the book to?","Which did you give the book to?","What did you give the book to?",1
+9,NAT Grade 8,NAT,2023,"Which sentence uses 'whom' correctly?","Whom is coming?","Whom did you see?","Whom is your name?","Whom is that man?",1
+9,NAT Grade 8,NAT,2023,"Which is the correct question tag? She is coming, ___?","is she","isn't she","does she","has she",1
+9,NAT Grade 8,NAT,2023,"Which is the correct question tag? You don't like tea, ___?","do you","don't you","are you","is it",0
+9,NAT Grade 8,NAT,2023,"Which is the correct question tag? Let's go, ___?","shall we","will we","do we","can we",0
+9,NAT Grade 8,NAT,2023,"Which is the correct question tag? I am right, ___?","am I","aren't I","am not I","isn't it",1

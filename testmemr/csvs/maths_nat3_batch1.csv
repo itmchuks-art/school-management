@@ -1,0 +1,98 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+2,NAT Grade 3,NAT,2024,"What is 2 + 3?","4","5","6","7",1
+2,NAT Grade 3,NAT,2024,"What is 5 + 4?","8","9","10","11",1
+2,NAT Grade 3,NAT,2024,"What is 7 + 6?","12","13","14","15",1
+2,NAT Grade 3,NAT,2024,"What is 8 + 9?","15","16","17","18",2
+2,NAT Grade 3,NAT,2024,"What is 12 + 5?","15","16","17","18",2
+2,NAT Grade 3,NAT,2024,"What is 15 + 10?","20","24","25","30",2
+2,NAT Grade 3,NAT,2024,"What is 20 + 30?","40","45","50","55",2
+2,NAT Grade 3,NAT,2024,"What is 9 + 1?","8","9","10","11",2
+2,NAT Grade 3,NAT,2024,"What is 6 + 6?","10","11","12","13",2
+2,NAT Grade 3,NAT,2024,"What is 3 + 3 + 3?","6","8","9","10",2
+2,NAT Grade 3,NAT,2024,"What is 10 - 3?","5","6","7","8",2
+2,NAT Grade 3,NAT,2024,"What is 15 - 5?","8","9","10","11",2
+2,NAT Grade 3,NAT,2024,"What is 20 - 8?","10","11","12","13",2
+2,NAT Grade 3,NAT,2024,"What is 30 - 15?","10","12","15","20",2
+2,NAT Grade 3,NAT,2024,"What is 50 - 20?","20","25","30","35",2
+2,NAT Grade 3,NAT,2024,"What is 9 - 9?","0","1","2","9",0
+2,NAT Grade 3,NAT,2024,"What is 100 - 50?","25","40","50","60",2
+2,NAT Grade 3,NAT,2024,"What is 18 - 6?","10","11","12","13",2
+2,NAT Grade 3,NAT,2024,"What is 7 - 2?","3","4","5","6",2
+2,NAT Grade 3,NAT,2024,"What is 25 - 10?","10","12","15","20",2
+2,NAT Grade 3,NAT,2024,"What is 2 × 3?","4","5","6","7",2
+2,NAT Grade 3,NAT,2024,"What is 3 × 4?","8","10","12","14",2
+2,NAT Grade 3,NAT,2024,"What is 5 × 2?","7","8","10","12",2
+2,NAT Grade 3,NAT,2024,"What is 6 × 3?","12","15","18","21",2
+2,NAT Grade 3,NAT,2024,"What is 4 × 4?","12","14","16","18",2
+2,NAT Grade 3,NAT,2024,"What is 5 × 5?","20","22","25","30",2
+2,NAT Grade 3,NAT,2024,"What is 7 × 2?","10","12","14","16",2
+2,NAT Grade 3,NAT,2024,"What is 10 × 3?","20","25","30","35",2
+2,NAT Grade 3,NAT,2024,"What is 8 × 5?","35","40","45","50",1
+2,NAT Grade 3,NAT,2024,"What is 6 × 6?","30","32","36","40",2
+2,NAT Grade 3,NAT,2024,"What is 10 ÷ 2?","2","5","8","10",1
+2,NAT Grade 3,NAT,2024,"What is 12 ÷ 3?","2","3","4","6",2
+2,NAT Grade 3,NAT,2024,"What is 15 ÷ 5?","2","3","4","5",1
+2,NAT Grade 3,NAT,2024,"What is 20 ÷ 4?","4","5","6","10",1
+2,NAT Grade 3,NAT,2024,"What is 18 ÷ 6?","2","3","4","6",1
+2,NAT Grade 3,NAT,2024,"What is 24 ÷ 3?","6","7","8","9",2
+2,NAT Grade 3,NAT,2024,"What is 30 ÷ 5?","5","6","7","10",1
+2,NAT Grade 3,NAT,2024,"What is 40 ÷ 8?","4","5","6","8",1
+2,NAT Grade 3,NAT,2024,"What is 9 ÷ 3?","2","3","4","6",1
+2,NAT Grade 3,NAT,2024,"What is 16 ÷ 4?","2","3","4","5",2
+2,NAT Grade 3,NAT,2024,"Which number is the smallest?","5","3","8","2",3
+2,NAT Grade 3,NAT,2024,"Which number is the largest?","45","54","40","50",1
+2,NAT Grade 3,NAT,2024,"What comes after 19?","18","20","21","29",1
+2,NAT Grade 3,NAT,2024,"What comes before 50?","48","49","51","52",1
+2,NAT Grade 3,NAT,2024,"How many tens are in 40?","2","3","4","5",2
+2,NAT Grade 3,NAT,2024,"How many ones are in 7?","1","6","7","8",2
+2,NAT Grade 3,NAT,2024,"What is the place value of 5 in 253?","5","50","500","5000",1
+2,NAT Grade 3,NAT,2024,"What is the place value of 2 in 253?","2","20","200","2000",2
+2,NAT Grade 3,NAT,2024,"What is 100 + 200?","200","250","300","350",2
+2,NAT Grade 3,NAT,2024,"What is 500 - 100?","300","350","400","450",2
+2,NAT Grade 3,NAT,2024,"What number comes between 5 and 7?","4","6","8","9",1
+2,NAT Grade 3,NAT,2024,"Which is an even number?","3","5","7","8",3
+2,NAT Grade 3,NAT,2024,"Which is an odd number?","4","6","8","9",3
+2,NAT Grade 3,NAT,2024,"Count by 2s: 2, 4, 6, __, 10","7","8","9","12",1
+2,NAT Grade 3,NAT,2024,"Count by 5s: 5, 10, 15, __, 25","18","20","22","30",1
+2,NAT Grade 3,NAT,2024,"Count by 10s: 10, 20, 30, __, 50","35","40","45","60",1
+2,NAT Grade 3,NAT,2024,"Which number is a multiple of 3?","4","5","6","7",2
+2,NAT Grade 3,NAT,2024,"Which number is a multiple of 4?","6","8","10","14",1
+2,NAT Grade 3,NAT,2024,"Which number is a multiple of 5?","12","15","17","22",1
+2,NAT Grade 3,NAT,2024,"What is half of 10?","4","5","6","7",1
+2,NAT Grade 3,NAT,2024,"What is half of 20?","5","10","15","20",1
+2,NAT Grade 3,NAT,2024,"What is half of 8?","2","3","4","5",2
+2,NAT Grade 3,NAT,2024,"What is 1/2 + 1/2?","1/4","1","2","3",1
+2,NAT Grade 3,NAT,2024,"Which fraction is bigger?","1/2","1/4","1/8","1/10",0
+2,NAT Grade 3,NAT,2024,"Which fraction is smaller?","1/2","1/3","1/4","1/5",3
+2,NAT Grade 3,NAT,2024,"What is 1/4 of 8?","1","2","3","4",1
+2,NAT Grade 3,NAT,2024,"What is 1/2 of 6?","2","3","4","6",1
+2,NAT Grade 3,NAT,2024,"What is 1/3 of 9?","2","3","4","5",1
+2,NAT Grade 3,NAT,2024,"A triangle has how many sides?","2","3","4","5",1
+2,NAT Grade 3,NAT,2024,"A square has how many sides?","3","4","5","6",1
+2,NAT Grade 3,NAT,2024,"A rectangle has how many sides?","3","4","5","6",1
+2,NAT Grade 3,NAT,2024,"A circle has how many sides?","0","1","2","3",0
+2,NAT Grade 3,NAT,2024,"How many corners does a square have?","2","3","4","5",2
+2,NAT Grade 3,NAT,2024,"How many corners does a triangle have?","2","3","4","5",1
+2,NAT Grade 3,NAT,2024,"Which shape has 6 sides?","Pentagon","Hexagon","Heptagon","Octagon",1
+2,NAT Grade 3,NAT,2024,"Which shape has 5 sides?","Pentagon","Hexagon","Square","Triangle",0
+2,NAT Grade 3,NAT,2024,"Which shape is round?","Square","Triangle","Circle","Rectangle",2
+2,NAT Grade 3,NAT,2024,"Which is a solid shape?","Circle","Square","Cube","Triangle",2
+2,NAT Grade 3,NAT,2024,"How many faces does a cube have?","4","5","6","8",2
+2,NAT Grade 3,NAT,2024,"How many corners does a cube have?","4","6","8","12",2
+2,NAT Grade 3,NAT,2024,"Which is a 3D shape?","Circle","Sphere","Square","Triangle",1
+2,NAT Grade 3,NAT,2024,"How many minutes are in 1 hour?","30","45","60","100",2
+2,NAT Grade 3,NAT,2024,"How many hours are in a day?","12","18","24","48",2
+2,NAT Grade 3,NAT,2024,"How many days are in a week?","5","6","7","8",2
+2,NAT Grade 3,NAT,2024,"How many weeks are in a month (approx)?","2","3","4","6",2
+2,NAT Grade 3,NAT,2024,"How many months are in a year?","10","11","12","13",2
+2,NAT Grade 3,NAT,2024,"If it is 2 o'clock and 30 minutes pass, what time is it?","2:30","3:00","3:30","4:00",0
+2,NAT Grade 3,NAT,2024,"Half past 4 is the same as:","3:30","4:00","4:30","5:00",2
+2,NAT Grade 3,NAT,2024,"Quarter past 6 is:","6:00","6:15","6:30","6:45",1
+2,NAT Grade 3,NAT,2024,"Quarter to 5 is:","4:15","4:45","5:00","5:15",1
+2,NAT Grade 3,NAT,2024,"Which is the longest time?","1 hour","30 minutes","60 seconds","1 day",3
+2,NAT Grade 3,NAT,2024,"How much is 50 bututs + 50 bututs?","D1.00","D0.50","D2.00","D5.00",0
+2,NAT Grade 3,NAT,2024,"If a mango costs D5, how much for 3 mangoes?","D10","D12","D15","D20",2
+2,NAT Grade 3,NAT,2024,"If a pen costs D3, how much for 2 pens?","D5","D6","D7","D9",1
+2,NAT Grade 3,NAT,2024,"Amina has D20. She buys a book for D12. How much is left?","D6","D8","D10","D12",1
+2,NAT Grade 3,NAT,2024,"Moses buys 4 oranges at D2 each. Total cost?","D6","D8","D10","D12",1
+2,NAT Grade 3,NAT,2024,"A basket has 12 mangoes. Half are eaten. How many left?","4","5","6","8",2

@@ -1,0 +1,128 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+9,NAT Grade 8,NAT,2022,"Which word is a synonym of 'courageous'?","Fearful","Brave","Timid","Weak",1
+9,NAT Grade 8,NAT,2022,"Which word is a synonym of 'enormous'?","Tiny","Huge","Small","Little",1
+9,NAT Grade 8,NAT,2022,"Which word is a synonym of 'commence'?","End","Begin","Stop","Finish",1
+9,NAT Grade 8,NAT,2022,"Which word is a synonym of 'abundant'?","Scarce","Plentiful","Few","Rare",1
+9,NAT Grade 8,NAT,2022,"Which word is a synonym of 'obstinate'?","Flexible","Stubborn","Yielding","Soft",1
+9,NAT Grade 8,NAT,2022,"Which word is a synonym of 'pensive'?","Thoughtful","Careless","Loud","Angry",0
+9,NAT Grade 8,NAT,2022,"Which word is a synonym of 'eloquent'?","Silent","Articulate","Boring","Confused",1
+9,NAT Grade 8,NAT,2022,"Which word is a synonym of 'gregarious'?","Shy","Sociable","Lonely","Quiet",1
+9,NAT Grade 8,NAT,2022,"Which word is a synonym of 'transient'?","Permanent","Temporary","Eternal","Fixed",1
+9,NAT Grade 8,NAT,2022,"Which word is a synonym of 'insolent'?","Respectful","Rude","Humble","Kind",1
+9,NAT Grade 8,NAT,2022,"Which word is an antonym of 'optimistic'?","Hopeful","Pessimistic","Positive","Cheerful",1
+9,NAT Grade 8,NAT,2022,"Which word is an antonym of 'diligent'?","Hardworking","Lazy","Active","Busy",1
+9,NAT Grade 8,NAT,2022,"Which word is an antonym of 'sincere'?","Honest","Insincere","Truthful","Genuine",1
+9,NAT Grade 8,NAT,2022,"Which word is an antonym of 'benevolent'?","Kind","Malevolent","Generous","Caring",1
+9,NAT Grade 8,NAT,2022,"Which word is an antonym of 'frugal'?","Thrifty","Extravagant","Careful","Modest",1
+9,NAT Grade 8,NAT,2022,"Which word is an antonym of 'modest'?","Humble","Arrogant","Simple","Quiet",1
+9,NAT Grade 8,NAT,2022,"Which word is an antonym of 'scarce'?","Rare","Abundant","Limited","Few",1
+9,NAT Grade 8,NAT,2022,"Which word is an antonym of 'victory'?","Triumph","Defeat","Win","Success",1
+9,NAT Grade 8,NAT,2022,"Which word is an antonym of 'conceal'?","Hide","Reveal","Cover","Bury",1
+9,NAT Grade 8,NAT,2022,"Which word is an antonym of 'expand'?","Enlarge","Contract","Grow","Widen",1
+9,NAT Grade 8,NAT,2022,"Choose the correct spelling.","maintenance","maintainance","maintenence","maintainence",0
+9,NAT Grade 8,NAT,2022,"Choose the correct spelling.","occurrence","occurence","ocurrence","occurrance",0
+9,NAT Grade 8,NAT,2022,"Choose the correct spelling.","privilege","priviledge","privilage","privilege",0
+9,NAT Grade 8,NAT,2022,"Choose the correct spelling.","questionnaire","questionaire","questionnair","questionere",0
+9,NAT Grade 8,NAT,2022,"Choose the correct spelling.","recommend","recomend","reccommend","recommed",0
+9,NAT Grade 8,NAT,2022,"Choose the correct spelling.","restaurant","restaurent","restarant","restaurrant",0
+9,NAT Grade 8,NAT,2022,"Choose the correct spelling.","successful","succesful","successfull","sucessful",0
+9,NAT Grade 8,NAT,2022,"Choose the correct spelling.","acknowledge","acknowlege","acknowladge","acknowlidge",0
+9,NAT Grade 8,NAT,2022,"Choose the correct spelling.","convenient","convienient","convinient","conveniant",0
+9,NAT Grade 8,NAT,2022,"Choose the correct spelling.","independent","independant","indipendent","independnt",0
+9,NAT Grade 8,NAT,2022,"Identify the figure of speech: ""The stars danced in the night sky.""","Simile","Metaphor","Personification","Hyperbole",2
+9,NAT Grade 8,NAT,2022,"Identify the figure of speech: ""Her smile was as bright as the sun.""","Simile","Metaphor","Personification","Hyperbole",0
+9,NAT Grade 8,NAT,2022,"Identify the figure of speech: ""Time is a thief.""","Simile","Metaphor","Personification","Hyperbole",1
+9,NAT Grade 8,NAT,2022,"Identify the figure of speech: ""I've told you a million times.""","Simile","Metaphor","Personification","Hyperbole",3
+9,NAT Grade 8,NAT,2022,"Identify the figure of speech: ""The thunder roared loudly.""","Simile","Metaphor","Personification","Hyperbole",2
+9,NAT Grade 8,NAT,2022,"Identify the figure of speech: ""Life is a roller coaster.""","Simile","Metaphor","Personification","Hyperbole",1
+9,NAT Grade 8,NAT,2022,"Identify the figure of speech: ""He is as cunning as a fox.""","Simile","Metaphor","Personification","Hyperbole",0
+9,NAT Grade 8,NAT,2022,"Identify the figure of speech: ""The wind whispered secrets to the trees.""","Simile","Metaphor","Personification","Hyperbole",2
+9,NAT Grade 8,NAT,2022,"Identify the figure of speech: ""Her voice was music to my ears.""","Simile","Metaphor","Personification","Hyperbole",1
+9,NAT Grade 8,NAT,2022,"Identify the figure of speech: ""The room was an oven.""","Simile","Metaphor","Personification","Hyperbole",1
+9,NAT Grade 8,NAT,2022,"Choose the correct passive: ""People speak English all over the world.""","English is spoken all over the world.","English was spoken all over the world.","English speaks all over the world.","English has spoken all over the world.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct passive: ""They are building a new road.""","A new road is being built.","A new road was built.","A new road is built.","A new road has been built.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct passive: ""Someone has stolen my bag.""","My bag has been stolen.","My bag was stolen.","My bag is stolen.","My bag had been stolen.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct passive: ""The teacher will mark the papers.""","The papers will be marked by the teacher.","The papers will mark by the teacher.","The papers are marked by the teacher.","The papers were marked by the teacher.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct passive: ""They had finished the work.""","The work had been finished.","The work was finished.","The work has been finished.","The work is finished.",0
+9,NAT Grade 8,NAT,2022,"Change to indirect speech: ""What time is it?"" he asked.","He asked what time it was.","He asked what time is it.","He asks what time it is.","He asked what time was it.",0
+9,NAT Grade 8,NAT,2022,"Change to indirect speech: ""Come here,"" she said.","She told me to come there.","She said come here.","She said I come here.","She told come here.",0
+9,NAT Grade 8,NAT,2022,"Change to indirect speech: ""I have finished,"" he said.","He said he had finished.","He said he has finished.","He says he finished.","He said I have finished.",0
+9,NAT Grade 8,NAT,2022,"Change to indirect speech: ""Will you help me?"" she asked.","She asked if I would help her.","She asked will you help me.","She asked if I will help her.","She asked if you help her.",0
+9,NAT Grade 8,NAT,2022,"Change to indirect speech: ""Don't be late,"" mother said.","Mother told me not to be late.","Mother said don't be late.","Mother told don't be late.","Mother said I am not late.",0
+9,NAT Grade 8,NAT,2022,"Complete with the correct form: If it ___ tomorrow, we will cancel the trip.","rain","rains","rained","raining",1
+9,NAT Grade 8,NAT,2022,"Complete with the correct form: If I ___ harder, I would have passed.","study","studied","had studied","studying",2
+9,NAT Grade 8,NAT,2022,"Complete with the correct form: If I were you, I ___ apologise.","will","would","did","have",1
+9,NAT Grade 8,NAT,2022,"Complete with the correct form: She wishes she ___ more time.","has","had","have","having",1
+9,NAT Grade 8,NAT,2022,"Complete with the correct form: I would rather you ___ the truth.","tell","told","telling","tells",1
+9,NAT Grade 8,NAT,2022,"Complete with the correct form: It's time we ___ something.","do","did","doing","does",1
+9,NAT Grade 8,NAT,2022,"Complete with the correct form: He suggested that she ___ early.","leave","left","leaves","leaving",0
+9,NAT Grade 8,NAT,2022,"Complete with the correct form: He insisted that I ___ the bill.","pay","paid","pays","paying",0
+9,NAT Grade 8,NAT,2022,"Complete with the correct form: She recommended that he ___ a doctor.","sees","see","saw","seeing",1
+9,NAT Grade 8,NAT,2022,"Complete with the correct form: I demand that he ___ immediately.","leaves","leave","left","leaving",1
+9,NAT Grade 8,NAT,2022,"Which is the correct word: The teacher gave us good ___.","advice","advise","advices","advises",0
+9,NAT Grade 8,NAT,2022,"Which is the correct word: She will ___ me on this matter.","advice","advise","advices","advises",1
+9,NAT Grade 8,NAT,2022,"Which is the correct word: ___ weather is very hot today.","The","A","An","Some",0
+9,NAT Grade 8,NAT,2022,"Which is the correct word: He has ___ money.","less","fewer","few","least",0
+9,NAT Grade 8,NAT,2022,"Which is the correct word: There are ___ students here.","less","fewer","fewest","little",1
+9,NAT Grade 8,NAT,2022,"Which is the correct word: I have ___ books than you.","less","fewer","least","little",1
+9,NAT Grade 8,NAT,2022,"Which is the correct word: This is the ___ expensive option.","less","least","fewer","fewest",1
+9,NAT Grade 8,NAT,2022,"Which is the correct word: She has ___ interest in sports.","little","few","less","least",0
+9,NAT Grade 8,NAT,2022,"Choose correct: The team ___ playing well.","is","are","were","have",0
+9,NAT Grade 8,NAT,2022,"Choose correct: The staff ___ not happy with the decision.","is","are","was","has",1
+9,NAT Grade 8,NAT,2022,"Choose correct: Twenty kilometres ___ a long way to walk.","is","are","were","be",0
+9,NAT Grade 8,NAT,2022,"Choose correct: Fifty dollars ___ too much.","is","are","were","be",0
+9,NAT Grade 8,NAT,2022,"Choose correct: The jury ___ reached a decision.","has","have","were","be",0
+9,NAT Grade 8,NAT,2022,"Passage: ""Many people believe that money brings happiness. However, studies have shown that once basic needs are met, additional wealth does not necessarily increase happiness. Relationships, health, and purpose are more important for true fulfilment."" Q: According to the passage, what does money do after basic needs?","Always brings happiness","Does not necessarily increase happiness","Guarantees success","Brings sadness",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Many people believe that money brings happiness. However, studies have shown that once basic needs are met, additional wealth does not necessarily increase happiness. Relationships, health, and purpose are more important for true fulfilment."" Q: What is more important for true fulfilment?","Wealth","Relationships, health, and purpose","Fame","Power",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Many people believe that money brings happiness. However, studies have shown that once basic needs are met, additional wealth does not necessarily increase happiness. Relationships, health, and purpose are more important for true fulfilment."" Q: The word ""fulfilment"" most nearly means:","Sorrow","Satisfaction","Anger","Boredom",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Deforestation is a serious problem in many African countries. When trees are cut down, the soil loses its fertility, wildlife loses its habitat, and the climate changes. Reforestation programmes are essential to reverse this damage."" Q: What is the main problem?","Reforestation","Deforestation","Climate","Wildlife",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Deforestation is a serious problem in many African countries. When trees are cut down, the soil loses its fertility, wildlife loses its habitat, and the climate changes. Reforestation programmes are essential to reverse this damage."" Q: What happens to the soil?","Gains fertility","Loses fertility","Becomes wet","Becomes dry only",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Deforestation is a serious problem in many African countries. When trees are cut down, the soil loses its fertility, wildlife loses its habitat, and the climate changes. Reforestation programmes are essential to reverse this damage."" Q: What is suggested as a solution?","More cutting","Reforestation","Less rain","Urbanisation",1
+9,NAT Grade 8,NAT,2022,"Passage: ""The Nile is the longest river in the world. It flows through eleven countries in Africa and has supported civilisations for thousands of years. Today, it continues to be a vital resource for millions of people."" Q: What is the Nile?","A lake","The longest river in the world","A mountain","A sea",1
+9,NAT Grade 8,NAT,2022,"Passage: ""The Nile is the longest river in the world. It flows through eleven countries in Africa and has supported civilisations for thousands of years. Today, it continues to be a vital resource for millions of people."" Q: How many countries does the Nile flow through?","5","7","11","15",2
+9,NAT Grade 8,NAT,2022,"Passage: ""The Nile is the longest river in the world. It flows through eleven countries in Africa and has supported civilisations for thousands of years. Today, it continues to be a vital resource for millions of people."" Q: The word ""vital"" most nearly means:","Unimportant","Essential","Weak","Small",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Women's education has a powerful impact on society. Educated women are more likely to have healthier children, earn higher incomes, and contribute to their communities. Investing in girls' education is one of the best ways to reduce poverty."" Q: What impact does women's education have?","Negative","Powerful and positive","No impact","Slight",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Women's education has a powerful impact on society. Educated women are more likely to have healthier children, earn higher incomes, and contribute to their communities. Investing in girls' education is one of the best ways to reduce poverty."" Q: What is one benefit mentioned?","Less income","Healthier children","Fewer opportunities","Less respect",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Women's education has a powerful impact on society. Educated women are more likely to have healthier children, earn higher incomes, and contribute to their communities. Investing in girls' education is one of the best ways to reduce poverty."" Q: What is one of the best ways to reduce poverty?","Ignoring education","Investing in girls' education","Reducing jobs","Closing schools",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Exercise is not only good for the body but also for the mind. Regular physical activity reduces stress, improves mood, and enhances memory. Just thirty minutes of exercise a day can make a significant difference."" Q: Exercise is good for:","Only the body","Only the mind","Both body and mind","Neither",2
+9,NAT Grade 8,NAT,2022,"Passage: ""Exercise is not only good for the body but also for the mind. Regular physical activity reduces stress, improves mood, and enhances memory. Just thirty minutes of exercise a day can make a significant difference."" Q: What does regular exercise do?","Increases stress","Reduces stress","Has no effect","Only helps muscles",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Exercise is not only good for the body but also for the mind. Regular physical activity reduces stress, improves mood, and enhances memory. Just thirty minutes of exercise a day can make a significant difference."" Q: How much exercise per day is recommended?","10 minutes","30 minutes","1 hour","2 hours",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Social media has changed the way people communicate. While it connects friends and family across the world, it can also lead to addiction and mental health problems. Balance and moderation are key."" Q: What has social media changed?","Agriculture","Communication","Transport","Weather",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Social media has changed the way people communicate. While it connects friends and family across the world, it can also lead to addiction and mental health problems. Balance and moderation are key."" Q: What is one negative effect mentioned?","Better friendships","Addiction and mental health problems","More food","Less sleep only",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Social media has changed the way people communicate. While it connects friends and family across the world, it can also lead to addiction and mental health problems. Balance and moderation are key."" Q: What does the passage recommend?","Excessive use","Total avoidance","Balance and moderation","Only texting",2
+9,NAT Grade 8,NAT,2022,"Passage: ""The Sahara Desert is expanding southward into the Sahel region. This process, called desertification, threatens farmland and communities. Planting trees and sustainable farming are essential to slow it down."" Q: What is the process called?","Urbanisation","Desertification","Industrialisation","Migration",1
+9,NAT Grade 8,NAT,2022,"Passage: ""The Sahara Desert is expanding southward into the Sahel region. This process, called desertification, threatens farmland and communities. Planting trees and sustainable farming are essential to slow it down."" Q: What is threatened by desertification?","Only animals","Farmland and communities","Only buildings","Only rivers",1
+9,NAT Grade 8,NAT,2022,"Passage: ""The Sahara Desert is expanding southward into the Sahel region. This process, called desertification, threatens farmland and communities. Planting trees and sustainable farming are essential to slow it down."" Q: What is essential to slow desertification?","More grazing","Planting trees and sustainable farming","Burning grass","Cutting trees",1
+9,NAT Grade 8,NAT,2022,"Passage: ""Clean water is essential for health. Unfortunately, millions of people around the world still lack access to safe drinking water. Simple interventions like wells, filters, and hygiene education can save countless lives."" Q: What is essential for health?","Clean water","Luxury goods","Television","Cars",0
+9,NAT Grade 8,NAT,2022,"Passage: ""Clean water is essential for health. Unfortunately, millions of people around the world still lack access to safe drinking water. Simple interventions like wells, filters, and hygiene education can save countless lives."" Q: How many lack access to clean water?","A few","Hundreds","Millions","Nobody",2
+9,NAT Grade 8,NAT,2022,"Passage: ""Clean water is essential for health. Unfortunately, millions of people around the world still lack access to safe drinking water. Simple interventions like wells, filters, and hygiene education can save countless lives."" Q: What can save lives?","Wells, filters, hygiene education","Only wells","Only filters","Only medicine",0
+9,NAT Grade 8,NAT,2022,"Which is a compound sentence?","I went home.","I went home and I slept.","I went home, and I slept.","Although I went home, I slept.",2
+9,NAT Grade 8,NAT,2022,"Which is a complex sentence?","I went home.","I went home and slept.","Because I was tired, I went home.","I went home; I slept.",2
+9,NAT Grade 8,NAT,2022,"Which is a compound-complex sentence?","I went home.","I went home and slept.","Although I was tired, I went home, and I slept.","I went home; I slept.",2
+9,NAT Grade 8,NAT,2022,"Which is the correct relative clause?","The man who is standing there is my father.","The man which is standing there is my father.","The man whose is standing there is my father.","The man what is standing there is my father.",0
+9,NAT Grade 8,NAT,2022,"Which is the correct relative clause?","The book which I read was good.","The book who I read was good.","The book whose I read was good.","The book what I read was good.",0
+9,NAT Grade 8,NAT,2022,"Which is the correct relative clause?","The girl whose bag was stolen cried.","The girl who bag was stolen cried.","The girl which bag was stolen cried.","The girl what bag was stolen cried.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","He is more intelligent than me.","He is more intelligent than I.","He is more intelligent than I am.","Both A and C are correct",3
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","Neither of us are ready.","Neither of us is ready.","Neither of us were ready.","Neither of us be ready.",1
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","The team have decided.","The team has decided.","The team were decided.","The team be decided.",1
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","I have fewer books than him.","I have less books than him.","I have lesser books than him.","I have littler books than him.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","He didn't do nothing.","He didn't do anything.","He didn't do nothing at all.","He did not nothing.",1
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","Between you and I, this is bad.","Between you and me, this is bad.","Between you and myself, this is bad.","Between yourself and I, this is bad.",1
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","She is older than me.","She is older than I.","She is older than I am.","Both A and C are correct",3
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","Whom is calling?","Who is calling?","Whose is calling?","Which is calling?",1
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","Whom did you see?","Who did you see?","Whose did you see?","Which did you see?",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","He laid down to rest.","He lay down to rest.","He lied down to rest.","He lain down to rest.",1
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","I have laid the book on the table.","I have lain the book on the table.","I have lied the book on the table.","I have lay the book on the table.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","He is sitting on the chair.","He is setting on the chair.","He is sat on the chair.","He is sitted on the chair.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","The sun sets in the west.","The sun sets in the east.","The sun sits in the west.","The sun sat in the west.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","I have already eaten.","I have all ready eaten.","I have already ate.","I have already eat.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","The teacher gave each of the boys a book.","The teacher gave each of the boys a books.","The teacher gave each of the boys book.","The teacher gave all the boys a books.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","I have been living here for five years.","I have been living here since five years.","I live here for five years.","I am living here since five years.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","He has gone to the market.","He has went to the market.","He have gone to the market.","He has going to the market.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","She has broken the vase.","She has broke the vase.","She have broken the vase.","She has break the vase.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","He has taken my book.","He has took my book.","He have taken my book.","He has take my book.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","They had already left.","They had already leaved.","They had already leave.","They had already leaving.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","I will have finished by noon.","I will have finish by noon.","I will has finished by noon.","I will finished by noon.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","She had been waiting for an hour.","She had been wait for an hour.","She had waiting for an hour.","She has been waiting for an hour.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","By 5pm, we will have arrived.","By 5pm, we will have arrive.","By 5pm, we will arrived.","By 5pm, we will has arrived.",0
+9,NAT Grade 8,NAT,2022,"Choose the correct sentence:","The match had already started when we arrived.","The match has already started when we arrived.","The match already started when we arrived.","The match was already started when we arrived.",0

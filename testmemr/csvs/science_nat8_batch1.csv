@@ -1,0 +1,98 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+12,NAT Grade 8,NAT,2024,"Which organelle is known as the powerhouse of the cell?","Nucleus","Mitochondria","Ribosome","Vacuole",1
+12,NAT Grade 8,NAT,2024,"Which organelle controls the activities of the cell?","Nucleus","Mitochondria","Cell membrane","Cytoplasm",0
+12,NAT Grade 8,NAT,2024,"Which of these is found in plant cells but NOT animal cells?","Nucleus","Cell wall","Cell membrane","Cytoplasm",1
+12,NAT Grade 8,NAT,2024,"The process by which cells divide to form two identical cells is:","Meiosis","Mitosis","Fusion","Fission",1
+12,NAT Grade 8,NAT,2024,"Which of these is NOT a cell organelle?","Ribosome","Mitochondria","Atom","Nucleus",2
+12,NAT Grade 8,NAT,2024,"Which of these is the smallest unit of a compound?","Atom","Molecule","Cell","Element",1
+12,NAT Grade 8,NAT,2024,"Photosynthesis takes place in the:","Mitochondria","Chloroplast","Nucleus","Vacuole",1
+12,NAT Grade 8,NAT,2024,"Which gas is produced during photosynthesis?","Carbon dioxide","Oxygen","Nitrogen","Hydrogen",1
+12,NAT Grade 8,NAT,2024,"The chemical equation for photosynthesis shows carbon dioxide + water → glucose + ___","Nitrogen","Oxygen","Hydrogen","Carbon",1
+12,NAT Grade 8,NAT,2024,"Respiration that requires oxygen is called:","Anaerobic","Aerobic","Fermentation","Photosynthesis",1
+12,NAT Grade 8,NAT,2024,"Anaerobic respiration in muscles produces:","Lactic acid","Alcohol","Oxygen","Glucose",0
+12,NAT Grade 8,NAT,2024,"Anaerobic respiration in yeast produces:","Alcohol and carbon dioxide","Water","Oxygen","Salt",0
+12,NAT Grade 8,NAT,2024,"Which of these is the main product of respiration?","Energy (ATP)","Glucose","Oxygen","Water",0
+12,NAT Grade 8,NAT,2024,"The exchange of gases in the lungs takes place in the:","Bronchi","Trachea","Alveoli","Larynx",2
+12,NAT Grade 8,NAT,2024,"Which structure prevents food from entering the windpipe?","Tongue","Epiglottis","Uvula","Pharynx",1
+12,NAT Grade 8,NAT,2024,"Which blood vessel carries blood away from the heart?","Vein","Artery","Capillary","Ventricle",1
+12,NAT Grade 8,NAT,2024,"Which blood vessel carries blood toward the heart?","Artery","Vein","Capillary","Atrium",1
+12,NAT Grade 8,NAT,2024,"How many chambers does the human heart have?","2","3","4","5",2
+12,NAT Grade 8,NAT,2024,"Which chamber of the heart pumps blood to the whole body?","Left atrium","Right atrium","Left ventricle","Right ventricle",2
+12,NAT Grade 8,NAT,2024,"Which blood cells carry oxygen?","White blood cells","Red blood cells","Platelets","Plasma",1
+12,NAT Grade 8,NAT,2024,"Which blood cells help blood to clot?","Red blood cells","White blood cells","Platelets","Plasma",2
+12,NAT Grade 8,NAT,2024,"Which of these is NOT a function of the skeleton?","Support","Protection","Movement","Digestion",3
+12,NAT Grade 8,NAT,2024,"Which is the largest bone in the human body?","Femur","Tibia","Humerus","Skull",0
+12,NAT Grade 8,NAT,2024,"A joint that allows movement in all directions is called:","Hinge joint","Ball and socket joint","Pivot joint","Fixed joint",1
+12,NAT Grade 8,NAT,2024,"The knee is an example of a:","Ball and socket joint","Hinge joint","Pivot joint","Fixed joint",1
+12,NAT Grade 8,NAT,2024,"Muscles work in:","Pairs","Singles","Triples","Fours",0
+12,NAT Grade 8,NAT,2024,"The muscle that bends the arm is the:","Triceps","Biceps","Deltoid","Pectoral",1
+12,NAT Grade 8,NAT,2024,"Which of these connects muscle to bone?","Ligament","Tendon","Cartilage","Nerve",1
+12,NAT Grade 8,NAT,2024,"Which of these connects bone to bone?","Ligament","Tendon","Cartilage","Nerve",0
+12,NAT Grade 8,NAT,2024,"The nervous system is made up of the brain, spinal cord and:","Bones","Nerves","Muscles","Blood",1
+12,NAT Grade 8,NAT,2024,"Which part of the brain controls balance and coordination?","Cerebrum","Cerebellum","Medulla","Hypothalamus",1
+12,NAT Grade 8,NAT,2024,"The basic unit of the nervous system is the:","Neuron","Nephron","Alveolus","Villus",0
+12,NAT Grade 8,NAT,2024,"A reflex action involves:","The brain only","The spinal cord and nerves","The heart","The lungs",1
+12,NAT Grade 8,NAT,2024,"The endocrine system produces:","Hormones","Blood","Urine","Oxygen",0
+12,NAT Grade 8,NAT,2024,"Insulin is produced by the:","Liver","Pancreas","Kidney","Heart",1
+12,NAT Grade 8,NAT,2024,"A lack of insulin causes:","Malaria","Diabetes","Asthma","Cancer",1
+12,NAT Grade 8,NAT,2024,"Which organ produces urine?","Liver","Kidney","Heart","Lungs",1
+12,NAT Grade 8,NAT,2024,"Which of these is NOT part of the excretory system?","Kidney","Bladder","Lungs","Stomach",3
+12,NAT Grade 8,NAT,2024,"Which is the largest organ of the human body?","Heart","Skin","Liver","Brain",1
+12,NAT Grade 8,NAT,2024,"Which of these helps to regulate body temperature?","Skin","Lungs","Kidney","Liver",0
+12,NAT Grade 8,NAT,2024,"Which organ produces bile?","Liver","Stomach","Pancreas","Kidney",0
+12,NAT Grade 8,NAT,2024,"Which enzyme in saliva begins the digestion of starch?","Pepsin","Amylase","Lipase","Trypsin",1
+12,NAT Grade 8,NAT,2024,"Which part of the digestive system absorbs most nutrients?","Stomach","Small intestine","Large intestine","Oesophagus",1
+12,NAT Grade 8,NAT,2024,"Which part of the digestive system absorbs water?","Stomach","Small intestine","Large intestine","Mouth",2
+12,NAT Grade 8,NAT,2024,"Which of these is NOT a nutrient?","Carbohydrate","Protein","Vitamin","Oxygen",3
+12,NAT Grade 8,NAT,2024,"Which vitamin helps blood to clot?","Vitamin A","Vitamin C","Vitamin D","Vitamin K",3
+12,NAT Grade 8,NAT,2024,"A lack of vitamin C causes:","Scurvy","Rickets","Anaemia","Night blindness",0
+12,NAT Grade 8,NAT,2024,"A lack of iron in the diet causes:","Scurvy","Rickets","Anaemia","Goitre",2
+12,NAT Grade 8,NAT,2024,"A lack of iodine causes:","Goitre","Scurvy","Rickets","Anaemia",0
+12,NAT Grade 8,NAT,2024,"Which mineral is needed for strong bones and teeth?","Iron","Calcium","Iodine","Zinc",1
+12,NAT Grade 8,NAT,2024,"Which of these is a deficiency disease?","Malaria","Rickets","Cholera","TB",1
+12,NAT Grade 8,NAT,2024,"Which of these is a communicable disease?","Diabetes","Tuberculosis","Cancer","Asthma",1
+12,NAT Grade 8,NAT,2024,"Pathogens are:","Disease-causing organisms","Vitamins","Hormones","Enzymes",0
+12,NAT Grade 8,NAT,2024,"Which of these is a bacterial disease?","Malaria","Tuberculosis","Measles","Chicken pox",1
+12,NAT Grade 8,NAT,2024,"Which of these is a viral disease?","Cholera","Tuberculosis","Measles","Typhoid",2
+12,NAT Grade 8,NAT,2024,"Which of these is a fungal disease?","Athlete's foot","Malaria","Cholera","Measles",0
+12,NAT Grade 8,NAT,2024,"Antibiotics are used to treat:","Viral infections","Bacterial infections","Fungal infections","All diseases",1
+12,NAT Grade 8,NAT,2024,"Which of these prevents the spread of disease?","Sharing needles","Good hygiene","Sneezing openly","Drinking dirty water",1
+12,NAT Grade 8,NAT,2024,"The body's first line of defence against disease is:","Skin","White blood cells","Antibodies","Vaccines",0
+12,NAT Grade 8,NAT,2024,"Vaccines work by:","Causing disease","Stimulating the immune system","Killing all bacteria","Reducing nutrients",1
+12,NAT Grade 8,NAT,2024,"HIV attacks which type of cell?","Red blood cells","White blood cells","Nerve cells","Muscle cells",1
+12,NAT Grade 8,NAT,2024,"Malaria is transmitted by:","Female Anopheles mosquito","Housefly","Tsetse fly","Cockroach",0
+12,NAT Grade 8,NAT,2024,"Which of these is a non-communicable disease?","Malaria","Diabetes","Cholera","Typhoid",1
+12,NAT Grade 8,NAT,2024,"Cancer is caused by:","Uncontrolled cell division","A virus only","Bacteria","Fungi",0
+12,NAT Grade 8,NAT,2024,"Which of these increases the risk of cancer?","Exercise","Smoking","Fruits","Water",1
+12,NAT Grade 8,NAT,2024,"The basic unit of matter is the:","Molecule","Atom","Cell","Compound",1
+12,NAT Grade 8,NAT,2024,"Which particle in an atom has a positive charge?","Electron","Proton","Neutron","Ion",1
+12,NAT Grade 8,NAT,2024,"Which particle in an atom has a negative charge?","Proton","Electron","Neutron","Nucleus",1
+12,NAT Grade 8,NAT,2024,"Which particle in an atom has no charge?","Proton","Electron","Neutron","Ion",2
+12,NAT Grade 8,NAT,2024,"The centre of an atom is called the:","Electron cloud","Nucleus","Shell","Orbital",1
+12,NAT Grade 8,NAT,2024,"The atomic number of an element is the number of:","Neutrons","Protons","Electrons + neutrons","Shells",1
+12,NAT Grade 8,NAT,2024,"Which of these is a noble gas?","Oxygen","Helium","Hydrogen","Chlorine",1
+12,NAT Grade 8,NAT,2024,"The chemical symbol for sodium is:","So","Na","S","Sn",1
+12,NAT Grade 8,NAT,2024,"The chemical symbol for potassium is:","P","Po","K","Pt",2
+12,NAT Grade 8,NAT,2024,"The chemical symbol for calcium is:","C","Ca","Cl","Co",1
+12,NAT Grade 8,NAT,2024,"The chemical symbol for copper is:","Co","Cu","Cp","C",1
+12,NAT Grade 8,NAT,2024,"Which of these is a compound?","Oxygen","Water","Gold","Iron",1
+12,NAT Grade 8,NAT,2024,"Which of these is an element?","Water","Carbon dioxide","Oxygen","Salt",2
+12,NAT Grade 8,NAT,2024,"A compound is formed when:","Two or more elements chemically combine","Two elements are mixed","An element is heated","An atom splits",0
+12,NAT Grade 8,NAT,2024,"Which of these is a mixture?","Water","Salt","Air","Sugar",2
+12,NAT Grade 8,NAT,2024,"The pH scale ranges from:","0 to 7","0 to 14","1 to 10","1 to 100",1
+12,NAT Grade 8,NAT,2024,"A substance with pH 3 is:","Acidic","Neutral","Basic","Alkaline",0
+12,NAT Grade 8,NAT,2024,"A substance with pH 10 is:","Acidic","Neutral","Basic/alkaline","Nothing",2
+12,NAT Grade 8,NAT,2024,"Which of these is a strong acid?","Lemon juice","Vinegar","Hydrochloric acid","Water",2
+12,NAT Grade 8,NAT,2024,"Acid + base produces:","Salt and water","Only salt","Only water","Gas only",0
+12,NAT Grade 8,NAT,2024,"Which of these is a neutralisation reaction?","Acid + base → salt + water","Acid + metal → salt + hydrogen","Water + salt → solution","Air + water → steam",0
+12,NAT Grade 8,NAT,2024,"When metals react with acids, which gas is usually produced?","Oxygen","Hydrogen","Carbon dioxide","Nitrogen",1
+12,NAT Grade 8,NAT,2024,"Which metal reacts most vigorously with water?","Gold","Sodium","Copper","Iron",1
+12,NAT Grade 8,NAT,2024,"Which of these metals is the most reactive?","Gold","Silver","Potassium","Copper",2
+12,NAT Grade 8,NAT,2024,"Which of these is an example of a chemical change?","Melting ice","Burning wood","Breaking glass","Boiling water",1
+12,NAT Grade 8,NAT,2024,"Which of these is a physical change?","Rusting iron","Burning paper","Melting wax","Cooking rice",2
+12,NAT Grade 8,NAT,2024,"In a chemical reaction, the substances that react are called:","Products","Reactants","Catalysts","Solvents",1
+12,NAT Grade 8,NAT,2024,"In a chemical reaction, the substances formed are called:","Products","Reactants","Catalysts","Solvents",0
+12,NAT Grade 8,NAT,2024,"A catalyst is a substance that:","Slows a reaction","Speeds up a reaction without being used up","Stops a reaction","Is a reactant",1
+12,NAT Grade 8,NAT,2024,"Which of these is a balanced chemical equation concept?","Reactants = Products in mass","Reactants > Products","Products > Reactants","No relation",0
+12,NAT Grade 8,NAT,2024,"The process of a solid changing directly to a gas is:","Melting","Evaporation","Sublimation","Condensation",2
+12,NAT Grade 8,NAT,2024,"The process of a gas changing directly to a solid is:","Deposition","Sublimation","Condensation","Freezing",0

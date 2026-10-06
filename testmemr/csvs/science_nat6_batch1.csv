@@ -1,0 +1,101 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+8,NAT Grade 6,NAT,2024,"What is the basic unit of all living things?","Atom","Cell","Organ","Tissue",1
+8,NAT Grade 6,NAT,2024,"Which of these is NOT a characteristic of living things?","Growth","Reproduction","Rusting","Respiration",2
+8,NAT Grade 6,NAT,2024,"Which part of the plant cell is NOT found in an animal cell?","Nucleus","Cell wall","Cytoplasm","Cell membrane",1
+8,NAT Grade 6,NAT,2024,"The control centre of a cell is the:","Cell wall","Nucleus","Cytoplasm","Vacuole",1
+8,NAT Grade 6,NAT,2024,"Which of these is a single-celled organism?","Fish","Amoeba","Frog","Mango",1
+8,NAT Grade 6,NAT,2024,"Which part of the plant carries out photosynthesis?","Root","Stem","Leaf","Flower",2
+8,NAT Grade 6,NAT,2024,"The green pigment in leaves is called:","Chlorophyll","Chlorine","Glucose","Protein",0
+8,NAT Grade 6,NAT,2024,"Photosynthesis produces:","Oxygen and glucose","Carbon dioxide and water","Nitrogen and sugar","Salt and water",0
+8,NAT Grade 6,NAT,2024,"Plants absorb water through their:","Leaves","Stems","Roots","Flowers",2
+8,NAT Grade 6,NAT,2024,"Which of these is a flowering plant?","Fern","Moss","Mango tree","Mushroom",2
+8,NAT Grade 6,NAT,2024,"The process by which plants make food is called:","Respiration","Digestion","Photosynthesis","Transpiration",2
+8,NAT Grade 6,NAT,2024,"The loss of water vapour from plant leaves is called:","Condensation","Transpiration","Evaporation","Precipitation",1
+8,NAT Grade 6,NAT,2024,"Which organ pumps blood around the body?","Lungs","Heart","Liver","Kidney",1
+8,NAT Grade 6,NAT,2024,"Which organ is responsible for breathing?","Heart","Lungs","Stomach","Brain",1
+8,NAT Grade 6,NAT,2024,"Which is NOT part of the digestive system?","Stomach","Small intestine","Heart","Oesophagus",2
+8,NAT Grade 6,NAT,2024,"The brain is protected by the:","Ribs","Skull","Spine","Pelvis",1
+8,NAT Grade 6,NAT,2024,"The heart pumps blood through tubes called:","Nerves","Blood vessels","Tendons","Muscles",1
+8,NAT Grade 6,NAT,2024,"Which blood cells fight infection?","Red blood cells","White blood cells","Platelets","Plasma",1
+8,NAT Grade 6,NAT,2024,"How many bones are in an adult human body?","106","206","306","406",1
+8,NAT Grade 6,NAT,2024,"Which is the largest organ of the human body?","Heart","Liver","Skin","Brain",2
+8,NAT Grade 6,NAT,2024,"Which nutrient helps build muscles and body tissues?","Carbohydrates","Protein","Fats","Water",1
+8,NAT Grade 6,NAT,2024,"Which nutrient is the body's main source of energy?","Protein","Carbohydrates","Minerals","Vitamins",1
+8,NAT Grade 6,NAT,2024,"Vitamin C is found in:","Rice","Oranges","Bread","Salt",1
+8,NAT Grade 6,NAT,2024,"A lack of iron in the diet can cause:","Anaemia","Rickets","Scurvy","Night blindness",0
+8,NAT Grade 6,NAT,2024,"Night blindness is caused by a lack of:","Vitamin A","Vitamin B","Vitamin C","Vitamin D",0
+8,NAT Grade 6,NAT,2024,"Rickets (weak bones) is caused by a lack of:","Iron","Calcium and Vitamin D","Vitamin C","Iodine",1
+8,NAT Grade 6,NAT,2024,"Which nutrient is found in meat, eggs and beans?","Protein","Carbohydrate","Fat","Water",0
+8,NAT Grade 6,NAT,2024,"Roughage (fibre) helps to:","Build muscle","Prevent constipation","Give energy","Strengthen bones",1
+8,NAT Grade 6,NAT,2024,"Which vitamin is produced when the skin is exposed to sunlight?","Vitamin A","Vitamin B","Vitamin C","Vitamin D",3
+8,NAT Grade 6,NAT,2024,"Malaria is caused by:","A virus","A parasite (Plasmodium)","A bacterium","A fungus",1
+8,NAT Grade 6,NAT,2024,"Which of these is a water-borne disease?","Malaria","Typhoid","Diabetes","Asthma",1
+8,NAT Grade 6,NAT,2024,"Cholera is spread through:","Air","Contaminated water and food","Mosquito bites","Touch alone",1
+8,NAT Grade 6,NAT,2024,"Which disease is caused by a virus?","Malaria","Tuberculosis","Measles","Cholera",2
+8,NAT Grade 6,NAT,2024,"Tuberculosis (TB) mainly affects:","Skin","Lungs","Liver","Kidney",1
+8,NAT Grade 6,NAT,2024,"Which of these prevents malaria?","Using mosquito nets","Drinking dirty water","Sleeping outside","Bush burning",0
+8,NAT Grade 6,NAT,2024,"The best way to prevent diarrhoea is:","Washing hands and drinking clean water","Eating more sugar","Sleeping more","Running",0
+8,NAT Grade 6,NAT,2024,"Which is a non-communicable disease?","Malaria","Diabetes","Cholera","Tuberculosis",1
+8,NAT Grade 6,NAT,2024,"Vaccination helps to:","Cure all diseases","Prevent diseases","Cause disease","Nothing",1
+8,NAT Grade 6,NAT,2024,"Which of these is a vaccine given to children?","BCG","Aspirin","Paracetamol","Ibuprofen",0
+8,NAT Grade 6,NAT,2024,"A healthy lifestyle includes:","Smoking","Regular exercise","Eating only sugar","Sleeping all day",1
+8,NAT Grade 6,NAT,2024,"Which of these is a state of matter?","Energy","Liquid","Heat","Light",1
+8,NAT Grade 6,NAT,2024,"Which of these is NOT a state of matter?","Solid","Liquid","Gas","Energy",3
+8,NAT Grade 6,NAT,2024,"When water changes from liquid to gas, this is called:","Condensation","Evaporation","Freezing","Melting",1
+8,NAT Grade 6,NAT,2024,"When a gas changes to a liquid, this is called:","Evaporation","Condensation","Sublimation","Freezing",1
+8,NAT Grade 6,NAT,2024,"The temperature at which water boils is:","0°C","50°C","100°C","200°C",2
+8,NAT Grade 6,NAT,2024,"The temperature at which water freezes is:","0°C","10°C","50°C","100°C",0
+8,NAT Grade 6,NAT,2024,"Which of these is a mixture?","Water","Air","Salt","Iron",1
+8,NAT Grade 6,NAT,2024,"A solution is:","A mixture where one substance dissolves in another","Always solid","Only water","A pure element",0
+8,NAT Grade 6,NAT,2024,"In salt water, salt is the:","Solvent","Solute","Solution","Sediment",1
+8,NAT Grade 6,NAT,2024,"Which method is used to separate salt from salt water?","Filtration","Evaporation","Decanting","Magnetism",1
+8,NAT Grade 6,NAT,2024,"Which method is used to separate sand from water?","Filtration","Evaporation","Condensation","Distillation",0
+8,NAT Grade 6,NAT,2024,"Which method is used to separate iron filings from sand?","Filtration","Magnetism","Evaporation","Distillation",1
+8,NAT Grade 6,NAT,2024,"The process of adding oxygen to a substance is:","Reduction","Oxidation","Condensation","Sublimation",1
+8,NAT Grade 6,NAT,2024,"Rusting of iron is an example of:","Oxidation","Reduction","Evaporation","Melting",0
+8,NAT Grade 6,NAT,2024,"Which of these speeds up rusting?","Dry air","Water and oxygen","Oil","Plastic",1
+8,NAT Grade 6,NAT,2024,"Which gas do humans breathe in?","Carbon dioxide","Nitrogen","Oxygen","Hydrogen",2
+8,NAT Grade 6,NAT,2024,"Which gas do humans breathe out?","Oxygen","Carbon dioxide","Nitrogen","Helium",1
+8,NAT Grade 6,NAT,2024,"Approximately what percentage of air is oxygen?","21%","50%","78%","99%",0
+8,NAT Grade 6,NAT,2024,"Approximately what percentage of air is nitrogen?","21%","50%","78%","99%",2
+8,NAT Grade 6,NAT,2024,"Which gas do plants use for photosynthesis?","Oxygen","Carbon dioxide","Nitrogen","Helium",1
+8,NAT Grade 6,NAT,2024,"Which gas is used in balloons to make them float?","Oxygen","Helium","Carbon dioxide","Nitrogen",1
+8,NAT Grade 6,NAT,2024,"Which gas is produced when things burn?","Oxygen","Carbon dioxide","Helium","Hydrogen",1
+8,NAT Grade 6,NAT,2024,"Which of these is a greenhouse gas?","Oxygen","Carbon dioxide","Nitrogen","Helium",1
+8,NAT Grade 6,NAT,2024,"Air is a mixture of:","Gases","Liquids","Solids","Metals",0
+8,NAT Grade 6,NAT,2024,"Which instrument measures air pressure?","Thermometer","Barometer","Rain gauge","Anemometer",1
+8,NAT Grade 6,NAT,2024,"Which instrument measures wind speed?","Thermometer","Barometer","Rain gauge","Anemometer",3
+8,NAT Grade 6,NAT,2024,"Which instrument measures wind direction?","Thermometer","Wind vane","Rain gauge","Barometer",1
+8,NAT Grade 6,NAT,2024,"Which instrument measures temperature?","Thermometer","Barometer","Rain gauge","Anemometer",0
+8,NAT Grade 6,NAT,2024,"Which is the hottest season in The Gambia?","Rainy season","Dry season","Winter","Autumn",1
+8,NAT Grade 6,NAT,2024,"The harmattan wind brings:","Rain","Dust and dry air","Snow","Cold weather",1
+8,NAT Grade 6,NAT,2024,"Which month is the peak of the rainy season in The Gambia?","January","April","August","December",2
+8,NAT Grade 6,NAT,2024,"Which of these causes floods?","Deforestation","Planting trees","Using wells","Building dams",0
+8,NAT Grade 6,NAT,2024,"Which of these reduces soil erosion?","Bush burning","Planting trees","Overgrazing","Deforestation",1
+8,NAT Grade 6,NAT,2024,"Deforestation leads to:","More rain","Desertification","More animals","More trees",1
+8,NAT Grade 6,NAT,2024,"Which is a renewable source of energy?","Coal","Oil","Solar","Petroleum",2
+8,NAT Grade 6,NAT,2024,"Which of these is a fossil fuel?","Solar","Wind","Coal","Water",2
+8,NAT Grade 6,NAT,2024,"Which of these is a non-renewable source of energy?","Wind","Solar","Coal","Water",2
+8,NAT Grade 6,NAT,2024,"The main source of energy for the Earth is:","Moon","Sun","Stars","Wind",1
+8,NAT Grade 6,NAT,2024,"Light travels in:","Curves","Straight lines","Circles","Zigzag",1
+8,NAT Grade 6,NAT,2024,"A shadow is formed because light:","Passes through objects","Is blocked by objects","Bends","Is absorbed",1
+8,NAT Grade 6,NAT,2024,"Which of these reflects light best?","Black cloth","A mirror","Cardboard","Water",1
+8,NAT Grade 6,NAT,2024,"We see objects because light:","Is absorbed by them","Bounces off them into our eyes","Passes through them","Stops at them",1
+8,NAT Grade 6,NAT,2024,"Which is a natural source of light?","Candle","Lamp","Sun","Torch",2
+8,NAT Grade 6,NAT,2024,"Which is a man-made source of light?","Sun","Star","Moon","Torch",3
+8,NAT Grade 6,NAT,2024,"A rainbow forms when sunlight passes through:","Clouds","Water droplets","Dust","Fire",1
+8,NAT Grade 6,NAT,2024,"Sound travels fastest through:","Air","Water","Steel","Vacuum",2
+8,NAT Grade 6,NAT,2024,"Sound cannot travel through:","Air","Water","Steel","Vacuum",3
+8,NAT Grade 6,NAT,2024,"Which is the unit of sound?","Hertz","Decibel","Metre","Newton",1
+8,NAT Grade 6,NAT,2024,"An echo is caused by:","Absorption","Reflection of sound","Refraction of light","Vibration of light",1
+8,NAT Grade 6,NAT,2024,"Which material is a good conductor of heat?","Wood","Plastic","Copper","Rubber",2
+8,NAT Grade 6,NAT,2024,"Which material is a good insulator?","Iron","Copper","Wood","Aluminium",2
+8,NAT Grade 6,NAT,2024,"Heat transfer through solids is called:","Convection","Conduction","Radiation","Evaporation",1
+8,NAT Grade 6,NAT,2024,"Heat transfer in liquids and gases is called:","Conduction","Convection","Radiation","Condensation",1
+8,NAT Grade 6,NAT,2024,"Heat from the sun reaches the earth by:","Conduction","Convection","Radiation","Evaporation",2
+8,NAT Grade 6,NAT,2024,"Which is a good conductor of electricity?","Rubber","Plastic","Copper","Wood",2
+8,NAT Grade 6,NAT,2024,"Which is an insulator of electricity?","Iron","Copper","Aluminium","Rubber",3
+8,NAT Grade 6,NAT,2024,"A simple circuit needs:","Cell, wire and bulb","Only bulb","Only wire","Only cell",0
+8,NAT Grade 6,NAT,2024,"Which of these is a source of electricity?","Battery","Bulb","Wire","Switch",0
+8,NAT Grade 6,NAT,2024,"A magnet has how many poles?","1","2","3","4",1
+8,NAT Grade 6,NAT,2024,"Which material is attracted by a magnet?","Wood","Iron","Plastic","Paper",1

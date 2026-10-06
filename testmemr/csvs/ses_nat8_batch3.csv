@@ -1,0 +1,97 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+11,NAT Grade 8,NAT,2022,"The longest river in Africa is the:","Congo","Nile","Niger","Zambezi",1
+11,NAT Grade 8,NAT,2022,"The largest desert in Africa is the:","Kalahari","Sahara","Namib","Danakil",1
+11,NAT Grade 8,NAT,2022,"Mount Kilimanjaro is in:","Kenya","Tanzania","Uganda","Rwanda",1
+11,NAT Grade 8,NAT,2022,"Which is the highest mountain in Africa?","Mount Kenya","Kilimanjaro","Mount Cameroon","Atlas",1
+11,NAT Grade 8,NAT,2022,"The largest lake in Africa is:","Lake Chad","Lake Victoria","Lake Tanganyika","Lake Malawi",1
+11,NAT Grade 8,NAT,2022,"Which is NOT a West African country?","Nigeria","Ghana","Kenya","Senegal",2
+11,NAT Grade 8,NAT,2022,"The capital of Senegal is:","Dakar","Banjul","Conakry","Bissau",0
+11,NAT Grade 8,NAT,2022,"The capital of Guinea-Bissau is:","Bissau","Conakry","Dakar","Bamako",0
+11,NAT Grade 8,NAT,2022,"The capital of Guinea is:","Conakry","Bissau","Dakar","Freetown",0
+11,NAT Grade 8,NAT,2022,"The capital of Mali is:","Bamako","Ouagadougou","Niamey","Conakry",0
+11,NAT Grade 8,NAT,2022,"The capital of Mauritania is:","Nouakchott","Dakar","Bamako","Rabat",0
+11,NAT Grade 8,NAT,2022,"Which country borders The Gambia on three sides?","Senegal","Mali","Guinea","Guinea-Bissau",0
+11,NAT Grade 8,NAT,2022,"Senegal surrounds The Gambia on which sides?","North, south and east","West only","South only","East only",0
+11,NAT Grade 8,NAT,2022,"The Atlantic Ocean borders The Gambia on the:","North","East","West","South only",2
+11,NAT Grade 8,NAT,2022,"Which is the largest country in West Africa by area?","Nigeria","Niger","Mali","Ghana",1
+11,NAT Grade 8,NAT,2022,"Which is the most populous country in West Africa?","Ghana","Nigeria","Senegal","Côte d'Ivoire",1
+11,NAT Grade 8,NAT,2022,"Which West African country was formerly called Gold Coast?","Ghana","Nigeria","Togo","Benin",0
+11,NAT Grade 8,NAT,2022,"Which West African country was formerly called Dahomey?","Benin","Togo","Ghana","Mali",0
+11,NAT Grade 8,NAT,2022,"Which West African country was formerly called Upper Volta?","Burkina Faso","Niger","Mali","Chad",0
+11,NAT Grade 8,NAT,2022,"Which West African country was formerly called Ivory Coast?","Côte d'Ivoire","Liberia","Sierra Leone","Togo",0
+11,NAT Grade 8,NAT,2022,"The dominant climate type in West Africa is:","Tropical","Polar","Mediterranean","Continental",0
+11,NAT Grade 8,NAT,2022,"The Sahara Desert is to the ___ of West Africa.","South","North","East","West",1
+11,NAT Grade 8,NAT,2022,"The Gulf of Guinea is located to the ___ of West Africa.","North","East","South","West",2
+11,NAT Grade 8,NAT,2022,"Which crop is a major export of Côte d'Ivoire?","Cocoa","Groundnut","Cotton","Rubber",0
+11,NAT Grade 8,NAT,2022,"Which country is famous for oil production in West Africa?","Nigeria","Mali","Niger","Guinea",0
+11,NAT Grade 8,NAT,2022,"Which West African country is landlocked?","Senegal","Mali","Ghana","Nigeria",1
+11,NAT Grade 8,NAT,2022,"Which of these is an ECOWAS member?","The Gambia","Chad","Cameroon","Sudan",0
+11,NAT Grade 8,NAT,2022,"The official currency of ECOWAS is planned to be the:","Eco","Westaf","CFA","Dollar",0
+11,NAT Grade 8,NAT,2022,"Which West African country uses the CFA franc?","Senegal","Ghana","Nigeria","The Gambia",0
+11,NAT Grade 8,NAT,2022,"The most widely spoken language in West Africa is:","English","French","Arabic","Hausa",3
+11,NAT Grade 8,NAT,2022,"Which is NOT an official language of an ECOWAS country?","English","French","Portuguese","Swahili",3
+11,NAT Grade 8,NAT,2022,"The largest ethnic group in Nigeria is:","Hausa","Yoruba","Igbo","Fulani",0
+11,NAT Grade 8,NAT,2022,"The Ashanti people are from:","Ghana","Nigeria","Senegal","Mali",0
+11,NAT Grade 8,NAT,2022,"The ancient Mali Empire was located in:","West Africa","East Africa","North Africa","Southern Africa",0
+11,NAT Grade 8,NAT,2022,"The most famous ruler of the Mali Empire was:","Mansa Musa","Sundiata Keita","Sunni Ali","Askia Muhammad",0
+11,NAT Grade 8,NAT,2022,"The Songhai Empire was centred at:","Gao","Timbuktu","Djenne","Bamako",0
+11,NAT Grade 8,NAT,2022,"Timbuktu was famous for:","Trade and learning","Only fishing","Only farming","Only war",0
+11,NAT Grade 8,NAT,2022,"The trans-Saharan trade involved:","Salt and gold","Fish and rice","Cars and phones","Books only",0
+11,NAT Grade 8,NAT,2022,"The Ghana Empire was famous for:","Gold trade","Fishing","Farming","Oil",0
+11,NAT Grade 8,NAT,2022,"Which European country colonised most of West Africa?","France","Britain","Portugal","Spain",0
+11,NAT Grade 8,NAT,2022,"Which West African country was colonised by Portugal?","Guinea-Bissau","Senegal","Ghana","Nigeria",0
+11,NAT Grade 8,NAT,2022,"Liberia was founded by:","Freed slaves from America","British settlers","French settlers","Portuguese settlers",0
+11,NAT Grade 8,NAT,2022,"The OAU (Organisation of African Unity) was founded in:","1957","1963","1975","2002",1
+11,NAT Grade 8,NAT,2022,"The OAU was replaced by the AU in:","1995","2000","2002","2010",2
+11,NAT Grade 8,NAT,2022,"The AU headquarters is in:","Nairobi","Addis Ababa","Cairo","Abuja",1
+11,NAT Grade 8,NAT,2022,"Which of these is an AU goal?","Unity and development of Africa","Only war","Only trade","Only sports",0
+11,NAT Grade 8,NAT,2022,"The East African Community (EAC) is a regional body in:","East Africa","West Africa","North Africa","Southern Africa",0
+11,NAT Grade 8,NAT,2022,"SADC is a regional body in:","Southern Africa","West Africa","East Africa","North Africa",0
+11,NAT Grade 8,NAT,2022,"Which is the largest city in Africa?","Cairo","Lagos","Kinshasa","Johannesburg",0
+11,NAT Grade 8,NAT,2022,"The Nile flows into the:","Atlantic Ocean","Indian Ocean","Mediterranean Sea","Red Sea",2
+11,NAT Grade 8,NAT,2022,"Which is the world's longest river?","Amazon","Nile","Congo","Yangtze",1
+11,NAT Grade 8,NAT,2022,"The Sahara Desert covers how many African countries?","5","10","11","20",2
+11,NAT Grade 8,NAT,2022,"The Sahel is:","A dry region south of the Sahara","A river","A mountain","A city",0
+11,NAT Grade 8,NAT,2022,"Desertification is the spread of:","Desert-like conditions","Forests","Rivers","Oceans",0
+11,NAT Grade 8,NAT,2022,"Which is a cause of desertification?","Overgrazing and deforestation","Tree planting","Irrigation","Rainfall",0
+11,NAT Grade 8,NAT,2022,"The Great Green Wall is an African project to:","Fight desertification","Build a wall","Block the sea","Build roads",0
+11,NAT Grade 8,NAT,2022,"Which of these is a renewable energy source for Africa?","Solar","Coal","Oil","Gas",0
+11,NAT Grade 8,NAT,2022,"Which of these countries has the largest economy in Africa?","Nigeria","South Africa","Egypt","Kenya",0
+11,NAT Grade 8,NAT,2022,"Africa's population is approximately:","500 million","1.4 billion","3 billion","500 thousand",1
+11,NAT Grade 8,NAT,2022,"The African Union's Agenda 2063 is a plan for:","Africa's development","Only sports","Only war","Only agriculture",0
+11,NAT Grade 8,NAT,2022,"Which of these is a Pan-African value?","Unity and solidarity","Division","Tribalism","Hatred",0
+11,NAT Grade 8,NAT,2022,"Kwame Nkrumah was a leader of:","Ghana","Nigeria","Senegal","Kenya",0
+11,NAT Grade 8,NAT,2022,"Nelson Mandela fought against:","Apartheid","Colonialism only","Fishing","Farming",0
+11,NAT Grade 8,NAT,2022,"The Mau Mau uprising was in:","Kenya","Ghana","Nigeria","South Africa",0
+11,NAT Grade 8,NAT,2022,"Algeria gained independence from:","France","Britain","Portugal","Spain",0
+11,NAT Grade 8,NAT,2022,"Which African country was the first to gain independence in 1957?","Ghana","Nigeria","Kenya","Senegal",0
+11,NAT Grade 8,NAT,2022,"The year 1960 is called Africa's Year of:","Independence","War","Famine","Trade",0
+11,NAT Grade 8,NAT,2022,"The Rwandan Genocide took place in:","1990","1994","1998","2000",1
+11,NAT Grade 8,NAT,2022,"The Ebola outbreak in West Africa was in:","2010","2014","2018","2020",1
+11,NAT Grade 8,NAT,2022,"Which West African country was worst hit by Ebola?","Sierra Leone","The Gambia","Senegal","Mali",0
+11,NAT Grade 8,NAT,2022,"COVID-19 is a:","Virus","Bacterium","Fungus","Parasite",0
+11,NAT Grade 8,NAT,2022,"The WHO declared COVID-19 a pandemic in:","2019","2020","2021","2022",1
+11,NAT Grade 8,NAT,2022,"Which of these is a non-communicable disease?","Diabetes","Malaria","Cholera","Tuberculosis",0
+11,NAT Grade 8,NAT,2022,"HIV/AIDS is spread through:","Body fluids","Mosquito bites","Air","Touch",0
+11,NAT Grade 8,NAT,2022,"HIV/AIDS can be prevented by:","Safe practices","Sharing needles","Unsafe behaviour","Ignoring it",0
+11,NAT Grade 8,NAT,2022,"Malaria is most common during:","Rainy season","Dry season","Harmattan","Winter",0
+11,NAT Grade 8,NAT,2022,"Which of these reduces malaria?","Sleeping under treated nets","Sleeping outside","Leaving windows open","No prevention",0
+11,NAT Grade 8,NAT,2022,"The main health challenge in The Gambia is:","Infectious diseases","Only cancer","Only diabetes","Snow blindness",0
+11,NAT Grade 8,NAT,2022,"Which of these is a family planning method?","Contraception","Fighting","Stealing","Ignoring",0
+11,NAT Grade 8,NAT,2022,"Maternal mortality refers to:","Deaths of mothers during childbirth","Deaths of children","Deaths of fathers","None",0
+11,NAT Grade 8,NAT,2022,"Infant mortality refers to:","Deaths of infants under 1 year","Deaths of mothers","Deaths of fathers","Deaths of elders",0
+11,NAT Grade 8,NAT,2022,"Immunisation protects children from:","Preventable diseases","All diseases","Accidents","Poverty",0
+11,NAT Grade 8,NAT,2022,"Which is a symptom of malnutrition?","Stunted growth","Strong bones","Good eyesight","Clear skin",0
+11,NAT Grade 8,NAT,2022,"Which food group should we eat most of?","Carbohydrates","Fats","Sugar","Salt",0
+11,NAT Grade 8,NAT,2022,"Which of these is good for good health?","Balanced diet","Smoking","Drug abuse","Laziness",0
+11,NAT Grade 8,NAT,2022,"Drug abuse can lead to:","Health and social problems","Only wealth","Only fame","Only education",0
+11,NAT Grade 8,NAT,2022,"Which of these is a common drug of abuse?","Tramadol","Paracetamol","Vitamin C","Water",0
+11,NAT Grade 8,NAT,2022,"Smoking affects mainly the:","Lungs","Eyes only","Ears","Feet",0
+11,NAT Grade 8,NAT,2022,"The best way to prevent diseases is:","Good hygiene","Ignoring","Skipping baths","Unsafe water",0
+11,NAT Grade 8,NAT,2022,"Which is a way to keep our environment clean?","Proper waste disposal","Littering","Burning tyres","Dumping in rivers",0
+11,NAT Grade 8,NAT,2022,"Plastic waste is dangerous because it:","Does not decompose","Is edible","Is clean","Is useful",0
+11,NAT Grade 8,NAT,2022,"Reduce, Reuse, Recycle helps to:","Protect the environment","Increase pollution","Waste resources","Kill animals",0
+11,NAT Grade 8,NAT,2022,"The ozone layer protects us from:","UV rays","Rain","Wind","Earthquakes",0
+11,NAT Grade 8,NAT,2022,"Climate change is mainly caused by:","Greenhouse gases","Volcanoes","Rain","Moon",0
+11,NAT Grade 8,NAT,2022,"Global warming leads to:","Rising sea levels","More snow","Cooler weather","No change",0
+11,NAT Grade 8,NAT,2022,"Which of these is a way to fight climate change?","Planting trees","Bush burning","Deforestation","Burning fossil fuels",0

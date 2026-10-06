@@ -1,0 +1,94 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+11,NAT Grade 8,NAT,2021,"Physical geography is the study of:","Natural features of the earth","Only human activity","Only cities","Only laws",0
+11,NAT Grade 8,NAT,2021,"Human geography is the study of:","People and their activities","Only mountains","Only rivers","Only climate",0
+11,NAT Grade 8,NAT,2021,"The imaginary line dividing the earth into North and South is the:","Prime Meridian","Equator","Tropic of Cancer","Arctic Circle",1
+11,NAT Grade 8,NAT,2021,"The 0° longitude line is the:","Equator","Prime Meridian","Tropic of Capricorn","Antarctic Circle",1
+11,NAT Grade 8,NAT,2021,"Latitude lines run:","East to west","North to south","Diagonally","Vertically",0
+11,NAT Grade 8,NAT,2021,"Longitude lines run:","East to west","North to south","Diagonally","Horizontally",1
+11,NAT Grade 8,NAT,2021,"The earth takes ___ to complete one rotation.","24 hours","365 days","12 hours","1 week",0
+11,NAT Grade 8,NAT,2021,"The earth takes ___ to complete one revolution around the sun.","24 hours","365 days","12 hours","1 month",1
+11,NAT Grade 8,NAT,2021,"The tilt of the earth's axis causes:","Seasons","Day and night","Tides","Eclipses",0
+11,NAT Grade 8,NAT,2021,"The three main climate zones are:","Tropical, temperate, polar","Wet, dry, windy","Hot, cold, warm","North, South, East",0
+11,NAT Grade 8,NAT,2021,"The climate of The Gambia is:","Tropical savannah","Polar","Mediterranean","Continental",0
+11,NAT Grade 8,NAT,2021,"The rainy season in The Gambia is caused by:","The southwest monsoon winds","The northeast trade winds","The harmattan","The Sahara",0
+11,NAT Grade 8,NAT,2021,"The harmattan wind is:","Dry and dusty","Wet and cold","Hot and humid","Snowy",0
+11,NAT Grade 8,NAT,2021,"The average annual rainfall in The Gambia is about:","200 mm","1,000 mm","3,000 mm","5,000 mm",1
+11,NAT Grade 8,NAT,2021,"Which month is the driest in The Gambia?","January","July","August","September",0
+11,NAT Grade 8,NAT,2021,"The population of The Gambia is growing:","Slowly","Rapidly","Not at all","Decreasing",1
+11,NAT Grade 8,NAT,2021,"Population growth is measured using:","Birth and death rates","Rainfall","Temperature","Wind",0
+11,NAT Grade 8,NAT,2021,"A high birth rate and low death rate leads to:","Rapid population growth","Population decline","No change","Migration",0
+11,NAT Grade 8,NAT,2021,"Migration means:","Movement of people from one place to another","Rainfall","Birth rate","Death rate",0
+11,NAT Grade 8,NAT,2021,"Rural-urban migration is caused by:","Push and pull factors","Only rainfall","Only birth","Only death",0
+11,NAT Grade 8,NAT,2021,"Which of these is a pull factor for urban migration?","Jobs in cities","Famine in villages","War in villages","Drought",0
+11,NAT Grade 8,NAT,2021,"Which of these is a push factor?","Poverty in villages","Jobs in cities","Better schools in cities","Hospitals in cities",0
+11,NAT Grade 8,NAT,2021,"The most populated area of The Gambia is:","Banjul and Kanifing","Basse","Kerewan","Janjanbureh",0
+11,NAT Grade 8,NAT,2021,"Overpopulation can cause:","Strain on resources","More food","More jobs","Less pollution",0
+11,NAT Grade 8,NAT,2021,"A population pyramid shows:","Age and sex structure","Only births","Only deaths","Only migration",0
+11,NAT Grade 8,NAT,2021,"Family planning helps to:","Control population growth","Increase births","Cause famine","Reduce education",0
+11,NAT Grade 8,NAT,2021,"The study of human population is called:","Demography","Geography","Biology","Chemistry",0
+11,NAT Grade 8,NAT,2021,"A census in The Gambia is conducted every:","5 years","10 years","2 years","20 years",1
+11,NAT Grade 8,NAT,2021,"The largest city in The Gambia is:","Serekunda","Banjul","Brikama","Basse",0
+11,NAT Grade 8,NAT,2021,"Which is a benefit of urbanisation?","Better access to services","More farming land","Cleaner air","No traffic",0
+11,NAT Grade 8,NAT,2021,"Which is a problem of urbanisation?","Overcrowding","More food","Better roads","More trees",0
+11,NAT Grade 8,NAT,2021,"Culture refers to:","The way of life of a people","Only food","Only music","Only clothing",0
+11,NAT Grade 8,NAT,2021,"The main ethnic groups in The Gambia are:","Mandinka, Fula, Wolof, Jola, Serer","Only Mandinka","Only Wolof","Only Fula",0
+11,NAT Grade 8,NAT,2021,"The Kora is a traditional:","Musical instrument","Dance","Food","Dress",0
+11,NAT Grade 8,NAT,2021,"Which is a traditional Gambian dance?","Kankurang","Salsa","Ballet","Breakdance",0
+11,NAT Grade 8,NAT,2021,"The kankurang is:","A traditional mask dancer","A type of food","A drum","A song",0
+11,NAT Grade 8,NAT,2021,"The traditional wrestling in The Gambia is called:","Laamb","Judo","Karate","Boxing",0
+11,NAT Grade 8,NAT,2021,"Naming ceremonies are important because they:","Welcome the newborn into the community","Are only for boys","Are only for girls","Have no meaning",0
+11,NAT Grade 8,NAT,2021,"Respect for elders is:","A key Gambian value","Optional","Rare","Foreign",0
+11,NAT Grade 8,NAT,2021,"Which is a traditional Gambian dish?","Benachin","Pizza","Sushi","Tacos",0
+11,NAT Grade 8,NAT,2021,"The main staple food in The Gambia is:","Rice","Bread","Potato","Pasta",0
+11,NAT Grade 8,NAT,2021,"Ataya is:","Traditional green tea","Coffee","Juice","Milk",0
+11,NAT Grade 8,NAT,2021,"Traditional medicine is important because it:","Is widely used and affordable","Is foreign","Is illegal","Is dangerous",0
+11,NAT Grade 8,NAT,2021,"The griot is important in Gambian society as a:","Storyteller, musician and historian","Warrior","King","Farmer",0
+11,NAT Grade 8,NAT,2021,"Koriteh is celebrated to mark the end of:","Ramadan","The rainy season","Independence","The harvest",0
+11,NAT Grade 8,NAT,2021,"Tobaski (Eid al-Adha) commemorates:","Prophet Ibrahim's sacrifice","Independence","New Year","Harvest",0
+11,NAT Grade 8,NAT,2021,"The most widely spoken language in The Gambia is:","Mandinka","Fula","Wolof","Jola",0
+11,NAT Grade 8,NAT,2021,"Traditional Gambian dress for men includes:","Kaftan and trousers","Only suits","Only jeans","Only shorts",0
+11,NAT Grade 8,NAT,2021,"Traditional dress for women includes:","Wrapper and kaftan","Only trousers","Only suits","Only shorts",0
+11,NAT Grade 8,NAT,2021,"The African traditional religion often involves:","Ancestor veneration","Only one god","No belief","Only modern ways",0
+11,NAT Grade 8,NAT,2021,"Education is important because it:","Empowers people and reduces poverty","Is useless","Causes poverty","Wastes time",0
+11,NAT Grade 8,NAT,2021,"Which of these is a level of education in The Gambia?","Lower Basic, Upper Basic, Senior Secondary","Only primary","Only university","Only secondary",0
+11,NAT Grade 8,NAT,2021,"Lower basic school in The Gambia covers:","Grades 1-6","Grades 1-3","Grades 7-9","Grades 10-12",0
+11,NAT Grade 8,NAT,2021,"Upper basic school covers:","Grades 7-9","Grades 1-6","Grades 10-12","Only Grade 9",0
+11,NAT Grade 8,NAT,2021,"Senior secondary school covers:","Grades 10-12","Grades 7-9","Grades 1-6","Only Grade 12",0
+11,NAT Grade 8,NAT,2021,"WAEC is responsible for:","Conducting exams in West Africa","Building roads","Farming","Health",0
+11,NAT Grade 8,NAT,2021,"GABECE means:","Gambia Basic Education Certificate Examination","Gambia Better Certificate","General Basic Certificate","None",0
+11,NAT Grade 8,NAT,2021,"WASSCE stands for:","West African Senior School Certificate Examination","West African Secondary School Certificate","World African School Certificate","None",0
+11,NAT Grade 8,NAT,2021,"The University of The Gambia was established in:","1995","1999","2005","2010",1
+11,NAT Grade 8,NAT,2021,"A skill that is important for employment is:","Communication","Laziness","Dishonesty","Fighting",0
+11,NAT Grade 8,NAT,2021,"Girls' education is important because:","It promotes gender equality and development","Only boys should be educated","Girls should stay home","It wastes money",0
+11,NAT Grade 8,NAT,2021,"The best way to fight illiteracy is:","Provide free quality education","Close schools","Increase fees","Reduce teachers",0
+11,NAT Grade 8,NAT,2021,"Which is a challenge of education in The Gambia?","Shortage of teachers and materials","Too many schools","Too many books","No students",0
+11,NAT Grade 8,NAT,2021,"The main aim of education is to:","Develop knowledge and skills","Only get certificates","Only get jobs","None",0
+11,NAT Grade 8,NAT,2021,"Agriculture means:","Growing crops and rearing animals","Only fishing","Only mining","Only trading",0
+11,NAT Grade 8,NAT,2021,"The two main types of farming are:","Subsistence and commercial","Only commercial","Only subsistence","Only dry",0
+11,NAT Grade 8,NAT,2021,"Subsistence farming means:","Farming for family consumption","Farming for sale","Only cash crops","Only export",0
+11,NAT Grade 8,NAT,2021,"Commercial farming means:","Farming for sale and profit","Only for family","Only for animals","None",0
+11,NAT Grade 8,NAT,2021,"Shifting cultivation involves:","Moving farms every few years","Same land forever","No farming","Only machines",0
+11,NAT Grade 8,NAT,2021,"Crop rotation helps to:","Maintain soil fertility","Destroy soil","Kill crops","Reduce yield",0
+11,NAT Grade 8,NAT,2021,"Which is an advantage of irrigation?","Farming in dry season","Flooding","Drought","Erosion",0
+11,NAT Grade 8,NAT,2021,"The main food crop in The Gambia is:","Rice","Wheat","Barley","Maize",0
+11,NAT Grade 8,NAT,2021,"Groundnut is important because it:","Is an export crop","Is only for home use","Is poisonous","Is foreign",0
+11,NAT Grade 8,NAT,2021,"Agricultural extension workers:","Help farmers with modern methods","Sell crops","Only buy crops","Only transport",0
+11,NAT Grade 8,NAT,2021,"Fertilizers help to:","Increase crop yield","Kill crops","Reduce yield","Cause drought",0
+11,NAT Grade 8,NAT,2021,"Overgrazing leads to:","Soil erosion","More grass","Better soil","More trees",0
+11,NAT Grade 8,NAT,2021,"Which of these is a livestock disease?","Foot and mouth disease","Malaria","Cholera","Typhoid",0
+11,NAT Grade 8,NAT,2021,"Fisheries contribute to The Gambia's economy through:","Fish exports and local consumption","Only tourism","Only farming","Only industry",0
+11,NAT Grade 8,NAT,2021,"The best method of fishing in The Gambia is:","Sustainable fishing","Overfishing","Using chemicals","Using dynamite",0
+11,NAT Grade 8,NAT,2021,"Which is a benefit of agriculture to the economy?","Employment and food supply","Only exports","Only imports","None",0
+11,NAT Grade 8,NAT,2021,"Food security means:","All people have access to enough food","Only rich people eat","Only farmers eat","Only cities eat",0
+11,NAT Grade 8,NAT,2021,"Malnutrition is caused by:","Poor diet","Balanced diet","Good health","Exercise",0
+11,NAT Grade 8,NAT,2021,"Which of these is a way to improve food security?","Modern farming techniques","Deforestation","War","Overgrazing",0
+11,NAT Grade 8,NAT,2021,"Trade means:","The buying and selling of goods and services","Only selling","Only buying","Only farming",0
+11,NAT Grade 8,NAT,2021,"A trade surplus is when:","Exports exceed imports","Imports exceed exports","They are equal","No trade",0
+11,NAT Grade 8,NAT,2021,"A trade deficit is when:","Imports exceed exports","Exports exceed imports","They are equal","No trade",0
+11,NAT Grade 8,NAT,2021,"Which of these is an export of The Gambia?","Fish and groundnut products","Cars","Computers","Petroleum",0
+11,NAT Grade 8,NAT,2021,"Which of these is an import of The Gambia?","Rice and machinery","Groundnut","Fish","Sand",0
+11,NAT Grade 8,NAT,2021,"Globalisation means:","Growing interconnection of world economies","Isolation of countries","Only trade in Africa","Only farming",0
+11,NAT Grade 8,NAT,2021,"A benefit of globalisation is:","Access to more goods and markets","Only war","Only pollution","Only disease",0
+11,NAT Grade 8,NAT,2021,"A disadvantage of globalisation is:","Loss of local industries","More local jobs","Better local goods","Less competition",0
+11,NAT Grade 8,NAT,2021,"Fair trade means:","Trade that gives fair prices to producers","Only free trade","Only big business","Only government",0
+11,NAT Grade 8,NAT,2021,"A tariff is a:","Tax on imports","Type of export","Type of currency","Type of bank",0

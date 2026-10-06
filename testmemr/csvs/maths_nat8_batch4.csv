@@ -1,0 +1,95 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+10,NAT Grade 8,NAT,2021,"A matrix with 2 rows and 3 columns has how many elements?","5","6","8","9",1
+10,NAT Grade 8,NAT,2021,"The order of a 3×2 matrix is:","2×3","3×2","5","6",1
+10,NAT Grade 8,NAT,2021,"A square matrix has:","More rows than columns","Equal rows and columns","More columns than rows","Only one row",1
+10,NAT Grade 8,NAT,2021,"An identity matrix has:","Only zeros","1s on diagonal and 0s elsewhere","Only ones","Random values",1
+10,NAT Grade 8,NAT,2021,"The matrix [1 0; 0 1] is the:","Zero matrix","Identity matrix","Row matrix","Column matrix",1
+10,NAT Grade 8,NAT,2021,"The determinant of [a b; c d] is:","ad + bc","ad - bc","ab - cd","ab + cd",1
+10,NAT Grade 8,NAT,2021,"The determinant of [2 3; 1 4] is:","5","8","11","14",0
+10,NAT Grade 8,NAT,2021,"The determinant of [5 2; 3 1] is:","-1","1","5","11",0
+10,NAT Grade 8,NAT,2021,"A zero matrix has:","All elements 0","All elements 1","Only diagonal","Random values",0
+10,NAT Grade 8,NAT,2021,"Two matrices can be added if they have:","Same order","Different orders","Same values","Same determinant",0
+10,NAT Grade 8,NAT,2021,"[1 2; 3 4] + [1 1; 1 1] =","[2 3; 4 5]","[1 2; 3 4]","[2 2; 4 4]","[0 1; 2 3]",0
+10,NAT Grade 8,NAT,2021,"[5 6; 7 8] - [1 2; 3 4] =","[4 4; 4 4]","[4 5; 5 4]","[6 8; 10 12]","[1 2; 3 4]",0
+10,NAT Grade 8,NAT,2021,"If y varies directly as x and y = 10 when x = 2, then k is:","2","5","10","20",1
+10,NAT Grade 8,NAT,2021,"If y = kx and k = 3, then when x = 5, y is:","8","12","15","18",2
+10,NAT Grade 8,NAT,2021,"If y varies inversely as x and y = 4 when x = 6, then k is:","1.5","10","24","30",2
+10,NAT Grade 8,NAT,2021,"If y varies inversely as x with k = 24 and x = 8, then y =","2","3","4","6",1
+10,NAT Grade 8,NAT,2021,"If y varies directly as x, the graph is:","A curve","A straight line through origin","A horizontal line","A circle",1
+10,NAT Grade 8,NAT,2021,"If y varies inversely as x, the graph is:","A straight line","A hyperbola","A parabola","A circle",1
+10,NAT Grade 8,NAT,2021,"The symbol for proportional to is:","≈","∝","≠","≡",1
+10,NAT Grade 8,NAT,2021,"If y ∝ x and y = 15 when x = 5, find y when x = 8.","20","24","28","30",1
+10,NAT Grade 8,NAT,2021,"If y ∝ 1/x and y = 6 when x = 3, find y when x = 9.","1","2","3","4",1
+10,NAT Grade 8,NAT,2021,"If y is directly proportional to x² and y = 4 when x = 2, then k =","0.5","1","2","4",1
+10,NAT Grade 8,NAT,2021,"If y is directly proportional to x² and k = 2, then when x = 4, y =","8","16","24","32",3
+10,NAT Grade 8,NAT,2021,"The value of 25% of 120 is:","25","28","30","32",2
+10,NAT Grade 8,NAT,2021,"The value of 62.5% of 160 is:","95","100","105","110",1
+10,NAT Grade 8,NAT,2021,"A price rises from D80 to D100. Percentage increase:","20%","25%","30%","35%",1
+10,NAT Grade 8,NAT,2021,"A price falls from D250 to D200. Percentage decrease:","15%","20%","25%","30%",1
+10,NAT Grade 8,NAT,2021,"If 20% of a number is 30, the number is:","120","150","160","180",1
+10,NAT Grade 8,NAT,2021,"If 60% of a number is 240, the number is:","300","350","400","450",2
+10,NAT Grade 8,NAT,2021,"A shop sells an item for D180 after a 10% discount. Original price:","D190","D195","D200","D210",2
+10,NAT Grade 8,NAT,2021,"A trader buys at D50 and sells at D65. Profit percentage:","15%","20%","25%","30%",3
+10,NAT Grade 8,NAT,2021,"VAT of 15% on D200 is:","D20","D25","D30","D35",2
+10,NAT Grade 8,NAT,2021,"A loan of D5000 at 10% simple interest for 2 years gives interest:","D500","D750","D1000","D1500",2
+10,NAT Grade 8,NAT,2021,"Compound interest on D2000 at 5% for 2 years is:","D200","D205","D210","D250",1
+10,NAT Grade 8,NAT,2021,"If x + y = 12 and x - y = 4, then x =","6","7","8","10",2
+10,NAT Grade 8,NAT,2021,"If 2x + y = 11 and x + y = 7, then x =","2","3","4","5",2
+10,NAT Grade 8,NAT,2021,"If 3x + 2y = 16 and x = 2, then y =","3","4","5","6",2
+10,NAT Grade 8,NAT,2021,"If 2x + 3y = 18 and y = 4, then x =","2","3","4","6",1
+10,NAT Grade 8,NAT,2021,"Simultaneous equations are solved by:","Substitution or elimination","Guessing","Only graphing","Ignoring",0
+10,NAT Grade 8,NAT,2021,"The solution to x + y = 5, x - y = 1 is:","(3, 2)","(2, 3)","(1, 4)","(5, 0)",0
+10,NAT Grade 8,NAT,2021,"The solution to 2x + y = 7, x = 3 is:","(3, 1)","(3, 2)","(2, 3)","(1, 5)",0
+10,NAT Grade 8,NAT,2021,"The number of degrees in a right angle is:","45","60","90","180",2
+10,NAT Grade 8,NAT,2021,"The number of degrees in a full turn is:","90","180","270","360",3
+10,NAT Grade 8,NAT,2021,"The angle in a semicircle is:","45°","60°","90°","180°",2
+10,NAT Grade 8,NAT,2021,"The angle at the centre of a circle is ___ the angle at the circumference (same arc).","Half","Twice","Equal","Three times",1
+10,NAT Grade 8,NAT,2021,"The opposite angles of a cyclic quadrilateral add up to:","90°","180°","270°","360°",1
+10,NAT Grade 8,NAT,2021,"A tangent to a circle meets the radius at:","45°","60°","90°","180°",2
+10,NAT Grade 8,NAT,2021,"Two tangents from the same external point are:","Unequal","Equal in length","Parallel","Perpendicular",1
+10,NAT Grade 8,NAT,2021,"An inscribed angle subtending a diameter is:","60°","90°","120°","180°",1
+10,NAT Grade 8,NAT,2021,"The chord is a line joining:","Two points on the circumference","Centre to circumference","Two circles","Two radii",0
+10,NAT Grade 8,NAT,2021,"The radius is a line from:","Centre to circumference","Chord to chord","Tangent to tangent","None",0
+10,NAT Grade 8,NAT,2021,"Diameter = 2 × ___","Circumference","Radius","Area","Chord",1
+10,NAT Grade 8,NAT,2021,"The area of a sector of angle θ and radius r is:","(θ/360) × πr²","(θ/180) × πr²","πr²","(θ/360) × 2πr",0
+10,NAT Grade 8,NAT,2021,"The arc length with angle θ and radius r is:","(θ/360) × 2πr","(θ/360) × πr²","πr²","2πr",0
+10,NAT Grade 8,NAT,2021,"The surface area of a sphere with radius r is:","2πr²","4πr²","πr²","(4/3)πr³",1
+10,NAT Grade 8,NAT,2021,"The volume of a sphere with radius r is:","(4/3)πr³","(2/3)πr³","4πr²","πr³",0
+10,NAT Grade 8,NAT,2021,"The surface area of a cylinder radius r, height h is:","2πr² + 2πrh","πr²h","2πrh","πr² + 2πrh",0
+10,NAT Grade 8,NAT,2021,"The volume of a cone is:","πr²h","(1/2)πr²h","(1/3)πr²h","(4/3)πr³",2
+10,NAT Grade 8,NAT,2021,"The perimeter of a semicircle with radius 7 (π=22/7) is:","22","29","36","44",2
+10,NAT Grade 8,NAT,2021,"A polygon with 7 sides is a:","Pentagon","Hexagon","Heptagon","Octagon",2
+10,NAT Grade 8,NAT,2021,"A polygon with 10 sides is a:","Hexagon","Heptagon","Nonagon","Decagon",3
+10,NAT Grade 8,NAT,2021,"The exterior angle of a regular pentagon is:","60°","72°","90°","108°",1
+10,NAT Grade 8,NAT,2021,"The interior angle of a regular hexagon is:","100°","108°","120°","135°",2
+10,NAT Grade 8,NAT,2021,"The number of diagonals of a quadrilateral is:","1","2","3","4",1
+10,NAT Grade 8,NAT,2021,"A regular polygon has all sides:","Different","Equal","Random","Unknown",1
+10,NAT Grade 8,NAT,2021,"The area of a rhombus with diagonals 6 and 8 is:","14","24","28","48",1
+10,NAT Grade 8,NAT,2021,"The volume of a hemisphere of radius 3 (π=3.14) is:","56.52","28.26","113.04","169.56",0
+10,NAT Grade 8,NAT,2021,"The value of sin 45° is:","1/2","√2/2","√3/2","1",1
+10,NAT Grade 8,NAT,2021,"The value of cos 30° is:","1/2","√2/2","√3/2","1",2
+10,NAT Grade 8,NAT,2021,"The value of tan 60° is:","√3/3","1","√3","2",2
+10,NAT Grade 8,NAT,2021,"The value of sin 0° is:","0","0.5","1","Undefined",0
+10,NAT Grade 8,NAT,2021,"The value of cos 90° is:","0","0.5","1","Undefined",0
+10,NAT Grade 8,NAT,2021,"The value of tan 90° is:","0","0.5","1","Undefined",3
+10,NAT Grade 8,NAT,2021,"A right triangle has opposite = 5 and hypotenuse = 13. sin θ =","5/12","5/13","12/13","13/5",1
+10,NAT Grade 8,NAT,2021,"A right triangle has adjacent = 8 and hypotenuse = 17. cos θ =","8/15","8/17","15/17","17/8",1
+10,NAT Grade 8,NAT,2021,"A right triangle has opposite = 7 and adjacent = 24. tan θ =","7/24","24/7","7/25","24/25",0
+10,NAT Grade 8,NAT,2021,"The angle of elevation is measured from:","The horizontal upward","The vertical downward","The ground only","The sky",0
+10,NAT Grade 8,NAT,2021,"A 10 m ladder leans against a wall at 60°. Height reached =","5 m","8.66 m","10 m","20 m",1
+10,NAT Grade 8,NAT,2021,"If 3 coins are tossed, total outcomes are:","6","8","9","12",1
+10,NAT Grade 8,NAT,2021,"If 2 dice are rolled, total outcomes are:","12","24","36","48",2
+10,NAT Grade 8,NAT,2021,"The probability of an impossible event is:","0","0.5","1","2",0
+10,NAT Grade 8,NAT,2021,"The probability of a certain event is:","0","0.5","1","2",2
+10,NAT Grade 8,NAT,2021,"A card is drawn from a deck of 52. P(heart) =","1/13","1/4","1/2","13/52 only",1
+10,NAT Grade 8,NAT,2021,"A card is drawn from a deck of 52. P(king) =","1/13","2/13","4/13","1/4",0
+10,NAT Grade 8,NAT,2021,"A card is drawn from a deck of 52. P(red card) =","1/4","1/2","3/4","1/13",1
+10,NAT Grade 8,NAT,2021,"A bag has 3 red, 4 blue and 5 green balls. P(green) =","1/4","1/3","5/12","3/12",2
+10,NAT Grade 8,NAT,2021,"If two events are mutually exclusive, P(A or B) =","P(A) + P(B)","P(A) × P(B)","P(A) - P(B)","P(A) ÷ P(B)",0
+10,NAT Grade 8,NAT,2021,"If two events are independent, P(A and B) =","P(A) + P(B)","P(A) × P(B)","P(A) - P(B)","P(A) ÷ P(B)",1
+10,NAT Grade 8,NAT,2021,"The complement of event A is written as:","A'","Ā only","A' or Ā","A+",2
+10,NAT Grade 8,NAT,2021,"P(A') =","1 - P(A)","P(A)","P(A) + 1","P(A) - 1",0
+10,NAT Grade 8,NAT,2021,"If P(A) = 0.3, then P(A') =","0.3","0.5","0.7","1.3",2
+10,NAT Grade 8,NAT,2021,"The cumulative frequency is found by:","Adding frequencies cumulatively","Subtracting frequencies","Multiplying","Dividing",0
+10,NAT Grade 8,NAT,2021,"The upper quartile corresponds to:","25%","50%","75%","100%",2
+10,NAT Grade 8,NAT,2021,"The lower quartile corresponds to:","10%","25%","50%","75%",1

@@ -1,0 +1,96 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+10,NAT Grade 8,NAT,2023,"The sum of angles in a triangle is:","90°","180°","270°","360°",1
+10,NAT Grade 8,NAT,2023,"The sum of angles in a quadrilateral is:","180°","270°","360°","540°",2
+10,NAT Grade 8,NAT,2023,"A right angle is:","45°","60°","90°","180°",2
+10,NAT Grade 8,NAT,2023,"An acute angle is:","Less than 90°","Equal to 90°","Greater than 90°","Equal to 180°",0
+10,NAT Grade 8,NAT,2023,"An obtuse angle is:","Less than 90°","Equal to 90°","Between 90° and 180°","Greater than 180°",2
+10,NAT Grade 8,NAT,2023,"A straight angle is:","90°","120°","180°","360°",2
+10,NAT Grade 8,NAT,2023,"Two angles adding up to 90° are called:","Supplementary","Complementary","Vertical","Adjacent",1
+10,NAT Grade 8,NAT,2023,"Two angles adding up to 180° are called:","Complementary","Supplementary","Vertical","Alternate",1
+10,NAT Grade 8,NAT,2023,"Alternate angles are:","Equal","Supplementary","Complementary","Vertical",0
+10,NAT Grade 8,NAT,2023,"Corresponding angles are:","Equal","Supplementary","Complementary","Vertical",0
+10,NAT Grade 8,NAT,2023,"In an isosceles triangle, the base angles are:","Equal","Unequal","90° each","60° each",0
+10,NAT Grade 8,NAT,2023,"In an equilateral triangle, each angle is:","45°","60°","90°","120°",1
+10,NAT Grade 8,NAT,2023,"A triangle with all sides different is:","Isosceles","Equilateral","Scalene","Right",2
+10,NAT Grade 8,NAT,2023,"Pythagoras' theorem states:","a + b = c","a² + b² = c²","a² - b² = c²","ab = c",1
+10,NAT Grade 8,NAT,2023,"If legs of a right triangle are 3 and 4, hypotenuse is:","5","6","7","12",0
+10,NAT Grade 8,NAT,2023,"If legs are 6 and 8, hypotenuse is:","10","12","14","48",0
+10,NAT Grade 8,NAT,2023,"If legs are 5 and 12, hypotenuse is:","13","15","17","60",0
+10,NAT Grade 8,NAT,2023,"If hypotenuse is 10 and one leg is 6, the other leg is:","4","6","8","9",2
+10,NAT Grade 8,NAT,2023,"If hypotenuse is 13 and one leg is 5, the other leg is:","8","10","12","14",2
+10,NAT Grade 8,NAT,2023,"Which is a Pythagorean triple?","(2,3,4)","(3,4,5)","(4,5,6)","(5,6,7)",1
+10,NAT Grade 8,NAT,2023,"The area of a triangle with base 8 cm and height 5 cm is:","13 cm²","20 cm²","40 cm²","60 cm²",1
+10,NAT Grade 8,NAT,2023,"The area of a triangle with base 10 cm and height 6 cm is:","16 cm²","30 cm²","60 cm²","80 cm²",1
+10,NAT Grade 8,NAT,2023,"The area of a rectangle 12 cm × 8 cm is:","20 cm²","40 cm²","96 cm²","100 cm²",2
+10,NAT Grade 8,NAT,2023,"The perimeter of a rectangle 12 cm × 8 cm is:","20 cm","40 cm","96 cm","100 cm",1
+10,NAT Grade 8,NAT,2023,"The area of a square with side 9 cm is:","18 cm²","36 cm²","72 cm²","81 cm²",3
+10,NAT Grade 8,NAT,2023,"The area of a parallelogram with base 10 cm and height 4 cm is:","14 cm²","20 cm²","40 cm²","80 cm²",2
+10,NAT Grade 8,NAT,2023,"The area of a trapezium with parallel sides 8 cm and 12 cm, height 5 cm is:","20 cm²","40 cm²","50 cm²","100 cm²",2
+10,NAT Grade 8,NAT,2023,"The circumference of a circle with radius 7 cm (π = 22/7) is:","22 cm","44 cm","154 cm","308 cm",1
+10,NAT Grade 8,NAT,2023,"The area of a circle with radius 7 cm (π = 22/7) is:","22 cm²","44 cm²","154 cm²","308 cm²",2
+10,NAT Grade 8,NAT,2023,"The circumference of a circle with diameter 14 cm (π = 22/7) is:","22 cm","44 cm","88 cm","154 cm",1
+10,NAT Grade 8,NAT,2023,"The area of a circle with diameter 14 cm (π = 22/7) is:","44 cm²","88 cm²","154 cm²","616 cm²",2
+10,NAT Grade 8,NAT,2023,"The volume of a cube with side 4 cm is:","12 cm³","16 cm³","32 cm³","64 cm³",3
+10,NAT Grade 8,NAT,2023,"The volume of a cuboid 8 cm × 5 cm × 3 cm is:","16 cm³","60 cm³","120 cm³","150 cm³",2
+10,NAT Grade 8,NAT,2023,"The surface area of a cube with side 5 cm is:","25 cm²","100 cm²","125 cm²","150 cm²",3
+10,NAT Grade 8,NAT,2023,"The volume of a cylinder with radius 3 cm and height 10 cm (π = 3.14) is:","94.2 cm³","188.4 cm³","282.6 cm³","376.8 cm³",2
+10,NAT Grade 8,NAT,2023,"The volume of a sphere with radius 3 cm (π = 3.14) is:","37.68 cm³","113.04 cm³","226.08 cm³","339.12 cm³",1
+10,NAT Grade 8,NAT,2023,"The volume of a cone with radius 3 cm and height 7 cm (π = 22/7) is:","22 cm³","44 cm³","66 cm³","88 cm³",2
+10,NAT Grade 8,NAT,2023,"The sum of interior angles of a pentagon is:","360°","540°","720°","900°",1
+10,NAT Grade 8,NAT,2023,"The sum of exterior angles of any polygon is:","180°","270°","360°","540°",2
+10,NAT Grade 8,NAT,2023,"In a regular hexagon, each interior angle is:","100°","108°","120°","135°",2
+10,NAT Grade 8,NAT,2023,"In a regular octagon, each interior angle is:","108°","120°","135°","144°",2
+10,NAT Grade 8,NAT,2023,"A transformation that flips a shape over a line is:","Translation","Rotation","Reflection","Enlargement",2
+10,NAT Grade 8,NAT,2023,"A transformation that slides a shape without turning is:","Translation","Rotation","Reflection","Enlargement",0
+10,NAT Grade 8,NAT,2023,"A transformation that turns a shape around a point is:","Translation","Rotation","Reflection","Enlargement",1
+10,NAT Grade 8,NAT,2023,"A transformation that changes the size of a shape is:","Translation","Rotation","Reflection","Enlargement",3
+10,NAT Grade 8,NAT,2023,"In trigonometry, sin θ =","opposite/hypotenuse","adjacent/hypotenuse","opposite/adjacent","adjacent/opposite",0
+10,NAT Grade 8,NAT,2023,"In trigonometry, cos θ =","opposite/hypotenuse","adjacent/hypotenuse","opposite/adjacent","adjacent/opposite",1
+10,NAT Grade 8,NAT,2023,"In trigonometry, tan θ =","opposite/hypotenuse","adjacent/hypotenuse","opposite/adjacent","adjacent/opposite",2
+10,NAT Grade 8,NAT,2023,"sin 30° =","0","0.5","1","√3/2",1
+10,NAT Grade 8,NAT,2023,"cos 60° =","0","0.5","1","√3/2",1
+10,NAT Grade 8,NAT,2023,"tan 45° =","0","0.5","1","∞",2
+10,NAT Grade 8,NAT,2023,"sin 90° =","0","0.5","1","∞",2
+10,NAT Grade 8,NAT,2023,"cos 0° =","0","0.5","1","∞",2
+10,NAT Grade 8,NAT,2023,"In a right triangle, opposite = 3 and hypotenuse = 5. sin θ =","3/5","4/5","5/3","5/4",0
+10,NAT Grade 8,NAT,2023,"In a right triangle, adjacent = 4 and hypotenuse = 5. cos θ =","3/5","4/5","5/3","5/4",1
+10,NAT Grade 8,NAT,2023,"In a right triangle, opposite = 3 and adjacent = 4. tan θ =","3/5","4/5","3/4","4/3",2
+10,NAT Grade 8,NAT,2023,"The mean of 4, 8, 10, 14, 14 is:","8","10","11","14",1
+10,NAT Grade 8,NAT,2023,"The mean of 5, 10, 15, 20 is:","10","12","12.5","15",2
+10,NAT Grade 8,NAT,2023,"The median of 3, 5, 7, 9, 11 is:","5","6","7","9",2
+10,NAT Grade 8,NAT,2023,"The median of 2, 4, 6, 8 is:","4","5","6","8",1
+10,NAT Grade 8,NAT,2023,"The mode of 2, 3, 3, 5, 7, 7, 7 is:","2","3","5","7",3
+10,NAT Grade 8,NAT,2023,"The range of 4, 8, 15, 20 is:","12","15","16","20",2
+10,NAT Grade 8,NAT,2023,"The range of 10, 25, 40, 55, 60 is:","25","40","50","60",2
+10,NAT Grade 8,NAT,2023,"The probability of getting heads on a fair coin is:","0","1/4","1/2","1",2
+10,NAT Grade 8,NAT,2023,"The probability of rolling a 5 on a fair die is:","1/3","1/5","1/6","5/6",2
+10,NAT Grade 8,NAT,2023,"The probability of rolling an even number on a fair die is:","1/6","1/3","1/2","2/3",2
+10,NAT Grade 8,NAT,2023,"The probability of rolling a number > 4 on a fair die is:","1/6","1/3","1/2","2/3",1
+10,NAT Grade 8,NAT,2023,"A bag has 5 red and 3 blue balls. P(red) =","3/8","5/8","5/3","3/5",1
+10,NAT Grade 8,NAT,2023,"A bag has 4 white and 6 black balls. P(black) =","2/5","3/5","4/6","1/2",1
+10,NAT Grade 8,NAT,2023,"The sum of all probabilities in a sample space is:","0","1","2","10",1
+10,NAT Grade 8,NAT,2023,"What is 15% of 240?","24","30","36","40",2
+10,NAT Grade 8,NAT,2023,"What is 12.5% of 80?","8","10","12","15",1
+10,NAT Grade 8,NAT,2023,"If 40% of students are girls and there are 300 students, how many girls?","100","110","120","130",2
+10,NAT Grade 8,NAT,2023,"A trader buys a shirt for D200 and sells for D250. Profit is:","D25","D50","D100","D200",1
+10,NAT Grade 8,NAT,2023,"A trader buys a book for D80 and sells for D100. Percentage profit is:","20%","25%","30%","50%",1
+10,NAT Grade 8,NAT,2023,"A car costs D400,000. Its value drops 20% in one year. New value:","D300,000","D320,000","D340,000","D360,000",1
+10,NAT Grade 8,NAT,2023,"If 5 workers build a wall in 12 days, how long would 3 workers take?","15","18","20","24",2
+10,NAT Grade 8,NAT,2023,"If 8 pipes fill a tank in 6 hours, how long would 4 pipes take?","3","8","12","24",2
+10,NAT Grade 8,NAT,2023,"If a map scale is 1:100,000, then 1 cm on map = ___ km on ground.","0.1","1","10","100",1
+10,NAT Grade 8,NAT,2023,"The speed of a car that travels 90 km in 1.5 hours is:","45 km/h","50 km/h","55 km/h","60 km/h",3
+10,NAT Grade 8,NAT,2023,"The time taken to travel 200 km at 80 km/h is:","2 h","2.5 h","3 h","4 h",1
+10,NAT Grade 8,NAT,2023,"The distance covered at 40 km/h for 3 hours is:","100 km","110 km","120 km","130 km",2
+10,NAT Grade 8,NAT,2023,"If x = 3 and y = 4, then 2x + 3y =","6","12","18","24",2
+10,NAT Grade 8,NAT,2023,"If p = 5, then p² + 2p + 1 =","25","31","36","41",2
+10,NAT Grade 8,NAT,2023,"Solve: 4x + 2y = 20 and x = 2. Then y =","3","4","5","6",3
+10,NAT Grade 8,NAT,2023,"Solve: x + y = 10 and x - y = 4. Then x =","6","7","8","9",1
+10,NAT Grade 8,NAT,2023,"Solve: x + y = 10 and x - y = 4. Then y =","1","2","3","4",2
+10,NAT Grade 8,NAT,2023,"Solve: 2x + y = 11 and x = 3. Then y =","4","5","6","7",1
+10,NAT Grade 8,NAT,2023,"Solve: x + 2y = 10 and x = 4. Then y =","2","3","4","5",1
+10,NAT Grade 8,NAT,2023,"Solve: 3x + 2y = 16 and x = 2. Then y =","3","4","5","6",2
+10,NAT Grade 8,NAT,2023,"Which of these is a linear equation?","y = x²","y = 2x + 3","y = 1/x","y = √x",1
+10,NAT Grade 8,NAT,2023,"Which of these is a quadratic equation?","y = 3x + 1","y = x² - 4","y = 5/x","y = 2x",1
+10,NAT Grade 8,NAT,2023,"The roots of x² - 9 = 0 are:","x = ±3","x = ±9","x = 3 only","x = -3 only",0
+10,NAT Grade 8,NAT,2023,"The roots of x² - 5x + 6 = 0 are:","x = 1, 6","x = 2, 3","x = -2, -3","x = 0, 5",1
+10,NAT Grade 8,NAT,2023,"The roots of x² - 4x = 0 are:","x = 0, 4","x = 2, 2","x = 4, -4","x = 0, -4",0

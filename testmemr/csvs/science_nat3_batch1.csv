@@ -1,0 +1,101 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+4,NAT Grade 3,NAT,2024,"Which of these is a living thing?","Stone","Tree","Chair","Water",1
+4,NAT Grade 3,NAT,2024,"Which of these is a non-living thing?","Goat","Mango tree","Rock","Bird",2
+4,NAT Grade 3,NAT,2024,"What do plants need to make their food?","Sunlight","Moonlight","Wind","Fire",0
+4,NAT Grade 3,NAT,2024,"Which part of a plant absorbs water from the soil?","Leaf","Root","Flower","Stem",1
+4,NAT Grade 3,NAT,2024,"Which part of a plant makes food?","Root","Stem","Leaf","Fruit",2
+4,NAT Grade 3,NAT,2024,"Which part of a plant carries water to the leaves?","Stem","Root","Flower","Seed",0
+4,NAT Grade 3,NAT,2024,"What is the main function of a flower?","Absorb water","Make seeds","Give shade","Take in air",1
+4,NAT Grade 3,NAT,2024,"A seed grows into a:","Leaf","New plant","Stone","Flower only",1
+4,NAT Grade 3,NAT,2024,"Which of these is a fruit?","Carrot","Tomato","Potato","Onion",1
+4,NAT Grade 3,NAT,2024,"Which of these is a vegetable?","Banana","Carrot","Mango","Orange",1
+4,NAT Grade 3,NAT,2024,"Which animal lives in water?","Lion","Fish","Dog","Cat",1
+4,NAT Grade 3,NAT,2024,"Which animal lives on land?","Shark","Goat","Whale","Octopus",1
+4,NAT Grade 3,NAT,2024,"Which animal can fly?","Cow","Eagle","Elephant","Goat",1
+4,NAT Grade 3,NAT,2024,"Which animal gives us milk?","Chicken","Cow","Lion","Snake",1
+4,NAT Grade 3,NAT,2024,"Which animal gives us eggs?","Goat","Chicken","Cow","Sheep",1
+4,NAT Grade 3,NAT,2024,"Which animal produces wool?","Hen","Sheep","Dog","Fish",1
+4,NAT Grade 3,NAT,2024,"A baby dog is called a:","Kitten","Puppy","Calf","Foal",1
+4,NAT Grade 3,NAT,2024,"A baby cat is called a:","Puppy","Kitten","Cub","Chick",1
+4,NAT Grade 3,NAT,2024,"A baby cow is called a:","Calf","Kid","Puppy","Lamb",0
+4,NAT Grade 3,NAT,2024,"A baby sheep is called a:","Puppy","Calf","Lamb","Kid",2
+4,NAT Grade 3,NAT,2024,"Which of these animals is a mammal?","Snake","Frog","Cow","Fish",2
+4,NAT Grade 3,NAT,2024,"Which of these animals lays eggs?","Cow","Cat","Chicken","Dog",2
+4,NAT Grade 3,NAT,2024,"Which of these animals lives in a nest?","Cow","Bird","Fish","Snake",1
+4,NAT Grade 3,NAT,2024,"Which of these animals lives in a hive?","Bird","Bee","Snake","Cow",1
+4,NAT Grade 3,NAT,2024,"Insects have how many legs?","4","6","8","10",1
+4,NAT Grade 3,NAT,2024,"A spider has how many legs?","4","6","8","10",2
+4,NAT Grade 3,NAT,2024,"Which of these is an insect?","Spider","Ant","Snake","Fish",1
+4,NAT Grade 3,NAT,2024,"Which of these animals is a reptile?","Frog","Snake","Cow","Bird",1
+4,NAT Grade 3,NAT,2024,"Which animal can live both on land and in water?","Frog","Goat","Lion","Hen",0
+4,NAT Grade 3,NAT,2024,"The part of the body used for seeing is the:","Ear","Eye","Nose","Tongue",1
+4,NAT Grade 3,NAT,2024,"The part of the body used for hearing is the:","Eye","Ear","Nose","Skin",1
+4,NAT Grade 3,NAT,2024,"The part of the body used for smelling is the:","Eye","Ear","Nose","Tongue",2
+4,NAT Grade 3,NAT,2024,"The part of the body used for tasting is the:","Nose","Eye","Tongue","Ear",2
+4,NAT Grade 3,NAT,2024,"The part of the body used for touching is the:","Skin","Hair","Nail","Tooth",0
+4,NAT Grade 3,NAT,2024,"Which organ pumps blood around the body?","Lungs","Heart","Stomach","Liver",1
+4,NAT Grade 3,NAT,2024,"Which organ helps us to breathe?","Heart","Lungs","Kidney","Liver",1
+4,NAT Grade 3,NAT,2024,"Which organ helps us to digest food?","Heart","Stomach","Lungs","Brain",1
+4,NAT Grade 3,NAT,2024,"Which organ controls the whole body?","Heart","Brain","Lungs","Liver",1
+4,NAT Grade 3,NAT,2024,"How many teeth does a normal adult have?","20","28","32","40",2
+4,NAT Grade 3,NAT,2024,"Which of these is a good food for strong bones?","Sweets","Milk","Soda","Candy",1
+4,NAT Grade 3,NAT,2024,"Which food group gives us energy?","Carbohydrates","Water","Salt","Pepper",0
+4,NAT Grade 3,NAT,2024,"Which food helps us grow?","Protein","Sugar","Salt","Oil only",0
+4,NAT Grade 3,NAT,2024,"Which of these is a healthy drink?","Water","Soda","Alcohol","Dirty water",0
+4,NAT Grade 3,NAT,2024,"How many times should we brush our teeth daily?","Once","Twice","Never","Every hour",1
+4,NAT Grade 3,NAT,2024,"Which of these keeps us clean?","Soap and water","Mud","Oil","Sand",0
+4,NAT Grade 3,NAT,2024,"Malaria is spread by:","Housefly","Mosquito","Tsetse fly","Bee",1
+4,NAT Grade 3,NAT,2024,"Which of these prevents malaria?","Mosquito net","Sleeping outside","Open windows at night","Dirty water",0
+4,NAT Grade 3,NAT,2024,"Which of these is a water-borne disease?","Malaria","Cholera","Asthma","Cancer",1
+4,NAT Grade 3,NAT,2024,"Washing hands helps to:","Spread germs","Remove germs","Cause fever","Cause cough",1
+4,NAT Grade 3,NAT,2024,"We should wash our hands before:","Playing","Eating","Sleeping","Running",1
+4,NAT Grade 3,NAT,2024,"Water boils at what temperature?","0°C","50°C","100°C","200°C",2
+4,NAT Grade 3,NAT,2024,"Water freezes at what temperature?","0°C","10°C","50°C","100°C",0
+4,NAT Grade 3,NAT,2024,"Which of these is a source of water?","River","Fire","Stone","Sand",0
+4,NAT Grade 3,NAT,2024,"We should drink how many glasses of water per day (approx)?","1","2","6-8","20",2
+4,NAT Grade 3,NAT,2024,"Which of these is clean water?","Water with dirt","Water with germs","Clear, treated water","Water with oil",2
+4,NAT Grade 3,NAT,2024,"Which of these floats on water?","Stone","Wood","Iron nail","Coin",1
+4,NAT Grade 3,NAT,2024,"Which of these sinks in water?","Leaf","Paper","Stone","Feather",2
+4,NAT Grade 3,NAT,2024,"Which state of matter is water?","Solid","Liquid","Gas","None",1
+4,NAT Grade 3,NAT,2024,"Which state of matter is ice?","Solid","Liquid","Gas","None",0
+4,NAT Grade 3,NAT,2024,"Which state of matter is steam?","Solid","Liquid","Gas","None",2
+4,NAT Grade 3,NAT,2024,"When water becomes steam, this is called:","Freezing","Melting","Evaporation","Condensation",2
+4,NAT Grade 3,NAT,2024,"When steam becomes water, this is called:","Evaporation","Condensation","Melting","Freezing",1
+4,NAT Grade 3,NAT,2024,"The sun rises in the:","North","South","East","West",2
+4,NAT Grade 3,NAT,2024,"The sun sets in the:","North","South","East","West",3
+4,NAT Grade 3,NAT,2024,"How many hours are in a day?","12","24","48","60",1
+4,NAT Grade 3,NAT,2024,"Which of these gives us light during the day?","Moon","Sun","Star","Lamp",1
+4,NAT Grade 3,NAT,2024,"Which of these gives us light at night?","Sun","Moon and stars","Fire only","None",1
+4,NAT Grade 3,NAT,2024,"How many days are in a week?","5","6","7","8",2
+4,NAT Grade 3,NAT,2024,"Which of these is a source of heat?","Ice","Fire","Water","Wind",1
+4,NAT Grade 3,NAT,2024,"A shadow is formed when light is blocked by:","Air","An object","Water","Wind",1
+4,NAT Grade 3,NAT,2024,"Which of these is a natural source of light?","Lamp","Torch","Sun","Candle",2
+4,NAT Grade 3,NAT,2024,"Which of these is an artificial source of light?","Sun","Moon","Torch","Star",2
+4,NAT Grade 3,NAT,2024,"Which of these is a magnet attracted to?","Wood","Iron","Plastic","Paper",1
+4,NAT Grade 3,NAT,2024,"Magnets attract:","Iron and steel","Wood and paper","Plastic and glass","Water and oil",0
+4,NAT Grade 3,NAT,2024,"Which of these is NOT attracted by a magnet?","Iron nail","Steel pin","Paper clip","Plastic spoon",3
+4,NAT Grade 3,NAT,2024,"A magnet has how many poles?","1","2","3","4",1
+4,NAT Grade 3,NAT,2024,"The two poles of a magnet are:","East and West","North and South","Top and Bottom","Left and Right",1
+4,NAT Grade 3,NAT,2024,"When two like poles of magnets are near, they:","Attract","Repel","Do nothing","Break",1
+4,NAT Grade 3,NAT,2024,"When two unlike poles are near, they:","Repel","Attract","Do nothing","Spin",1
+4,NAT Grade 3,NAT,2024,"Which of these is a source of sound?","Silence","A drum being beaten","A closed box","A shadow",1
+4,NAT Grade 3,NAT,2024,"Sound travels through:","Air","Vacuum","Nothing","Only water",0
+4,NAT Grade 3,NAT,2024,"Which of these makes a loud sound?","Whisper","Drum","Feather falling","Leaf",1
+4,NAT Grade 3,NAT,2024,"Which of these makes a soft sound?","Shouting","Clapping","Whisper","Beating drum",2
+4,NAT Grade 3,NAT,2024,"Which of these is a natural sound?","Car horn","Thunder","Bell","Radio",1
+4,NAT Grade 3,NAT,2024,"Which of these is a man-made sound?","Thunder","Bird song","Car horn","Wind",2
+4,NAT Grade 3,NAT,2024,"Air is important for:","Breathing","Sleeping","Eating","Running only",0
+4,NAT Grade 3,NAT,2024,"Which gas do humans breathe in from the air?","Carbon dioxide","Oxygen","Nitrogen","Hydrogen",1
+4,NAT Grade 3,NAT,2024,"Which gas do humans breathe out?","Oxygen","Carbon dioxide","Nitrogen","Helium",1
+4,NAT Grade 3,NAT,2024,"Which of these pollutes the air?","Trees","Smoke from fire","Clean water","Plants",1
+4,NAT Grade 3,NAT,2024,"Which of these helps keep the air clean?","Burning rubbish","Planting trees","Smoking","Bush burning",1
+4,NAT Grade 3,NAT,2024,"Which of these is a weather condition?","Hunger","Sunny","Sleepy","Loud",1
+4,NAT Grade 3,NAT,2024,"Rain falls from:","Trees","Clouds","Sun","Moon",1
+4,NAT Grade 3,NAT,2024,"Which instrument measures rainfall?","Thermometer","Rain gauge","Ruler","Barometer",1
+4,NAT Grade 3,NAT,2024,"Which instrument measures temperature?","Rain gauge","Thermometer","Clock","Scale",1
+4,NAT Grade 3,NAT,2024,"The rainy season in The Gambia is:","January - March","June - October","November - December","All year",1
+4,NAT Grade 3,NAT,2024,"The dry season in The Gambia is:","June - October","November - May","All year","Only in July",1
+4,NAT Grade 3,NAT,2024,"Which of these is worn on a rainy day?","Sunglasses","Raincoat","Shorts only","Swimsuit",1
+4,NAT Grade 3,NAT,2024,"Which of these is worn on a sunny day?","Raincoat","Sunglasses","Boots","Umbrella only",1
+4,NAT Grade 3,NAT,2024,"The wind is:","Moving air","Moving water","Still air","Fire",0
+4,NAT Grade 3,NAT,2024,"Which of these can wind do?","Blow leaves","Cook food","Light a candle","Stop rain",0

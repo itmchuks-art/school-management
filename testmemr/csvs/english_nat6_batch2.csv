@@ -1,0 +1,96 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+5,NAT Grade 6,NAT,2023,"Which punctuation mark ends a question?","Full stop","Question mark","Exclamation mark","Comma",1
+5,NAT Grade 6,NAT,2023,"Which punctuation mark shows strong feeling?","Full stop","Question mark","Exclamation mark","Comma",2
+5,NAT Grade 6,NAT,2023,"Which punctuation mark separates items in a list?","Full stop","Question mark","Comma","Semicolon",2
+5,NAT Grade 6,NAT,2023,"Where does an apostrophe go in ""the book of Moses""?","Moses's book","Mose's book","Moses book's","Moses'book",0
+5,NAT Grade 6,NAT,2023,"What does the apostrophe show in ""it's""?","Possession","Contraction of 'it is'","Plural","Past tense",1
+5,NAT Grade 6,NAT,2023,"What does the apostrophe show in ""Fatou's bag""?","Possession","Contraction","Plural","Question",0
+5,NAT Grade 6,NAT,2023,"Which sentence is punctuated correctly?","Where are you going.","Where are you going?","Where are you going!","Where are you going,",1
+5,NAT Grade 6,NAT,2023,"Which sentence is punctuated correctly?","I bought rice, fish, and oil.","I bought rice fish and oil.","I bought rice; fish; and oil.","I bought rice: fish and oil.",0
+5,NAT Grade 6,NAT,2023,"Which sentence is punctuated correctly?","Wow what a beautiful day.","Wow, what a beautiful day!","wow what a beautiful day?","Wow what a beautiful day",1
+5,NAT Grade 6,NAT,2023,"Which sentence is punctuated correctly?","My friend's name is Fatou.","My friends name is Fatou.","My friends' name is Fatou.","My friend name's is Fatou.",0
+5,NAT Grade 6,NAT,2023,"Direct → Indirect: He said, ""I am tired.""","He said that he was tired.","He said that I am tired.","He says that he is tired.","He said he is tired.",0
+5,NAT Grade 6,NAT,2023,"Direct → Indirect: She said, ""I will come tomorrow.""","She said that she would come the next day.","She said she will come tomorrow.","She says she comes tomorrow.","She said she comes the day after.",0
+5,NAT Grade 6,NAT,2023,"Direct → Indirect: They said, ""We are happy.""","They said that they were happy.","They said that we are happy.","They say they were happy.","They said they are happy.",0
+5,NAT Grade 6,NAT,2023,"Direct → Indirect: The teacher said, ""Open your books.""","The teacher told us to open our books.","The teacher said we open our books.","The teacher said open your books.","The teacher told to open books.",0
+5,NAT Grade 6,NAT,2023,"Direct → Indirect: He asked, ""Where do you live?""","He asked where I lived.","He asked where do I live.","He asked where I live.","He asked where did I lived.",0
+5,NAT Grade 6,NAT,2023,"Indirect → Direct: She said that she was ill.","She said, ""I am ill.""","She said, ""I was ill.""","She says, ""I am ill.""","She said, ""She is ill.""",0
+5,NAT Grade 6,NAT,2023,"Indirect → Direct: He told me to sit down.","He said, ""Sit down.""","He said, ""I sit down.""","He says, ""Sit down.""","He said, ""You sit down.""",0
+5,NAT Grade 6,NAT,2023,"Change to passive: ""Moses ate the mango.""","The mango was eaten by Moses.","The mango is eaten by Moses.","Moses was eaten by the mango.","The mango eaten Moses.",0
+5,NAT Grade 6,NAT,2023,"Change to passive: ""The children broke the window.""","The window was broken by the children.","The window is broken by the children.","The children were broken by the window.","The window broke the children.",0
+5,NAT Grade 6,NAT,2023,"Change to passive: ""She writes a letter.""","A letter is written by her.","A letter was written by her.","A letter is wrote by her.","A letter written by her.",0
+5,NAT Grade 6,NAT,2023,"Change to passive: ""They are building a new school.""","A new school is being built by them.","A new school is built.","A new school was being built.","A new school has been built.",0
+5,NAT Grade 6,NAT,2023,"Change to active: ""The book was read by Fatou.""","Fatou read the book.","Fatou reads the book.","Fatou has read the book.","The book reads Fatou.",0
+5,NAT Grade 6,NAT,2023,"Change to active: ""The meal was cooked by mother.""","Mother cooked the meal.","Mother cooks the meal.","Mother has cooked the meal.","The meal cooks mother.",0
+5,NAT Grade 6,NAT,2023,"Add the question tag: She is coming, ___?","is she","isn't she","does she","has she",1
+5,NAT Grade 6,NAT,2023,"Add the question tag: You like rice, ___?","do you","don't you","are you","isn't it",1
+5,NAT Grade 6,NAT,2023,"Add the question tag: He can swim, ___?","can he","can't he","does he","isn't he",1
+5,NAT Grade 6,NAT,2023,"Add the question tag: They didn't come, ___?","did they","didn't they","do they","are they",0
+5,NAT Grade 6,NAT,2023,"Add the question tag: Let's go, ___?","shall we","will we","do we","can we",0
+5,NAT Grade 6,NAT,2023,"Add the question tag: I am right, ___?","am I","aren't I","am not I","isn't it",1
+5,NAT Grade 6,NAT,2023,"Add the question tag: Nobody came, ___?","did they","didn't they","did he","do they",0
+5,NAT Grade 6,NAT,2023,"Which is the correct homophone: I want ___ go home.","too","to","two","tow",1
+5,NAT Grade 6,NAT,2023,"Which is the correct homophone: There are ___ many people.","to","too","two","tow",1
+5,NAT Grade 6,NAT,2023,"Which is the correct homophone: I have ___ brothers.","to","too","two","tow",2
+5,NAT Grade 6,NAT,2023,"Which is the correct homophone: ___ going to the market.","There","Their","They're","Thier",2
+5,NAT Grade 6,NAT,2023,"Which is the correct homophone: ___ books are new.","There","Their","They're","Thier",1
+5,NAT Grade 6,NAT,2023,"Which is the correct homophone: Put it over ___.","there","their","they're","thier",0
+5,NAT Grade 6,NAT,2023,"Which is the correct homophone: I don't know ___ to go.","weather","whether","wether","wheather",1
+5,NAT Grade 6,NAT,2023,"Which is the correct homophone: The ___ is hot today.","weather","whether","wether","wheather",0
+5,NAT Grade 6,NAT,2023,"Which is the correct homophone: Please ___ me the book.","piece","peace","peice","pace",0
+5,NAT Grade 6,NAT,2023,"Which is the correct homophone: We all want ___.","piece","peace","peice","pace",1
+5,NAT Grade 6,NAT,2023,"Passage: ""Kunta Kinteh was a young man from The Gambia. He was captured and taken to America as a slave. He never forgot his homeland."" Q: Where was Kunta Kinteh from?","America","The Gambia","Europe","Asia",1
+5,NAT Grade 6,NAT,2023,"Passage: ""Kunta Kinteh was a young man from The Gambia. He was captured and taken to America as a slave. He never forgot his homeland."" Q: Where was he taken?","The Gambia","Europe","America","Asia",2
+5,NAT Grade 6,NAT,2023,"Passage: ""Kunta Kinteh was a young man from The Gambia. He was captured and taken to America as a slave. He never forgot his homeland."" Q: What did Kunta Kinteh never forget?","His money","His homeland","His shoes","His farm",1
+5,NAT Grade 6,NAT,2023,"Passage: ""The River Gambia is the longest river in the country. It flows from east to west and empties into the Atlantic Ocean. Many fishermen depend on it for their livelihood."" Q: Which direction does the river flow?","West to east","East to west","North to south","South to north",1
+5,NAT Grade 6,NAT,2023,"Passage: ""The River Gambia is the longest river in the country. It flows from east to west and empties into the Atlantic Ocean. Many fishermen depend on it for their livelihood."" Q: Where does it empty?","Indian Ocean","Atlantic Ocean","Red Sea","Mediterranean Sea",1
+5,NAT Grade 6,NAT,2023,"Passage: ""The River Gambia is the longest river in the country. It flows from east to west and empties into the Atlantic Ocean. Many fishermen depend on it for their livelihood."" Q: Who depends on the river?","Farmers","Fishermen","Teachers","Doctors",1
+5,NAT Grade 6,NAT,2023,"Passage: ""Mrs Jallow teaches English at Brikama Primary School. She has been teaching for 15 years. Her students love her because she is kind and patient."" Q: What does Mrs Jallow teach?","Maths","English","Science","SES",1
+5,NAT Grade 6,NAT,2023,"Passage: ""Mrs Jallow teaches English at Brikama Primary School. She has been teaching for 15 years. Her students love her because she is kind and patient."" Q: How long has she taught?","5 years","10 years","15 years","20 years",2
+5,NAT Grade 6,NAT,2023,"Passage: ""Mrs Jallow teaches English at Brikama Primary School. She has been teaching for 15 years. Her students love her because she is kind and patient."" Q: Why do her students love her?","She is strict","She is kind and patient","She gives money","She is tall",1
+5,NAT Grade 6,NAT,2023,"Passage: ""Tourism is important to The Gambia. Every year, thousands of visitors come to enjoy the beaches and wildlife. This creates jobs for many Gambians."" Q: Why is tourism important?","It creates jobs","It causes problems","It reduces income","It harms wildlife",0
+5,NAT Grade 6,NAT,2023,"Passage: ""Tourism is important to The Gambia. Every year, thousands of visitors come to enjoy the beaches and wildlife. This creates jobs for many Gambians."" Q: What do visitors enjoy?","Snow","Beaches and wildlife","Deserts","Volcanoes",1
+5,NAT Grade 6,NAT,2023,"Passage: ""Tourism is important to The Gambia. Every year, thousands of visitors come to enjoy the beaches and wildlife. This creates jobs for many Gambians."" Q: Who benefits from tourism?","Only tourists","Many Gambians","Only hotel owners","No one",1
+5,NAT Grade 6,NAT,2023,"Choose the correct preposition: The book is ___ the table.","in","on","at","of",1
+5,NAT Grade 6,NAT,2023,"Choose the correct preposition: We arrived ___ the airport at noon.","in","on","at","of",2
+5,NAT Grade 6,NAT,2023,"Choose the correct preposition: She has been waiting ___ two hours.","since","for","from","at",1
+5,NAT Grade 6,NAT,2023,"Choose the correct preposition: I was born ___ 2010.","on","in","at","of",1
+5,NAT Grade 6,NAT,2023,"Choose the correct preposition: We meet ___ Fridays.","in","on","at","of",1
+5,NAT Grade 6,NAT,2023,"Choose the correct preposition: He is good ___ mathematics.","in","at","on","of",1
+5,NAT Grade 6,NAT,2023,"Choose the correct preposition: She is afraid ___ dogs.","from","of","with","by",1
+5,NAT Grade 6,NAT,2023,"Choose the correct preposition: I am interested ___ music.","on","in","at","of",1
+5,NAT Grade 6,NAT,2023,"Choose the correct preposition: This belongs ___ my brother.","for","to","with","of",1
+5,NAT Grade 6,NAT,2023,"Choose the correct preposition: He was accused ___ theft.","for","of","with","by",1
+5,NAT Grade 6,NAT,2023,"Fill in: I will call you ___ I arrive.","when","while","after","though",0
+5,NAT Grade 6,NAT,2023,"Fill in: She was reading ___ I was cooking.","when","while","after","before",1
+5,NAT Grade 6,NAT,2023,"Fill in: I finished my homework ___ I went out.","before","after","while","though",0
+5,NAT Grade 6,NAT,2023,"Fill in: ___ it was raining, we went out.","Although","Because","Since","If",0
+5,NAT Grade 6,NAT,2023,"Fill in: She passed ___ she studied hard.","although","because","unless","though",1
+5,NAT Grade 6,NAT,2023,"Fill in: I'll wait ___ you finish.","until","unless","though","although",0
+5,NAT Grade 6,NAT,2023,"Fill in: He works hard ___ he is poor.","although","because","since","until",0
+5,NAT Grade 6,NAT,2023,"Fill in: Study hard ___ you will fail.","and","or","so","but",1
+5,NAT Grade 6,NAT,2023,"Fill in: Hurry up, ___ we will be late.","and","or","but","so",1
+5,NAT Grade 6,NAT,2023,"Fill in: She was tired, ___ she kept working.","and","but","or","so",1
+5,NAT Grade 6,NAT,2023,"What is the past participle of 'write'?","wrote","writed","written","writing",2
+5,NAT Grade 6,NAT,2023,"What is the past participle of 'break'?","broke","breaked","broken","breaking",2
+5,NAT Grade 6,NAT,2023,"What is the past participle of 'speak'?","spoke","speaked","spoken","speaking",2
+5,NAT Grade 6,NAT,2023,"What is the past participle of 'take'?","took","taked","taken","taking",2
+5,NAT Grade 6,NAT,2023,"What is the past participle of 'go'?","went","goed","gone","going",2
+5,NAT Grade 6,NAT,2023,"Choose the correct comparative: This book is ___ than that one.","good","better","best","more good",1
+5,NAT Grade 6,NAT,2023,"Choose the correct superlative: She is the ___ student in class.","smart","smarter","smartest","most smart",2
+5,NAT Grade 6,NAT,2023,"Choose the correct comparative: My bag is ___ than yours.","heavy","heavier","heaviest","more heavy",1
+5,NAT Grade 6,NAT,2023,"Choose the correct superlative: This is the ___ film I have seen.","bad","worse","worst","baddest",2
+5,NAT Grade 6,NAT,2023,"Choose the correct comparative: The weather is ___ today.","good","better","best","goodest",1
+5,NAT Grade 6,NAT,2023,"Choose the correct form: He said he ___ coming.","is","was","were","are",1
+5,NAT Grade 6,NAT,2023,"Choose the correct form: She asked if I ___ ready.","am","was","were","be",1
+5,NAT Grade 6,NAT,2023,"Choose the correct form: They told us they ___ finished.","have","had","has","having",1
+5,NAT Grade 6,NAT,2023,"Choose the correct form: I wondered where he ___.","goes","went","gone","going",1
+5,NAT Grade 6,NAT,2023,"Choose the correct form: He said that he ___ swim well.","can","could","may","must",1
+5,NAT Grade 6,NAT,2023,"Which is a simile?","The moon is a lamp.","As brave as a lion.","The wind whispered.","Time is money.",1
+5,NAT Grade 6,NAT,2023,"Which is a metaphor?","Fast as lightning.","The world is a stage.","He slept like a log.","Quiet as a mouse.",1
+5,NAT Grade 6,NAT,2023,"Which is personification?","The sun smiled at us.","Bright as the sun.","Sun is a star.","The sun is hot.",0
+5,NAT Grade 6,NAT,2023,"Which is a hyperbole (exaggeration)?","I'm so hungry I could eat a horse.","I'm hungry.","I eat rice.","The horse is fast.",0
+5,NAT Grade 6,NAT,2023,"Which is an onomatopoeia?","Bang!","Beautiful","Fast","Quickly",0
+5,NAT Grade 6,NAT,2023,"What does the idiom ""break the ice"" mean?","Break frozen water","Start a conversation","Cause trouble","Feel cold",1
+5,NAT Grade 6,NAT,2023,"What does the idiom ""piece of cake"" mean?","A slice of cake","Something easy","Something hard","A dessert",1
+5,NAT Grade 6,NAT,2023,"What does the idiom ""hit the nail on the head"" mean?","Hammer a nail","Say the exact right thing","Hurt someone","Miss the point",1

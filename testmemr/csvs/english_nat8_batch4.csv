@@ -1,0 +1,113 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+9,NAT Grade 8,NAT,2021,"What does the idiom ""break the ice"" mean?","Break frozen water","Start a conversation","Cause trouble","Feel cold",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""piece of cake"" mean?","A slice of cake","Something easy","Something hard","A dessert",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""hit the nail on the head"" mean?","Hammer a nail","Say the exact right thing","Hurt someone","Miss the point",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""let the cat out of the bag"" mean?","Free a cat","Reveal a secret","Buy a cat","Catch a thief",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""once in a blue moon"" mean?","Very often","Very rarely","Every night","Once a week",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""a blessing in disguise"" mean?","A hidden curse","Something good that seemed bad at first","A costume","A surprise party",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""kill two birds with one stone"" mean?","Hurt animals","Achieve two goals with one action","Waste time","Be cruel",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""under the weather"" mean?","In the rain","Feeling unwell","Below the clouds","Walking outside",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""pull someone's leg"" mean?","Hurt someone","Joke with someone","Drag someone","Help someone",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""hit the books"" mean?","Destroy books","Study hard","Throw books","Buy books",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""in hot water"" mean?","Taking a bath","In trouble","Feeling warm","Swimming",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""the ball is in your court"" mean?","Playing tennis","It's your turn to decide or act","You lost the game","You are wrong",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""cost an arm and a leg"" mean?","Very cheap","Very expensive","Free","Painful",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""a piece of mind"" mean?","A calm feeling","An angry telling-off","A gift","A thought",1
+9,NAT Grade 8,NAT,2021,"What does the idiom ""bite off more than you can chew"" mean?","Eat too fast","Take on more than you can handle","Chew loudly","Eat slowly",1
+9,NAT Grade 8,NAT,2021,"Which phrasal verb means ""to cancel""?","Call off","Call on","Call up","Call for",0
+9,NAT Grade 8,NAT,2021,"Which phrasal verb means ""to postpone""?","Put off","Put on","Put up","Put out",0
+9,NAT Grade 8,NAT,2021,"Which phrasal verb means ""to look after""?","Take after","Take care of","Take off","Take on",1
+9,NAT Grade 8,NAT,2021,"Which phrasal verb means ""to surrender""?","Give in","Give up","Give out","Give away",1
+9,NAT Grade 8,NAT,2021,"Which phrasal verb means ""to continue""?","Carry on","Carry out","Carry away","Carry off",0
+9,NAT Grade 8,NAT,2021,"Which phrasal verb means ""to arrive""?","Turn up","Turn down","Turn on","Turn off",0
+9,NAT Grade 8,NAT,2021,"Which phrasal verb means ""to reject""?","Turn up","Turn down","Turn on","Turn off",1
+9,NAT Grade 8,NAT,2021,"Which phrasal verb means ""to discover""?","Find out","Find off","Find on","Find up",0
+9,NAT Grade 8,NAT,2021,"Which phrasal verb means ""to extinguish""?","Put out","Put in","Put up","Put on",0
+9,NAT Grade 8,NAT,2021,"Which phrasal verb means ""to wear (clothes)""?","Put on","Put off","Put out","Put up",0
+9,NAT Grade 8,NAT,2021,"Which is the correct word: She has a ___ of humour.","sense","sence","scence","sens",0
+9,NAT Grade 8,NAT,2021,"Which is the correct word: Please ___ my apologies.","accept","except","expect","aspect",0
+9,NAT Grade 8,NAT,2021,"Which is the correct word: Everyone came ___ John.","accept","except","expect","aspect",1
+9,NAT Grade 8,NAT,2021,"Which is the correct word: The ___ of the story is clear.","moral","morale","morral","morral",0
+9,NAT Grade 8,NAT,2021,"Which is the correct word: The team's ___ was high.","moral","morale","morral","morral",1
+9,NAT Grade 8,NAT,2021,"Which is the correct word: She is a ___ student.","bright","brite","brigt","brith",0
+9,NAT Grade 8,NAT,2021,"Which is the correct word: He showed great ___ in class.","interest","intrest","interst","intreset",0
+9,NAT Grade 8,NAT,2021,"Which is the correct word: The weather is very ___.","pleasant","plesant","pleasent","pleasnt",0
+9,NAT Grade 8,NAT,2021,"Which is the correct word: ___ me at the door.","Meet","Meat","Met","Mite",0
+9,NAT Grade 8,NAT,2021,"Which is the correct word: I need to buy some ___.","meat","meet","met","mite",0
+9,NAT Grade 8,NAT,2021,"Which is the correct word: My favourite ___ is rice.","food","foud","foode","food",0
+9,NAT Grade 8,NAT,2021,"The prefix 'un-' in 'unhappy' means:","Again","Not","Before","After",1
+9,NAT Grade 8,NAT,2021,"The prefix 're-' in 'rewrite' means:","Not","Again","Before","After",1
+9,NAT Grade 8,NAT,2021,"The prefix 'pre-' in 'preview' means:","Not","Again","Before","After",2
+9,NAT Grade 8,NAT,2021,"The prefix 'mis-' in 'mistake' means:","Wrongly","Again","Before","After",0
+9,NAT Grade 8,NAT,2021,"The prefix 'dis-' in 'disagree' means:","Wrongly","Not/opposite","Before","After",1
+9,NAT Grade 8,NAT,2021,"The prefix 'anti-' in 'antibiotic' means:","For","Against","With","By",1
+9,NAT Grade 8,NAT,2021,"The prefix 'sub-' in 'submarine' means:","Above","Under","Beside","Around",1
+9,NAT Grade 8,NAT,2021,"The prefix 'super-' in 'supermarket' means:","Small","Large/above","Under","Around",1
+9,NAT Grade 8,NAT,2021,"The prefix 'inter-' in 'international' means:","Within","Between","Outside","Above",1
+9,NAT Grade 8,NAT,2021,"The prefix 'trans-' in 'transport' means:","Across","Within","Above","Under",0
+9,NAT Grade 8,NAT,2021,"The suffix '-less' in 'careless' means:","Full of","Without","Like","Related to",1
+9,NAT Grade 8,NAT,2021,"The suffix '-ful' in 'careful' means:","Full of","Without","Like","Related to",0
+9,NAT Grade 8,NAT,2021,"The suffix '-ly' in 'quickly' usually makes:","A noun","An adverb","A verb","An adjective",1
+9,NAT Grade 8,NAT,2021,"The suffix '-ness' in 'kindness' makes:","A noun","An adverb","A verb","An adjective",0
+9,NAT Grade 8,NAT,2021,"The suffix '-able' in 'comfortable' means:","Able to be","Not able","Full of","Without",0
+9,NAT Grade 8,NAT,2021,"Which word is formed from ""care"" + ""less""?","Caring","Careless","Cared","Careful",1
+9,NAT Grade 8,NAT,2021,"Which word is formed from ""hope"" + ""ful""?","Hopeless","Hopefully","Hopeful","Hoping",2
+9,NAT Grade 8,NAT,2021,"Which word is formed from ""beauty"" + ""ful""?","Beautiful","Beautify","Beauty","Beautician",0
+9,NAT Grade 8,NAT,2021,"Which word is formed from ""danger"" + ""ous""?","Dangerous","Dangerously","Endanger","Danger",0
+9,NAT Grade 8,NAT,2021,"Which word is formed from ""child"" + ""hood""?","Childish","Childhood","Childlike","Children",1
+9,NAT Grade 8,NAT,2021,"Passage: ""The ancient city of Timbuktu was a centre of learning and trade in West Africa. Scholars from across the region came to study mathematics, astronomy, and Islam. Its libraries held thousands of manuscripts that are still studied today."" Q: Timbuktu was famous for being:","A military base","A centre of learning and trade","A fishing village","A mining town",1
+9,NAT Grade 8,NAT,2021,"Passage: ""The ancient city of Timbuktu was a centre of learning and trade in West Africa. Scholars from across the region came to study mathematics, astronomy, and Islam. Its libraries held thousands of manuscripts that are still studied today."" Q: What did scholars study at Timbuktu?","Only Islam","Mathematics, astronomy, and Islam","Only music","Only farming",1
+9,NAT Grade 8,NAT,2021,"Passage: ""The ancient city of Timbuktu was a centre of learning and trade in West Africa. Scholars from across the region came to study mathematics, astronomy, and Islam. Its libraries held thousands of manuscripts that are still studied today."" Q: What did the libraries contain?","Gold","Thousands of manuscripts","Weapons","Farm tools",1
+9,NAT Grade 8,NAT,2021,"Passage: ""The ancient city of Timbuktu was a centre of learning and trade in West Africa. Scholars from across the region came to study mathematics, astronomy, and Islam. Its libraries held thousands of manuscripts that are still studied today."" Q: The word ""scholars"" means:","Traders","Learned people","Soldiers","Farmers",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Water is life. Without it, no plant or animal can survive. Yet many people around the world waste water daily. Simple habits like turning off taps and fixing leaks can make a huge difference."" Q: What is water called in the passage?","A luxury","Life","A problem","A resource only",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Water is life. Without it, no plant or animal can survive. Yet many people around the world waste water daily. Simple habits like turning off taps and fixing leaks can make a huge difference."" Q: What can make a difference?","Wasting water","Simple habits","Ignoring leaks","Using more taps",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Water is life. Without it, no plant or animal can survive. Yet many people around the world waste water daily. Simple habits like turning off taps and fixing leaks can make a huge difference."" Q: Which is NOT a mentioned solution?","Turning off taps","Fixing leaks","Using bottled water","Simple habits",2
+9,NAT Grade 8,NAT,2021,"Passage: ""The baobab tree is known as the ""tree of life"" in Africa. It can store thousands of litres of water in its thick trunk and provides food, medicine, and shelter to both humans and animals. Some baobabs are over a thousand years old."" Q: The baobab is called:","Tree of death","Tree of life","Tree of gold","Tree of peace",1
+9,NAT Grade 8,NAT,2021,"Passage: ""The baobab tree is known as the ""tree of life"" in Africa. It can store thousands of litres of water in its thick trunk and provides food, medicine, and shelter to both humans and animals. Some baobabs are over a thousand years old."" Q: What does the baobab store?","Food","Water","Medicine","Shelter",1
+9,NAT Grade 8,NAT,2021,"Passage: ""The baobab tree is known as the ""tree of life"" in Africa. It can store thousands of litres of water in its thick trunk and provides food, medicine, and shelter to both humans and animals. Some baobabs are over a thousand years old."" Q: Some baobabs are how old?","100 years","500 years","Over 1,000 years","50 years",2
+9,NAT Grade 8,NAT,2021,"Passage: ""The baobab tree is known as the ""tree of life"" in Africa. It can store thousands of litres of water in its thick trunk and provides food, medicine, and shelter to both humans and animals. Some baobabs are over a thousand years old."" Q: What does the baobab NOT provide?","Food","Medicine","Shelter","Electricity",3
+9,NAT Grade 8,NAT,2021,"Passage: ""Learning a second language opens doors to new cultures, friendships, and opportunities. Studies show that bilingual people have better memory and problem-solving skills. It is never too late to start learning."" Q: What does learning a second language open?","Only jobs","New cultures, friendships, opportunities","Only travel","Nothing",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Learning a second language opens doors to new cultures, friendships, and opportunities. Studies show that bilingual people have better memory and problem-solving skills. It is never too late to start learning."" Q: What skills are better in bilingual people?","Only reading","Memory and problem-solving","Only writing","Only speaking",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Learning a second language opens doors to new cultures, friendships, and opportunities. Studies show that bilingual people have better memory and problem-solving skills. It is never too late to start learning."" Q: When is it too late to learn?","At 20","At 40","At 60","Never",3
+9,NAT Grade 8,NAT,2021,"Passage: ""Reading fiction has many benefits. It improves empathy, boosts creativity, and reduces stress. Unlike watching television, reading requires active engagement of the mind."" Q: What does reading fiction improve?","Only vocabulary","Empathy, creativity, and reduces stress","Only grammar","Only speed",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Reading fiction has many benefits. It improves empathy, boosts creativity, and reduces stress. Unlike watching television, reading requires active engagement of the mind."" Q: How is reading different from TV?","Reading is passive","Reading requires active engagement","TV is better","They are the same",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Reading fiction has many benefits. It improves empathy, boosts creativity, and reduces stress. Unlike watching television, reading requires active engagement of the mind."" Q: The word ""empathy"" most nearly means:","Understanding others' feelings","Hatred","Boredom","Confusion",0
+9,NAT Grade 8,NAT,2021,"Passage: ""Small acts of kindness can change the world. A smile, a helping hand, or a kind word costs nothing but can mean everything to someone in need. Kindness is contagious."" Q: What can change the world?","Money","Small acts of kindness","Power","Fame",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Small acts of kindness can change the world. A smile, a helping hand, or a kind word costs nothing but can mean everything to someone in need. Kindness is contagious."" Q: What does kindness cost?","A lot","Nothing","Some money","Time",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Small acts of kindness can change the world. A smile, a helping hand, or a kind word costs nothing but can mean everything to someone in need. Kindness is contagious."" Q: The word ""contagious"" means:","Spreads from person to person","Dangerous","Infectious disease only","Rare",0
+9,NAT Grade 8,NAT,2021,"Passage: ""The Gambia is known as the ""Smiling Coast of Africa"" because of the warmth and friendliness of its people. Tourists often say that the hospitality they receive makes them want to return year after year."" Q: The Gambia is called:","The Smiling Coast of Africa","The Friendly Island","The Happy Country","The Warm Land",0
+9,NAT Grade 8,NAT,2021,"Passage: ""The Gambia is known as the ""Smiling Coast of Africa"" because of the warmth and friendliness of its people. Tourists often say that the hospitality they receive makes them want to return year after year."" Q: Why is it called this?","Because of the weather","Because of the warmth of its people","Because of the beaches","Because of the food",1
+9,NAT Grade 8,NAT,2021,"Passage: ""The Gambia is known as the ""Smiling Coast of Africa"" because of the warmth and friendliness of its people. Tourists often say that the hospitality they receive makes them want to return year after year."" Q: What makes tourists want to return?","The weather","The hospitality","The food","The beaches",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Music is a universal language. It connects people across cultures, generations, and languages. Whether it is traditional drumming or modern pop, music has the power to unite and heal."" Q: Music is called a:","Local language","Universal language","Dead language","Foreign language",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Music is a universal language. It connects people across cultures, generations, and languages. Whether it is traditional drumming or modern pop, music has the power to unite and heal."" Q: What does music do?","Divide people","Connect and heal","Cause war","Confuse people",1
+9,NAT Grade 8,NAT,2021,"Passage: ""Music is a universal language. It connects people across cultures, generations, and languages. Whether it is traditional drumming or modern pop, music has the power to unite and heal."" Q: Which types of music are mentioned?","Only pop","Only drumming","Traditional drumming and modern pop","Only classical",2
+9,NAT Grade 8,NAT,2021,"Fill in: The teacher asked us to ___ our books.","open","opened","opening","opens",0
+9,NAT Grade 8,NAT,2021,"Fill in: She told me ___ late.","not be","don't be","not to be","not being",2
+9,NAT Grade 8,NAT,2021,"Fill in: I would rather ___ tea than coffee.","have","having","had","has",0
+9,NAT Grade 8,NAT,2021,"Fill in: He is used to ___ up early.","get","getting","got","gets",1
+9,NAT Grade 8,NAT,2021,"Fill in: She is looking forward to ___ you.","see","seeing","saw","sees",1
+9,NAT Grade 8,NAT,2021,"Fill in: I can't help ___ when I watch comedies.","laugh","laughing","to laugh","laughed",1
+9,NAT Grade 8,NAT,2021,"Fill in: It's no use ___ about it now.","complain","complaining","complained","to complain",1
+9,NAT Grade 8,NAT,2021,"Fill in: I remembered ___ the door before I left.","lock","locking","to lock","locked",0
+9,NAT Grade 8,NAT,2021,"Fill in: She stopped ___ a drink.","have","having","to have","had",2
+9,NAT Grade 8,NAT,2021,"Fill in: They went on ___ despite the rain.","play","playing","to play","played",1
+9,NAT Grade 8,NAT,2021,"Fill in: I wish I ___ more time yesterday.","have","had","having","has",1
+9,NAT Grade 8,NAT,2021,"Fill in: If only I ___ studied harder!","have","had","having","has",1
+9,NAT Grade 8,NAT,2021,"Fill in: She suggested ___ a taxi.","take","taking","to take","took",1
+9,NAT Grade 8,NAT,2021,"Fill in: He admitted ___ the money.","steal","stealing","to steal","stole",1
+9,NAT Grade 8,NAT,2021,"Fill in: They accused him of ___ lies.","tell","telling","to tell","told",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: He is interested in ___ new languages.","learn","learning","to learn","learned",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: She apologised for ___ late.","be","being","to be","been",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: I look forward to ___ from you.","hear","hearing","to hear","heard",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: He is good at ___ problems.","solve","solving","to solve","solved",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: Thank you for ___ me.","help","helping","to help","helped",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: I'm tired of ___ the same thing.","do","doing","to do","did",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: She's afraid of ___ mistakes.","make","making","to make","made",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: I'm thinking of ___ a new job.","apply","applying","to apply","applied",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: He's succeeded in ___ the exam.","pass","passing","to pass","passed",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: They insisted on ___ early.","leave","leaving","to leave","left",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: I'm used to ___ in a hot climate.","live","living","to live","lived",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: She is capable of ___ the work alone.","do","doing","to do","did",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: He is responsible for ___ the project.","manage","managing","to manage","managed",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: I'm looking forward to ___ on holiday.","go","going","to go","went",1
+9,NAT Grade 8,NAT,2021,"Choose the correct form: She was praised for ___ so well.","perform","performing","to perform","performed",1

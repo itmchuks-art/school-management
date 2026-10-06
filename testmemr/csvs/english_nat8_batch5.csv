@@ -1,0 +1,101 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+9,NAT Grade 8,NAT,2020,"Which is a direct question?","He asked where I was going.","Where are you going?","She wanted to know my name.","They asked if I was ready.",1
+9,NAT Grade 8,NAT,2020,"Which is an indirect question?","What time is it?","He asked what time it was.","Are you coming?","Did you eat?",1
+9,NAT Grade 8,NAT,2020,"Change to indirect: ""Where do you live?"" he asked.","He asked where I lived.","He asked where do I live.","He asks where I live.","He asked where I live.",0
+9,NAT Grade 8,NAT,2020,"Change to indirect: ""Are you hungry?"" she asked.","She asked if I was hungry.","She asked if I am hungry.","She asks if I was hungry.","She asked are you hungry.",0
+9,NAT Grade 8,NAT,2020,"Change to indirect: ""How old are you?"" he asked.","He asked how old I was.","He asked how old am I.","He asked how old I am.","He asks how old I was.",0
+9,NAT Grade 8,NAT,2020,"Change to indirect: ""Why did you leave?"" she asked.","She asked why I had left.","She asked why did I leave.","She asked why I leave.","She asks why I had left.",0
+9,NAT Grade 8,NAT,2020,"Change to direct: He asked me to sit down.","He said, ""Sit down.""","He said, ""I sit down.""","He said, ""You sit down.""","He said, ""Sitting down.""",0
+9,NAT Grade 8,NAT,2020,"Change to direct: She wanted to know my age.","She asked, ""How old are you?""","She said, ""How old am I?""","She asked, ""What is your age?""","Both A and C are correct",3
+9,NAT Grade 8,NAT,2020,"Which punctuation mark is used at the end of an indirect question?","Question mark","Full stop","Exclamation mark","Comma",1
+9,NAT Grade 8,NAT,2020,"Which is the correct indirect form: ""Please help me,"" she said.","She asked me to help her.","She said please help me.","She asked help me.","She told help me.",0
+9,NAT Grade 8,NAT,2020,"A good summary should:","Copy the original text word for word","Include only the main points","Add your own opinions","Be as long as possible",1
+9,NAT Grade 8,NAT,2020,"Which should a summary AVOID?","Main points","Examples and details","Key ideas","Important facts",1
+9,NAT Grade 8,NAT,2020,"A summary should be about what percentage of the original length?","10-25%","50%","100%","5%",0
+9,NAT Grade 8,NAT,2020,"Which is NOT needed in a summary?","Main idea","Personal opinion","Important facts","Key examples only if essential",1
+9,NAT Grade 8,NAT,2020,"The main idea of a passage is:","The first sentence","The central point","The last sentence","A random detail",1
+9,NAT Grade 8,NAT,2020,"Which is a supporting detail?","The main topic","A specific example or fact","The conclusion","The title",1
+9,NAT Grade 8,NAT,2020,"A conclusion in an essay should:","Introduce new topics","Summarise the main points","Repeat the introduction","Ask a question",1
+9,NAT Grade 8,NAT,2020,"Which is NOT a good essay opening?","A quote","A surprising fact","A question","A random word",3
+9,NAT Grade 8,NAT,2020,"Which is a good way to end an essay?","With a strong concluding thought","With 'the end'","With 'I am tired'","With a random sentence",0
+9,NAT Grade 8,NAT,2020,"A paragraph's topic sentence:","Introduces the main idea","Ends the paragraph","Is a question","Is a random detail",0
+9,NAT Grade 8,NAT,2020,"Which word is used to show contrast?","Moreover","However","Furthermore","Additionally",1
+9,NAT Grade 8,NAT,2020,"Which word is used to add information?","However","Moreover","But","Although",1
+9,NAT Grade 8,NAT,2020,"Which word is used to show cause?","Therefore","Nevertheless","But","However",0
+9,NAT Grade 8,NAT,2020,"Which word is used to show result?","Because","As a result","Although","Unless",1
+9,NAT Grade 8,NAT,2020,"Which is a linking word for examples?","For instance","However","Otherwise","Nevertheless",0
+9,NAT Grade 8,NAT,2020,"Which is a linking word for conclusion?","In conclusion","For example","However","Similarly",0
+9,NAT Grade 8,NAT,2020,"Which is a linking word for addition?","Furthermore","But","However","Otherwise",0
+9,NAT Grade 8,NAT,2020,"Which is a linking word for comparison?","Similarly","But","However","Otherwise",0
+9,NAT Grade 8,NAT,2020,"Which is a linking word for contrast?","On the other hand","Furthermore","Moreover","Additionally",0
+9,NAT Grade 8,NAT,2020,"Which is a linking word for sequence?","Firstly","However","Otherwise","Although",0
+9,NAT Grade 8,NAT,2020,"Which sentence uses 'although' correctly?","Although he was tired, he kept working.","Although he was tired but he kept working.","He was tired although but he worked.","Although tired he worked but.",0
+9,NAT Grade 8,NAT,2020,"Which sentence uses 'because' correctly?","Because it rained, we stayed home.","Because it rained so we stayed home.","It rained because we stayed home.","Because rain stayed home.",0
+9,NAT Grade 8,NAT,2020,"Which sentence uses 'unless' correctly?","I won't go unless you come.","I won't go unless you don't come.","Unless I go you come.","I won't go unless.",0
+9,NAT Grade 8,NAT,2020,"Which sentence uses 'so that' correctly?","I studied hard so that I could pass.","I studied hard so that I pass.","So that I studied passed.","I studied so that hard pass.",0
+9,NAT Grade 8,NAT,2020,"Which sentence uses 'in order to' correctly?","She left early in order to catch the bus.","She left early in order to catching the bus.","She left in order to early catch bus.","In order to she left early.",0
+9,NAT Grade 8,NAT,2020,"Passage: ""Trees are often called the lungs of the Earth. They absorb carbon dioxide and release oxygen, which all living things need to survive. Unfortunately, deforestation is reducing the number of trees at an alarming rate."" Q: Trees are called:","The heart of the Earth","The lungs of the Earth","The brain of the Earth","The hands of the Earth",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Trees are often called the lungs of the Earth. They absorb carbon dioxide and release oxygen, which all living things need to survive. Unfortunately, deforestation is reducing the number of trees at an alarming rate."" Q: What do trees release?","Carbon dioxide","Oxygen","Nitrogen","Hydrogen",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Trees are often called the lungs of the Earth. They absorb carbon dioxide and release oxygen, which all living things need to survive. Unfortunately, deforestation is reducing the number of trees at an alarming rate."" Q: What is reducing trees?","Rainfall","Deforestation","Sunlight","Wildlife",1
+9,NAT Grade 8,NAT,2020,"Passage: ""The River Gambia is the lifeline of the nation. It provides fish, transports people and goods, and irrigates farms along its banks. Protecting it from pollution is vital for future generations."" Q: The River Gambia is called:","A danger","The lifeline of the nation","A small stream","An ocean",1
+9,NAT Grade 8,NAT,2020,"Passage: ""The River Gambia is the lifeline of the nation. It provides fish, transports people and goods, and irrigates farms along its banks. Protecting it from pollution is vital for future generations."" Q: What does the river NOT do?","Provide fish","Transport goods","Irrigate farms","Produce electricity",3
+9,NAT Grade 8,NAT,2020,"Passage: ""The River Gambia is the lifeline of the nation. It provides fish, transports people and goods, and irrigates farms along its banks. Protecting it from pollution is vital for future generations."" Q: What threatens the river?","Fish","Pollution","Rain","Boats",1
+9,NAT Grade 8,NAT,2020,"Passage: ""The River Gambia is the lifeline of the nation. It provides fish, transports people and goods, and irrigates farms along its banks. Protecting it from pollution is vital for future generations."" Q: Why is protecting it important?","For today only","For future generations","For fish only","For tourists only",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Honesty is the best policy. A person who is honest earns respect and trust from others. Dishonesty may bring short-term gains but leads to long-term problems."" Q: What is the best policy?","Dishonesty","Honesty","Wealth","Power",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Honesty is the best policy. A person who is honest earns respect and trust from others. Dishonesty may bring short-term gains but leads to long-term problems."" Q: What does honesty earn?","Money","Respect and trust","Power","Fame",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Honesty is the best policy. A person who is honest earns respect and trust from others. Dishonesty may bring short-term gains but leads to long-term problems."" Q: What does dishonesty bring?","Long-term success","Short-term gains but long-term problems","Only problems","Only gains",1
+9,NAT Grade 8,NAT,2020,"Passage: ""The Sahara Desert stretches across North Africa, covering over nine million square kilometres. It is the largest hot desert in the world. Despite its harsh conditions, many people live in oases within the desert."" Q: How large is the Sahara?","1 million km²","5 million km²","Over 9 million km²","20 million km²",2
+9,NAT Grade 8,NAT,2020,"Passage: ""The Sahara Desert stretches across North Africa, covering over nine million square kilometres. It is the largest hot desert in the world. Despite its harsh conditions, many people live in oases within the desert."" Q: Where do people live in the Sahara?","In caves","In oases","On mountains","In cities",1
+9,NAT Grade 8,NAT,2020,"Passage: ""The Sahara Desert stretches across North Africa, covering over nine million square kilometres. It is the largest hot desert in the world. Despite its harsh conditions, many people live in oases within the desert."" Q: The word ""harsh"" means:","Easy","Severe","Pleasant","Simple",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Reading is to the mind what exercise is to the body. Just as the body needs exercise to stay healthy, the mind needs regular reading to stay sharp. Both activities keep us strong and active."" Q: Reading is compared to:","Food","Exercise","Water","Sleep",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Reading is to the mind what exercise is to the body. Just as the body needs exercise to stay healthy, the mind needs regular reading to stay sharp. Both activities keep us strong and active."" Q: What does reading do for the mind?","Makes it tired","Keeps it sharp","Causes confusion","Wastes time",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Reading is to the mind what exercise is to the body. Just as the body needs exercise to stay healthy, the mind needs regular reading to stay sharp. Both activities keep us strong and active."" Q: What is the comparison in the passage?","Simile","Metaphor","Personification","Hyperbole",0
+9,NAT Grade 8,NAT,2020,"Passage: ""Girls and boys deserve equal opportunities in education. When girls are educated, communities thrive. Education gives them the tools to earn a living, raise healthy families, and contribute to society."" Q: What do girls deserve?","Fewer opportunities","Equal opportunities","No education","Home duties",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Girls and boys deserve equal opportunities in education. When girls are educated, communities thrive. Education gives them the tools to earn a living, raise healthy families, and contribute to society."" Q: What happens when girls are educated?","Communities suffer","Communities thrive","Nothing changes","Poverty increases",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Girls and boys deserve equal opportunities in education. When girls are educated, communities thrive. Education gives them the tools to earn a living, raise healthy families, and contribute to society."" Q: What does education give girls?","Only certificates","Tools to earn a living","Only reading","Nothing",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Sports are not just about winning. They teach discipline, teamwork, and perseverance. Whether you win or lose, the lessons learned on the field are valuable for life."" Q: Sports teach:","Only how to win","Discipline, teamwork, perseverance","Only fitness","Only competition",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Sports are not just about winning. They teach discipline, teamwork, and perseverance. Whether you win or lose, the lessons learned on the field are valuable for life."" Q: What is valuable for life?","Only winning","Lessons learned on the field","Only medals","Only trophies",1
+9,NAT Grade 8,NAT,2020,"Passage: ""Sports are not just about winning. They teach discipline, teamwork, and perseverance. Whether you win or lose, the lessons learned on the field are valuable for life."" Q: What is NOT mentioned as a benefit?","Discipline","Teamwork","Perseverance","Wealth",3
+9,NAT Grade 8,NAT,2020,"Passage: ""The ancient Egyptians built pyramids as tombs for their kings. These massive structures still stand today, over 4,000 years later, and continue to fascinate visitors from around the world."" Q: What were pyramids built for?","Homes","Tombs for kings","Markets","Farms",1
+9,NAT Grade 8,NAT,2020,"Passage: ""The ancient Egyptians built pyramids as tombs for their kings. These massive structures still stand today, over 4,000 years later, and continue to fascinate visitors from around the world."" Q: How old are the pyramids?","100 years","500 years","Over 4,000 years","10,000 years",2
+9,NAT Grade 8,NAT,2020,"Passage: ""The ancient Egyptians built pyramids as tombs for their kings. These massive structures still stand today, over 4,000 years later, and continue to fascinate visitors from around the world."" Q: Who visits the pyramids?","Only Egyptians","Visitors from around the world","Only kings","Only historians",1
+9,NAT Grade 8,NAT,2020,"Fill in: She is very good ___ mathematics.","in","at","on","of",1
+9,NAT Grade 8,NAT,2020,"Fill in: I'm interested ___ learning new languages.","on","in","at","of",1
+9,NAT Grade 8,NAT,2020,"Fill in: He is married ___ my sister.","with","to","by","at",1
+9,NAT Grade 8,NAT,2020,"Fill in: She is famous ___ her songs.","of","for","in","at",1
+9,NAT Grade 8,NAT,2020,"Fill in: The book is different ___ the other one.","than","from","to","of",1
+9,NAT Grade 8,NAT,2020,"Fill in: I prefer tea ___ coffee.","than","to","over","from",1
+9,NAT Grade 8,NAT,2020,"Fill in: He is capable ___ doing the work.","to","of","for","with",1
+9,NAT Grade 8,NAT,2020,"Fill in: I'm sorry ___ the mistake.","of","for","about only","Both B and C",3
+9,NAT Grade 8,NAT,2020,"Fill in: She's afraid ___ spiders.","from","of","with","by",1
+9,NAT Grade 8,NAT,2020,"Fill in: They arrived ___ the airport at noon.","in","on","at","to",2
+9,NAT Grade 8,NAT,2020,"Choose the correct preposition: He has been waiting ___ 2 o'clock.","for","since","from","at",1
+9,NAT Grade 8,NAT,2020,"Choose the correct preposition: I was born ___ Monday.","in","on","at","of",1
+9,NAT Grade 8,NAT,2020,"Choose the correct preposition: The cat jumped ___ the table.","in","on","onto","in",2
+9,NAT Grade 8,NAT,2020,"Choose the correct preposition: He walked ___ the bridge.","across","through","on","over only",0
+9,NAT Grade 8,NAT,2020,"Choose the correct preposition: She lives ___ Banjul.","on","in","at","of",1
+9,NAT Grade 8,NAT,2020,"Choose the correct preposition: I'll see you ___ Friday.","on","in","at","of",0
+9,NAT Grade 8,NAT,2020,"Choose the correct preposition: The film starts ___ 7 pm.","on","in","at","of",2
+9,NAT Grade 8,NAT,2020,"Choose the correct preposition: He's been here ___ an hour.","since","for","from","at",1
+9,NAT Grade 8,NAT,2020,"Choose the correct preposition: She goes to school ___ foot.","with","on","by","in",1
+9,NAT Grade 8,NAT,2020,"Choose the correct preposition: We travelled ___ car.","with","on","by","in",2
+9,NAT Grade 8,NAT,2020,"Choose the correct word: ___ of the two boys is my friend.","Either","Neither","Both","All",1
+9,NAT Grade 8,NAT,2020,"Choose the correct word: ___ of the students passed the exam.","Each","Every","All","Much",2
+9,NAT Grade 8,NAT,2020,"Choose the correct word: I have ___ information about it.","many","much","few","several",1
+9,NAT Grade 8,NAT,2020,"Choose the correct word: There are ___ books on the shelf.","much","a little","several","a great deal of",2
+9,NAT Grade 8,NAT,2020,"Choose the correct word: ___ people came to the party.","Much","A little","Many","A great deal of",2
+9,NAT Grade 8,NAT,2020,"Choose the correct word: She has ___ money.","many","few","a great deal of","several",2
+9,NAT Grade 8,NAT,2020,"Choose the correct word: I have ___ time.","many","a few","little","several",2
+9,NAT Grade 8,NAT,2020,"Choose the correct word: ___ of the boys were late.","Each","Every","Some","Much",2
+9,NAT Grade 8,NAT,2020,"Choose the correct word: There isn't ___ milk left.","many","much","few","several",1
+9,NAT Grade 8,NAT,2020,"Choose the correct word: He is one of the ___ students.","best","better","good","well",0
+9,NAT Grade 8,NAT,2020,"Choose the correct word: She is the ___ of the two.","tall","taller","tallest","very tall",1
+9,NAT Grade 8,NAT,2020,"Choose the correct word: This is ___ book I've ever read.","the good","the better","the best","best",2
+9,NAT Grade 8,NAT,2020,"Choose the correct word: She is ___ than her sister.","tall","taller","tallest","very tall",1
+9,NAT Grade 8,NAT,2020,"Choose the correct word: He runs ___ than I do.","fast","faster","fastest","very fast",1
+9,NAT Grade 8,NAT,2020,"Choose the correct word: She sings ___.","beautiful","beautifully","beauty","beautify",1
+9,NAT Grade 8,NAT,2020,"Choose the correct word: The music sounds ___.","beautiful","beautifully","beauty","beautify",0
+9,NAT Grade 8,NAT,2020,"Choose the correct word: He drives ___.","careful","carefully","care","carefulness",1
+9,NAT Grade 8,NAT,2020,"Choose the correct word: She looked at me ___.","angry","angrily","anger","angriness",1
+9,NAT Grade 8,NAT,2020,"Choose the correct word: The food tastes ___.","good","well","goodly","goodness",0
+9,NAT Grade 8,NAT,2020,"Choose the correct word: She did the work ___.","good","well","goodly","goodness",1

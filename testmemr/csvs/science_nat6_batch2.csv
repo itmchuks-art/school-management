@@ -1,0 +1,99 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+8,NAT Grade 6,NAT,2023,"Which group of animals has a backbone?","Insects","Vertebrates","Worms","Molluscs",1
+8,NAT Grade 6,NAT,2023,"Which is a vertebrate?","Snail","Fish","Insect","Jellyfish",1
+8,NAT Grade 6,NAT,2023,"Fish breathe through:","Lungs","Gills","Skin","Nose",1
+8,NAT Grade 6,NAT,2023,"Which animal group has feathers?","Mammals","Birds","Reptiles","Amphibians",1
+8,NAT Grade 6,NAT,2023,"Which animal group feeds its young with milk?","Reptiles","Birds","Mammals","Fish",2
+8,NAT Grade 6,NAT,2023,"Which animal group has dry scaly skin?","Amphibians","Reptiles","Mammals","Fish",1
+8,NAT Grade 6,NAT,2023,"Which animal group lives both on land and in water?","Reptiles","Amphibians","Mammals","Birds",1
+8,NAT Grade 6,NAT,2023,"Which is a mammal?","Crocodile","Whale","Shark","Frog",1
+8,NAT Grade 6,NAT,2023,"Which is an amphibian?","Snake","Frog","Lizard","Cow",1
+8,NAT Grade 6,NAT,2023,"Which is a reptile?","Tortoise","Toad","Bat","Dolphin",0
+8,NAT Grade 6,NAT,2023,"In a food chain, green plants are called:","Consumers","Producers","Decomposers","Predators",1
+8,NAT Grade 6,NAT,2023,"Animals that eat plants are called:","Carnivores","Herbivores","Omnivores","Decomposers",1
+8,NAT Grade 6,NAT,2023,"Animals that eat other animals are called:","Herbivores","Carnivores","Producers","Plants",1
+8,NAT Grade 6,NAT,2023,"Animals that eat both plants and animals are:","Herbivores","Carnivores","Omnivores","Producers",2
+8,NAT Grade 6,NAT,2023,"Fungi and bacteria that break down dead matter are:","Producers","Consumers","Decomposers","Predators",2
+8,NAT Grade 6,NAT,2023,"A food chain always starts with:","A predator","Green plants","A decomposer","An animal",1
+8,NAT Grade 6,NAT,2023,"In the food chain grass → goat → lion, the lion is:","Producer","Primary consumer","Secondary consumer","Decomposer",2
+8,NAT Grade 6,NAT,2023,"In the food chain grass → goat → lion, the goat is:","Producer","Primary consumer","Secondary consumer","Decomposer",1
+8,NAT Grade 6,NAT,2023,"Which is a producer?","Cow","Grass","Lion","Snake",1
+8,NAT Grade 6,NAT,2023,"All the living things in an area plus their environment form:","A species","A population","An ecosystem","A community only",2
+8,NAT Grade 6,NAT,2023,"A group of the same kind of animals living together is a:","Community","Population","Ecosystem","Species",1
+8,NAT Grade 6,NAT,2023,"Which of these is a biotic (living) part of an ecosystem?","Water","Sunlight","Trees","Soil",2
+8,NAT Grade 6,NAT,2023,"Which of these is an abiotic (non-living) part of an ecosystem?","Fish","Trees","Water","Birds",2
+8,NAT Grade 6,NAT,2023,"Which of these is a predator?","Cow","Lion","Goat","Sheep",1
+8,NAT Grade 6,NAT,2023,"Which of these is a prey animal?","Lion","Antelope","Tiger","Shark",1
+8,NAT Grade 6,NAT,2023,"The sun is a:","Planet","Star","Moon","Comet",1
+8,NAT Grade 6,NAT,2023,"How many planets are in our solar system?","6","7","8","9",2
+8,NAT Grade 6,NAT,2023,"Which planet is closest to the Sun?","Venus","Mercury","Earth","Mars",1
+8,NAT Grade 6,NAT,2023,"Which planet is known as the Red Planet?","Venus","Mars","Jupiter","Saturn",1
+8,NAT Grade 6,NAT,2023,"Which is the largest planet in our solar system?","Saturn","Jupiter","Neptune","Earth",1
+8,NAT Grade 6,NAT,2023,"Which planet has visible rings?","Mars","Saturn","Venus","Mercury",1
+8,NAT Grade 6,NAT,2023,"Which planet do we live on?","Mars","Venus","Earth","Mercury",2
+8,NAT Grade 6,NAT,2023,"The Earth takes how long to orbit the Sun?","24 hours","7 days","365 days","10 years",2
+8,NAT Grade 6,NAT,2023,"The Earth takes how long to rotate on its axis?","12 hours","24 hours","30 days","365 days",1
+8,NAT Grade 6,NAT,2023,"What causes day and night?","Earth's revolution","Earth's rotation","Moon's movement","Sun's rotation",1
+8,NAT Grade 6,NAT,2023,"What causes the seasons?","Earth's rotation","Earth's tilt and revolution","Moon","Stars",1
+8,NAT Grade 6,NAT,2023,"The moon is a:","Star","Planet","Natural satellite","Comet",2
+8,NAT Grade 6,NAT,2023,"How long does the moon take to orbit the Earth?","7 days","30 days","365 days","24 hours",1
+8,NAT Grade 6,NAT,2023,"A solar eclipse happens when:","The earth blocks the sun","The moon blocks the sun","The sun blocks the moon","Clouds cover the sun",1
+8,NAT Grade 6,NAT,2023,"A lunar eclipse happens when:","The moon blocks the sun","Earth's shadow falls on the moon","The sun goes out","Clouds cover the moon",1
+8,NAT Grade 6,NAT,2023,"Which planet is called Earth's twin?","Mars","Venus","Mercury","Jupiter",1
+8,NAT Grade 6,NAT,2023,"Which is not a planet?","Mars","Jupiter","Moon","Saturn",2
+8,NAT Grade 6,NAT,2023,"A force is a:","Type of energy","Push or pull","Type of matter","Form of light",1
+8,NAT Grade 6,NAT,2023,"The force that pulls things to the ground is:","Magnetism","Gravity","Friction","Electricity",1
+8,NAT Grade 6,NAT,2023,"The force that slows moving objects is:","Gravity","Friction","Magnetism","Pressure",1
+8,NAT Grade 6,NAT,2023,"The unit of force is the:","Kilogram","Metre","Newton","Second",2
+8,NAT Grade 6,NAT,2023,"Weight is measured in:","Kilograms","Newtons","Metres","Litres",1
+8,NAT Grade 6,NAT,2023,"Mass is measured in:","Newtons","Kilograms","Metres","Seconds",1
+8,NAT Grade 6,NAT,2023,"Which surface causes the most friction?","Ice","Rough road","Glass","Oil",1
+8,NAT Grade 6,NAT,2023,"Friction can be reduced by:","Adding oil","Adding sand","Rubbing harder","Using rough surfaces",0
+8,NAT Grade 6,NAT,2023,"Which force makes a magnet attract iron?","Gravity","Magnetic force","Friction","Air resistance",1
+8,NAT Grade 6,NAT,2023,"A lever is a:","Simple machine","Type of force","Type of energy","Type of matter",0
+8,NAT Grade 6,NAT,2023,"Which is a simple machine?","Computer","Pulley","Telescope","Battery",1
+8,NAT Grade 6,NAT,2023,"A seesaw is an example of:","Lever","Pulley","Wheel","Screw",0
+8,NAT Grade 6,NAT,2023,"A flagpole uses which simple machine?","Lever","Pulley","Wedge","Screw",1
+8,NAT Grade 6,NAT,2023,"A ramp is an example of:","Lever","Pulley","Inclined plane","Wedge",2
+8,NAT Grade 6,NAT,2023,"A knife is an example of:","Lever","Pulley","Wedge","Screw",2
+8,NAT Grade 6,NAT,2023,"Which simple machine is found on a jar lid?","Lever","Pulley","Screw","Wedge",2
+8,NAT Grade 6,NAT,2023,"Which of these is a renewable energy source?","Coal","Oil","Wind","Petroleum",2
+8,NAT Grade 6,NAT,2023,"Which is a greenhouse gas?","Oxygen","Carbon dioxide","Nitrogen","Helium",1
+8,NAT Grade 6,NAT,2023,"The greenhouse effect causes:","Global cooling","Global warming","More oxygen","Less rain",1
+8,NAT Grade 6,NAT,2023,"Which of these helps reduce air pollution?","Burning rubbish","Riding bicycles","Bush burning","Smoking",1
+8,NAT Grade 6,NAT,2023,"The 3 Rs of the environment are:","Run, Read, Rest","Reduce, Reuse, Recycle","Rain, Rivers, Rocks","Red, Round, Rough",1
+8,NAT Grade 6,NAT,2023,"Which is a way to save water?","Leaving taps open","Fixing leaking pipes","Wasting water","Bathing with a hose",1
+8,NAT Grade 6,NAT,2023,"Which is a way to protect wildlife?","Hunting freely","Creating national parks","Bush burning","Deforestation",1
+8,NAT Grade 6,NAT,2023,"National parks in The Gambia protect:","Buildings","Wildlife","Roads","Farmers",1
+8,NAT Grade 6,NAT,2023,"Which is an example of a fossil fuel?","Solar","Wind","Petroleum","Water",2
+8,NAT Grade 6,NAT,2023,"Which of these is a renewable resource?","Coal","Sunlight","Natural gas","Oil",1
+8,NAT Grade 6,NAT,2023,"Which of these is a non-renewable resource?","Water","Sunlight","Coal","Wind",2
+8,NAT Grade 6,NAT,2023,"Which of these is a way to conserve energy?","Leaving lights on","Using energy-saving bulbs","Using more cars","Running AC all day",1
+8,NAT Grade 6,NAT,2023,"Which is a chemical change?","Melting ice","Burning wood","Boiling water","Cutting paper",1
+8,NAT Grade 6,NAT,2023,"Which is a physical change?","Rusting iron","Melting ice","Burning paper","Cooking rice",1
+8,NAT Grade 6,NAT,2023,"Which of these is a physical change?","Baking cake","Frying egg","Tearing paper","Rusting nail",2
+8,NAT Grade 6,NAT,2023,"Rusting is caused by:","Air only","Water only","Air and water","Salt only",2
+8,NAT Grade 6,NAT,2023,"Which gas is produced when a candle burns?","Oxygen","Carbon dioxide","Hydrogen","Helium",1
+8,NAT Grade 6,NAT,2023,"Burning is a type of:","Physical change","Chemical change","Reversible change","Cooling",1
+8,NAT Grade 6,NAT,2023,"Which of these is an acid?","Sugar","Lemon juice","Salt","Water",1
+8,NAT Grade 6,NAT,2023,"Which of these is a base (alkali)?","Vinegar","Lemon juice","Soap","Coke",2
+8,NAT Grade 6,NAT,2023,"Acids turn blue litmus paper:","Blue","Red","Green","No change",1
+8,NAT Grade 6,NAT,2023,"Bases turn red litmus paper:","Red","Blue","Green","No change",1
+8,NAT Grade 6,NAT,2023,"Which of these is neutral?","Vinegar","Pure water","Soap","Lemon",1
+8,NAT Grade 6,NAT,2023,"What is the pH of a neutral substance?","0","7","14","100",1
+8,NAT Grade 6,NAT,2023,"Which of these is the chemical symbol for water?","H2O","CO2","O2","NaCl",0
+8,NAT Grade 6,NAT,2023,"Which is the chemical symbol for oxygen?","O2","CO2","H2O","N2",0
+8,NAT Grade 6,NAT,2023,"Which is the chemical symbol for carbon dioxide?","H2O","O2","CO2","N2",2
+8,NAT Grade 6,NAT,2023,"Which is the chemical symbol for gold?","Go","Gd","Au","Ag",2
+8,NAT Grade 6,NAT,2023,"Which is the chemical symbol for iron?","Ir","Fe","In","Io",1
+8,NAT Grade 6,NAT,2023,"An atom is:","The smallest particle of an element","A type of cell","A mixture","A compound",0
+8,NAT Grade 6,NAT,2023,"An element is:","A mixture of substances","A pure substance made of one type of atom","A compound","A solution",1
+8,NAT Grade 6,NAT,2023,"A compound is:","A pure element","Two or more elements chemically joined","A mixture","A solution",1
+8,NAT Grade 6,NAT,2023,"Which of these is a compound?","Oxygen","Water","Gold","Iron",1
+8,NAT Grade 6,NAT,2023,"Which of these is an element?","Water","Salt","Oxygen","Sugar",2
+8,NAT Grade 6,NAT,2023,"Which of these is a mixture?","Water","Salt","Air","Gold",2
+8,NAT Grade 6,NAT,2023,"The smallest unit of an element is:","A cell","An atom","A molecule","An organ",1
+8,NAT Grade 6,NAT,2023,"Which is a use of magnets?","Making compasses","Cooking food","Reading books","Flying planes",0
+8,NAT Grade 6,NAT,2023,"A compass needle points to:","East","North","South","West",1
+8,NAT Grade 6,NAT,2023,"Which is a unit of electricity?","Metre","Kilogram","Volt","Litre",2
+8,NAT Grade 6,NAT,2023,"Which is a unit of energy?","Joule","Newton","Watt","Metre",0

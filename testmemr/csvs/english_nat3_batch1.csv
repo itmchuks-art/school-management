@@ -1,0 +1,105 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'book'.","bookes","books","booken","bookies",1
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'child'.","childs","childes","children","child",2
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'man'.","mans","men","manns","mens",1
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'woman'.","womans","womens","women","woman's",2
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'baby'.","babys","babies","babyes","baby's",1
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'box'.","boxs","boxes","boxen","boxies",1
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'bus'.","buss","buses","busies","busses only",1
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'knife'.","knifes","knives","knifs","knifies",1
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'leaf'.","leafs","leaves","leafes","leafies",1
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'foot'.","foots","feets","feet","footes",2
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'tooth'.","tooths","teeth","toothes","toothies",1
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'mouse'.","mouses","mice","mices","mouse",1
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'sheep'.","sheeps","sheep","sheepes","sheepies",1
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'fish'.","fishs","fishes","fish","fishies",1
+1,NAT Grade 3,NAT,2024,"Choose the correct plural of 'boy'.","boies","boys","boyes","boy's",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'big' is:","tall","small","wide","long",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'hot' is:","warm","cold","cool","dry",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'happy' is:","glad","sad","joyful","calm",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'day' is:","morning","night","evening","noon",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'up' is:","above","down","over","high",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'wet' is:","damp","dry","soggy","humid",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'old' is:","new","ancient","aged","used",0
+1,NAT Grade 3,NAT,2024,"The opposite of 'fast' is:","quick","slow","rapid","speedy",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'tall' is:","high","short","big","wide",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'open' is:","closed","ajar","wide","free",0
+1,NAT Grade 3,NAT,2024,"The opposite of 'come' is:","arrive","go","enter","reach",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'start' is:","begin","end","launch","open",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'love' is:","like","hate","adore","care",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'rich' is:","wealthy","poor","moneyed","prosperous",1
+1,NAT Grade 3,NAT,2024,"The opposite of 'clean' is:","neat","dirty","tidy","spotless",1
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","recieve","receive","receeve","receve",1
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","beleive","believe","belive","believ",1
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","freind","friend","frend","friennd",1
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","neccessary","necessary","necesary","necessery",1
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","definately","definitely","definitly","definetly",1
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","seperate","separate","seperete","seperat",1
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","tommorow","tomorrow","tomorow","tommorrow",1
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","beautiful","beatiful","beutiful","beautifull",0
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","because","becuase","becaus","becose",0
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","their","thier","there","they're",0
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","wich","which","whitch","wichh",1
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","wrote","roted","wroted","writed",0
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","school","schol","shcool","skool",0
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","frend","friend","frien","freand",1
+1,NAT Grade 3,NAT,2024,"Choose the correct spelling.","peple","people","pepole","peopel",1
+1,NAT Grade 3,NAT,2024,"Which word is a noun?","run","book","quickly","happy",1
+1,NAT Grade 3,NAT,2024,"Which word is a noun?","jump","table","slowly","loud",1
+1,NAT Grade 3,NAT,2024,"Which word is a verb?","chair","sing","happy","blue",1
+1,NAT Grade 3,NAT,2024,"Which word is a verb?","eat","table","fast","red",0
+1,NAT Grade 3,NAT,2024,"Which word is an adjective?","run","beautiful","jump","quickly",1
+1,NAT Grade 3,NAT,2024,"Which word is an adjective?","slow","tree","eat","book",0
+1,NAT Grade 3,NAT,2024,"Which word is a pronoun?","he","run","tree","red",0
+1,NAT Grade 3,NAT,2024,"Which word is a pronoun?","she","book","eat","blue",0
+1,NAT Grade 3,NAT,2024,"Which is a proper noun?","boy","Banjul","city","dog",1
+1,NAT Grade 3,NAT,2024,"Which is a proper noun?","Moses","table","school","teacher",0
+1,NAT Grade 3,NAT,2024,"Fill in: I ___ a student.","is","am","are","be",1
+1,NAT Grade 3,NAT,2024,"Fill in: She ___ my sister.","am","is","are","be",1
+1,NAT Grade 3,NAT,2024,"Fill in: They ___ playing football.","is","am","are","be",2
+1,NAT Grade 3,NAT,2024,"Fill in: We ___ in the same class.","is","am","are","be",2
+1,NAT Grade 3,NAT,2024,"Fill in: He ___ a doctor.","am","is","are","be",1
+1,NAT Grade 3,NAT,2024,"Fill in: The cat ___ on the mat.","am","is","are","be",1
+1,NAT Grade 3,NAT,2024,"Fill in: The boys ___ running.","is","am","are","be",2
+1,NAT Grade 3,NAT,2024,"Fill in: My mother ___ cooking.","is","am","are","be",0
+1,NAT Grade 3,NAT,2024,"Fill in: You ___ my friend.","is","am","are","be",2
+1,NAT Grade 3,NAT,2024,"Fill in: ___ is your name?","What","Who","Where","When",0
+1,NAT Grade 3,NAT,2024,"Fill in: ___ old are you?","What","How","Who","Where",1
+1,NAT Grade 3,NAT,2024,"Fill in: ___ is my school bag?","What","How","Where","When",2
+1,NAT Grade 3,NAT,2024,"Fill in: ___ is your birthday?","Where","Who","When","What",2
+1,NAT Grade 3,NAT,2024,"Fill in: ___ is that man? He is my father.","What","Who","Where","When",1
+1,NAT Grade 3,NAT,2024,"Fill in: The sun ___ in the east.","rise","rises","rising","rised",1
+1,NAT Grade 3,NAT,2024,"Fill in: She ___ to school every day.","go","goes","going","gone",1
+1,NAT Grade 3,NAT,2024,"Fill in: The baby ___ all night.","cry","cries","crying","cried",3
+1,NAT Grade 3,NAT,2024,"Fill in: We ___ our homework yesterday.","do","does","did","doing",2
+1,NAT Grade 3,NAT,2024,"Fill in: He ___ football last week.","play","plays","played","playing",2
+1,NAT Grade 3,NAT,2024,"Fill in: I ___ my teeth every morning.","brush","brushes","brushing","brushed",0
+1,NAT Grade 3,NAT,2024,"Choose the correct sentence.","I am a boy.","I a boy.","I is a boy.","Am a boy.",0
+1,NAT Grade 3,NAT,2024,"Choose the correct sentence.","She have a cat.","She has a cat.","She haves a cat.","She having a cat.",1
+1,NAT Grade 3,NAT,2024,"Choose the correct sentence.","They is happy.","They am happy.","They are happy.","They be happy.",2
+1,NAT Grade 3,NAT,2024,"Choose the correct sentence.","He go to school.","He goes to school.","He going to school.","He gone school.",1
+1,NAT Grade 3,NAT,2024,"Choose the correct sentence.","The dog bark.","The dog barks.","The dog barking.","The dog barked last.",1
+1,NAT Grade 3,NAT,2024,"Choose the correct question.","What is your name?","What your name?","What are your name?","What you name?",0
+1,NAT Grade 3,NAT,2024,"Choose the correct question.","Where you live?","Where do you live?","Where are you live?","Where live you?",1
+1,NAT Grade 3,NAT,2024,"Choose the correct question.","How old is you?","How old are you?","How old you are?","How are old you?",1
+1,NAT Grade 3,NAT,2024,"Choose the correct question.","Do you like mangoes?","You like mangoes?","Is you like mangoes?","You are like mangoes?",0
+1,NAT Grade 3,NAT,2024,"Which word rhymes with 'cat'?","cot","hat","cut","coat",1
+1,NAT Grade 3,NAT,2024,"Which word rhymes with 'day'?","do","play","dip","dot",1
+1,NAT Grade 3,NAT,2024,"Which word rhymes with 'ball'?","bell","tall","bill","boil",1
+1,NAT Grade 3,NAT,2024,"Which word rhymes with 'cake'?","cook","take","kick","cook",1
+1,NAT Grade 3,NAT,2024,"Which word rhymes with 'sing'?","song","ring","sung","sang",1
+1,NAT Grade 3,NAT,2024,"Which word rhymes with 'old'?","cold","odd","odd","only",0
+1,NAT Grade 3,NAT,2024,"Which word rhymes with 'sun'?","sin","run","son only","sunny",1
+1,NAT Grade 3,NAT,2024,"Which word rhymes with 'bed'?","bad","red","bid","bud",1
+1,NAT Grade 3,NAT,2024,"Which word rhymes with 'look'?","book","lake","leak","lick",0
+1,NAT Grade 3,NAT,2024,"Which word rhymes with 'bee'?","bake","tree","bow","buy",1
+1,NAT Grade 3,NAT,2024,"A person who teaches is a:","doctor","teacher","farmer","driver",1
+1,NAT Grade 3,NAT,2024,"A person who treats sick people is a:","teacher","doctor","trader","driver",1
+1,NAT Grade 3,NAT,2024,"A person who grows crops is a:","farmer","doctor","teacher","driver",0
+1,NAT Grade 3,NAT,2024,"A person who flies a plane is a:","driver","pilot","teacher","doctor",1
+1,NAT Grade 3,NAT,2024,"A person who sells goods in a shop is a:","teacher","shopkeeper","driver","farmer",1
+1,NAT Grade 3,NAT,2024,"A place where we learn is a:","market","school","hospital","church",1
+1,NAT Grade 3,NAT,2024,"A place where we buy food is a:","school","market","hospital","bank",1
+1,NAT Grade 3,NAT,2024,"A place where sick people go is a:","school","hospital","market","bank",1
+1,NAT Grade 3,NAT,2024,"A place where we keep money is a:","school","bank","market","hospital",1
+1,NAT Grade 3,NAT,2024,"A place where we swim is a:","field","pool","classroom","library",1

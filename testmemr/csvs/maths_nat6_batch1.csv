@@ -1,0 +1,99 @@
+subject_id,class_level,exam_type,year,question,option_a,option_b,option_c,option_d,correct_index
+6,NAT Grade 6,NAT,2024,"What is 234 + 156?","380","390","400","410",1
+6,NAT Grade 6,NAT,2024,"What is 500 + 456?","946","956","966","976",1
+6,NAT Grade 6,NAT,2024,"What is 1200 + 800?","1800","1900","2000","2100",2
+6,NAT Grade 6,NAT,2024,"What is 3456 + 1234?","4580","4680","4690","4790",2
+6,NAT Grade 6,NAT,2024,"What is 999 + 1?","99","100","1000","10000",2
+6,NAT Grade 6,NAT,2024,"What is 800 - 356?","444","454","454 only","434",0
+6,NAT Grade 6,NAT,2024,"What is 2000 - 750?","1150","1200","1250","1350",2
+6,NAT Grade 6,NAT,2024,"What is 5000 - 2345?","2645","2655","2665","2755",1
+6,NAT Grade 6,NAT,2024,"What is 100 - 45?","45","50","55","65",2
+6,NAT Grade 6,NAT,2024,"What is 1500 - 900?","500","550","600","700",2
+6,NAT Grade 6,NAT,2024,"What is 12 × 15?","150","160","170","180",3
+6,NAT Grade 6,NAT,2024,"What is 25 × 4?","90","95","100","110",2
+6,NAT Grade 6,NAT,2024,"What is 14 × 6?","74","80","84","86",2
+6,NAT Grade 6,NAT,2024,"What is 30 × 12?","300","320","350","360",3
+6,NAT Grade 6,NAT,2024,"What is 45 × 3?","125","130","135","145",2
+6,NAT Grade 6,NAT,2024,"What is 100 × 8?","80","800","8000","80000",1
+6,NAT Grade 6,NAT,2024,"What is 7 × 12?","72","84","86","96",1
+6,NAT Grade 6,NAT,2024,"What is 15 × 15?","200","215","225","235",2
+6,NAT Grade 6,NAT,2024,"What is 11 × 11?","111","121","131","141",1
+6,NAT Grade 6,NAT,2024,"What is 20 × 25?","400","450","500","550",2
+6,NAT Grade 6,NAT,2024,"What is 144 ÷ 12?","10","11","12","14",2
+6,NAT Grade 6,NAT,2024,"What is 360 ÷ 6?","50","55","60","66",2
+6,NAT Grade 6,NAT,2024,"What is 1000 ÷ 8?","105","110","120","125",3
+6,NAT Grade 6,NAT,2024,"What is 480 ÷ 12?","30","35","40","45",2
+6,NAT Grade 6,NAT,2024,"What is 225 ÷ 15?","12","13","14","15",3
+6,NAT Grade 6,NAT,2024,"What is 96 ÷ 8?","10","11","12","14",2
+6,NAT Grade 6,NAT,2024,"What is 144 ÷ 9?","12","14","16","18",2
+6,NAT Grade 6,NAT,2024,"What is 200 ÷ 25?","6","7","8","10",2
+6,NAT Grade 6,NAT,2024,"What is 500 ÷ 10?","5","50","500","5000",1
+6,NAT Grade 6,NAT,2024,"What is 1000 ÷ 20?","40","45","50","55",2
+6,NAT Grade 6,NAT,2024,"Which is a prime number?","4","7","9","15",1
+6,NAT Grade 6,NAT,2024,"Which is a prime number?","21","23","25","27",1
+6,NAT Grade 6,NAT,2024,"Which is NOT a prime number?","2","3","9","11",2
+6,NAT Grade 6,NAT,2024,"How many prime numbers are between 1 and 10?","3","4","5","6",1
+6,NAT Grade 6,NAT,2024,"Which of these is an even prime number?","1","2","3","4",1
+6,NAT Grade 6,NAT,2024,"What are the factors of 12?","1,2,3,4,6,12","1,2,4,12","2,3,6","1,12",0
+6,NAT Grade 6,NAT,2024,"What are the factors of 20?","1,2,4,5,10,20","1,2,10,20","2,4,5,20","1,20",0
+6,NAT Grade 6,NAT,2024,"What is the LCM of 3 and 4?","7","10","12","24",2
+6,NAT Grade 6,NAT,2024,"What is the LCM of 4 and 6?","10","12","18","24",1
+6,NAT Grade 6,NAT,2024,"What is the LCM of 5 and 6?","15","20","30","60",2
+6,NAT Grade 6,NAT,2024,"What is the HCF of 12 and 18?","2","3","6","9",2
+6,NAT Grade 6,NAT,2024,"What is the HCF of 20 and 30?","5","10","15","20",1
+6,NAT Grade 6,NAT,2024,"What is the HCF of 24 and 36?","6","8","12","18",2
+6,NAT Grade 6,NAT,2024,"What is the square of 7?","14","21","49","77",2
+6,NAT Grade 6,NAT,2024,"What is the square of 9?","18","27","81","99",2
+6,NAT Grade 6,NAT,2024,"What is the square root of 25?","4","5","6","7",1
+6,NAT Grade 6,NAT,2024,"What is the square root of 100?","10","20","50","100",0
+6,NAT Grade 6,NAT,2024,"What is 1/2 + 1/4?","1/6","2/6","3/4","1/8",2
+6,NAT Grade 6,NAT,2024,"What is 1/3 + 1/3?","1/6","2/3","1/9","2/6 only",1
+6,NAT Grade 6,NAT,2024,"What is 3/4 - 1/4?","1/2","2/4 only","1/4","3/8",2
+6,NAT Grade 6,NAT,2024,"What is 2/5 + 1/5?","3/10","3/5","2/10","1/5",1
+6,NAT Grade 6,NAT,2024,"What is 5/8 - 2/8?","3/16","3/8","7/8","2/8",1
+6,NAT Grade 6,NAT,2024,"Which fraction is equal to 1/2?","2/3","3/6","4/6","2/5",1
+6,NAT Grade 6,NAT,2024,"Which fraction is equal to 2/3?","4/5","4/6","5/6","2/5",1
+6,NAT Grade 6,NAT,2024,"What is 1/4 as a decimal?","0.14","0.25","0.4","1.4",1
+6,NAT Grade 6,NAT,2024,"What is 1/2 as a decimal?","0.2","0.5","1.2","2.0",1
+6,NAT Grade 6,NAT,2024,"What is 3/4 as a decimal?","0.34","0.5","0.75","3.4",2
+6,NAT Grade 6,NAT,2024,"What is 0.5 as a fraction?","1/2","1/5","5/10 only","1/50",0
+6,NAT Grade 6,NAT,2024,"What is 0.25 as a fraction?","1/2","1/4","1/5","2/5",1
+6,NAT Grade 6,NAT,2024,"What is 50% as a fraction?","1/4","1/2","1/5","2/5",1
+6,NAT Grade 6,NAT,2024,"What is 25% as a fraction?","1/2","1/4","1/5","2/5",1
+6,NAT Grade 6,NAT,2024,"What is 10% of 100?","1","10","20","100",1
+6,NAT Grade 6,NAT,2024,"What is 50% of 80?","20","30","40","50",2
+6,NAT Grade 6,NAT,2024,"What is 25% of 60?","10","12","15","20",2
+6,NAT Grade 6,NAT,2024,"What is 20% of 50?","5","10","15","20",1
+6,NAT Grade 6,NAT,2024,"What is 75% of 40?","10","20","30","35",2
+6,NAT Grade 6,NAT,2024,"Convert 0.6 to a percentage.","6%","16%","60%","600%",2
+6,NAT Grade 6,NAT,2024,"Convert 3/4 to a percentage.","30%","50%","60%","75%",3
+6,NAT Grade 6,NAT,2024,"Convert 1/5 to a percentage.","10%","20%","25%","50%",1
+6,NAT Grade 6,NAT,2024,"Which is greater?","0.5","0.45","0.05","0.405",0
+6,NAT Grade 6,NAT,2024,"Which is smaller?","0.3","0.03","0.33","0.303",1
+6,NAT Grade 6,NAT,2024,"What is the place value of 7 in 3.75?","7","0.7","0.07","0.007",1
+6,NAT Grade 6,NAT,2024,"Arrange from smallest to largest: 0.5, 0.05, 0.55, 0.505","0.05, 0.5, 0.505, 0.55","0.5, 0.05, 0.55, 0.505","0.55, 0.5, 0.505, 0.05","0.505, 0.55, 0.5, 0.05",0
+6,NAT Grade 6,NAT,2024,"What is the sum of angles in a triangle?","90°","180°","270°","360°",1
+6,NAT Grade 6,NAT,2024,"What is the sum of angles in a quadrilateral?","180°","270°","360°","540°",2
+6,NAT Grade 6,NAT,2024,"A right angle measures:","45°","90°","180°","360°",1
+6,NAT Grade 6,NAT,2024,"A straight angle measures:","45°","90°","180°","360°",2
+6,NAT Grade 6,NAT,2024,"An angle less than 90° is called:","Acute","Right","Obtuse","Straight",0
+6,NAT Grade 6,NAT,2024,"An angle greater than 90° but less than 180° is:","Acute","Right","Obtuse","Straight",2
+6,NAT Grade 6,NAT,2024,"What is the perimeter of a rectangle 8 cm by 5 cm?","13 cm","21 cm","26 cm","40 cm",2
+6,NAT Grade 6,NAT,2024,"What is the area of a rectangle 8 cm by 5 cm?","13 cm²","26 cm²","40 cm²","80 cm²",2
+6,NAT Grade 6,NAT,2024,"What is the perimeter of a square with side 6 cm?","12 cm","18 cm","24 cm","36 cm",2
+6,NAT Grade 6,NAT,2024,"What is the area of a square with side 6 cm?","12 cm²","24 cm²","36 cm²","48 cm²",2
+6,NAT Grade 6,NAT,2024,"What is the area of a triangle with base 10 cm and height 4 cm?","14 cm²","20 cm²","40 cm²","28 cm²",1
+6,NAT Grade 6,NAT,2024,"A triangle has sides 5 cm, 6 cm, 7 cm. Perimeter?","15 cm","17 cm","18 cm","20 cm",2
+6,NAT Grade 6,NAT,2024,"How many centimetres are in 2.5 metres?","25","250","2500","25000",1
+6,NAT Grade 6,NAT,2024,"How many metres are in 3 kilometres?","30","300","3000","30000",2
+6,NAT Grade 6,NAT,2024,"How many grams are in 2.5 kilograms?","25","250","2500","25000",2
+6,NAT Grade 6,NAT,2024,"How many millilitres in 3 litres?","30","300","3000","30000",2
+6,NAT Grade 6,NAT,2024,"1 hour 30 minutes = ___ minutes.","60","80","90","100",2
+6,NAT Grade 6,NAT,2024,"2 hours 15 minutes = ___ minutes.","105","115","125","135",3
+6,NAT Grade 6,NAT,2024,"If a film starts at 7:30pm and lasts 2 hours, when does it end?","9:00pm","9:30pm","10:00pm","10:30pm",1
+6,NAT Grade 6,NAT,2024,"If school starts at 8:00 and ends at 1:30pm, how long?","4 hrs 30 min","5 hrs","5 hrs 30 min","6 hrs",2
+6,NAT Grade 6,NAT,2024,"Express 3 days in hours.","36","48","72","96",2
+6,NAT Grade 6,NAT,2024,"Convert 120 seconds to minutes.","1","2","3","4",1
+6,NAT Grade 6,NAT,2024,"What is the average of 4, 6, 8?","5","6","7","8",1
+6,NAT Grade 6,NAT,2024,"What is the average of 10, 20, 30?","15","20","25","30",1
+6,NAT Grade 6,NAT,2024,"What is the average of 5, 10, 15, 20?","10","12","12.5","15",2

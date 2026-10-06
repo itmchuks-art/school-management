@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f1f5ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#1e3a8a" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <!-- Rounded card background -->
+  <rect x="10" y="10" width="380" height="200" rx="24"
+        fill="url(#bg)" stroke="#e5e7eb" stroke-width="2" filter="url(#shadow)"/>
+
+  <!-- Gambian flag (5 stripes) -->
+  <g transform="translate(40, 32)">
+    <rect x="0" y="0"  width="60" height="11" fill="#CE1126"/>
+    <rect x="0" y="11" width="60" height="5"  fill="#FFFFFF"/>
+    <rect x="0" y="16" width="60" height="11" fill="#0C1E7F"/>
+    <rect x="0" y="27" width="60" height="5"  fill="#FFFFFF"/>
+    <rect x="0" y="32" width="60" height="11" fill="#3A7728"/>
+    <rect x="0" y="0"  width="60" height="43" fill="none"
+          stroke="#111827" stroke-width="1" opacity="0.4"/>
+  </g>
+
+  <!-- Main title -->
+  <text x="120" y="70"
+        font-family="'Segoe UI', 'Helvetica', Arial, sans-serif"
+        font-size="34" font-weight="800" fill="#0f172a">
+    Test Me Mr
+  </text>
+
+  <!-- Database name -->
+  <text x="120" y="95"
+        font-family="'Segoe UI', 'Helvetica', Arial, sans-serif"
+        font-size="15" font-weight="600" fill="#2563eb" letter-spacing="3">
+    NAT PRACTICE TEST.
+  </text>
+
+  <!-- Divider -->
+  <line x1="40" y1="120" x2="360" y2="120" stroke="#e5e7eb" stroke-width="1.5"/>
+
+  <!-- Tagline -->
+  <text x="40" y="148"
+        font-family="'Segoe UI', 'Helvetica', Arial, sans-serif"
+        font-size="14" fill="#4b5563">
+    NAT Practice Tests for All Grades
+  </text>
+
+  <!-- Sub caption -->
+  <text x="40" y="176"
+        font-family="'Segoe UI', 'Helvetica', Arial, sans-serif"
+        font-size="12" fill="#9ca3af">
+    Be the best of what you are. 
+  </text>
+
+  <!-- Flag-colored accent dots -->
+  <circle cx="360" cy="180" r="8" fill="#3A7728"/>
+  <circle cx="345" cy="180" r="8" fill="#0C1E7F"/>
+  <circle cx="330" cy="180" r="8" fill="#CE1126"/>
+</svg>
